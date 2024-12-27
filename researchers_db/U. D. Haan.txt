@@ -1,0 +1,39 @@
+2012: From Snipers to Scanners: Market Entry Decisions in Emerging Organizations
+Abstract: This study contributes to the theory of organizational emergence by observing one of the most profound decisions in new venture creation--which markets to pursue. While current literature widely as...
+
+2012: University Technology Transfer through Student and Faculty Entrepreneurship
+Abstract: Prior research on technology transfer and entrepreneurship at universities has neglected the important role that student entrepreneurship plays in the technology transfer process. This study aims t...
+
+2011: The Land of Milk, Honey and Ideas: What Makes Israel a Hotbed for Entrepreneurship and Innovation?
+Abstract: None
+
+2011: The Israel Case of Science and Technology Based Entrepreneurship: An Exploration Cluster
+Abstract: None
+
+2011: KISSING SEVERAL FROGS IN THE SEARCH FOR A PRINCE: EMPIRICAL EXAMINATION OF THE PROCESS OF LINKING TECHNOOGY TO MARKETS FOR EMERGING FIRMS (SUMMARY)
+Abstract: None
+
+2010: A Software System Development Life Cycle Model for Improved Stakeholders' Communication and Collaboration
+Abstract: Software vendors and entrepreneurs, who try to introduce an innovative software product to a specific organization or an entire market, enter a long and tedious process. During this process, the market and various organizations evaluate the product from different perspectives, such as software robustness, manufacturer reliability, and corporate need for the product. The vendors and entrepreneurs engaged in this process encounter decision crossroads for which no relevant guidance exists in the literature. The research closely monitored the processes associated with the introduction and assimilation of an innovative off-the-shelf (OTS) software product into five different organizations in different vertical market segments. Observations were carried out to assess organizational and marketing processes and to document and analyze what the software product undergoes before it is accepted for acquisition or full implementation within the organization. The research outcomes offer a unified, collaborative multi-tier System Development Life Cycle (SDLC) framework and methodology for packaged OTS software products that greatly improves communication and collaboration among the stakeholders. Each tier addresses a different force or stakeholder involved in the software market: vendor, customer, consultants and integrators. All stakeholders refer to the same time-line thus; tasks of various stakeholders are streamlined. Adherence to the unified time-line brings about an increased amount of stakeholder interaction, communication and collaboration. Newly found tasks that improve communication and collaboration among stakeholders include (1) offering of the OTS software product together with personnel as a bundle, (2) an improvisation-intensive iterative task of weaving potential customers’ requirements into the prototype, and (3) a third sale milestone, representing the successful diffusion of the product. The significance of this interdisciplinary research stems from its unique position at a crossroad between software engineering, marketing, and business administration, which has not yet been sufficiently explored or cultivated.
+
+2010: Overcoming obstacles encountered on the way to commercialize university IP
+Abstract: None
+
+2010: Corporate Exploration Competence and the Entrepreneurial Enterprise
+Abstract: None
+
+2008: A hotbed for entrepreneurship and innovation: looking for success factors in Israel's High-Tech Clusters
+Abstract: None
+
+2007: The Role of Improvisation in Off-the-Shelf Software Development of Entrepreneurial Vendors
+Abstract: Improvisation has been discussed to some extent in the innovation and entrepreneurship literature with regard to processes and tasks performed by entrepreneurs when faced with uncertainty, such as in organizational learning in uncertain technology environments, in the decision making process, and in the founding process. The role of improvisation has also been discussed with regard to software organizations arid software development and the various tasks performed by the development heads and teams. Hence, to make this connection between the software development process, improvisation and entrepreneurs, this research reports the observations made in a multiple case study scene of an entrepreneurial vendor of off-the-shelf software. Through these observations, a new form of software development emerged. This form, lead-driven development is based upon improvisation of the software development processes by entrepreneurial vendors who improvise new product features and bug-fixes based on leads they pick up from one marketing meeting or demonstration to the next one. This type of development, although not very beneficial in the long run for the product's commercial development tailors demo features specifically to potential customers' needs. Thus, the chances to satisfy potential customers' needs through the product's associated benefits and features, improve. We discuss in length how the improvisation is employed and recommend, a software development task path based upon it. We bring figures to demonstrate how lead driven development has been found to be beneficial to vendors. Following the suggested model for software development for entrepreneurial vendors, we introduce a theoretical framework from the Innovation literature and by the use of knowledge gathered from the case studies conducted we explain how vendors may achieve an improved level of software development improvisational skills.
+
+2006: ENTREPRENEURIAL TEAMS AND THE OPPORTUNITY RECOGNITION PROCESS (SUMMARY)
+Abstract: None
+
+1979: The measurements of autonomy and technology for task svstems design
+Abstract: Numerous experiments in job enlargement, direct worker participation and autonomous workgroups have been reported. However, little cumulative knowledge has been gained through a lack of conceptual and theoretical bases. Moreover, worker autonomy and technology, the major variables in those experiments either were measured by questioning workers and supervisors and are consequently modified by their perception, or were measured in a very broad fashion. In the present work more objective and specific measures for technology and autonomy, which can link job design research and experiments with job design practice, were developed and validated. Automony and technology are of course multidimensional concepts. Relevant aspects for job design are derived from a model for task related decision making which shows that the degree of worker autonomy is contingent on task technology and worker characteristics. Technology is measured by cycle time, task repetitiveness, task skill level, disturbance level of a task and...
+
+1977: Autonomous task decision-making and its implications for job design
+Abstract: This paper describes a model for task related decision-making. A distinction is made between three types of task decisions: boundary control decisions, which related the task system to its environment; intrasystem control decisions, which determine the means of performing the assigned tasks; and regulation decisions, which counteract disturbances that may affect task performance. Propositions for autonomous decision-making by the task performer under various conditions, derived from the model, were confirmed through extensive investigations of actual workstations. Implications of research findings on job design are also discussed.
+

@@ -1,0 +1,94 @@
+2016: Towards Robust Multiagent Plans
+Abstract: Abstract : This project, titled Towards Robust Multiagent Plans with its extension Domain-Independent Multiagent Planning: Models, Stability, and Complexity focused on theoretical and applied research in field of multiagent planning in dynamic environments. The objective of the project was to connect, both formally and empirically, the developments in domain-specific multiagent planning and the concepts of generic, domain-independent problem solving and propose solutions and techniques robust to uncertainty, dynamism and non-determinism of environments modeled closely to real world. This final report summarizes general overview of the project, achievements of the project mostly in the form of published research work, and describes the demonstrator. The research work in the project comprised of four accepted and one submitted journal publication aiming at advanced techniques for multiagent plan repair, simple regret optimization in online planning, oversubscription planning, and a submitted journal article on novel type of multi-heuristic search for multiagent planning together with overview of the Multiagent Distributed and Local Asynchronous (MADLA) planner. Furthermore, eight accepted papers at the top artificial intelligence and planning conferences focused on fault tolerant planning and interruptible exploration technique usable in Monte-Carlo tree search algorithms. The submitted and accepted workshop papers provided good ground for valuable discussion at the specific research forums and propagated the work.
+
+2016: Blind Search for Atari-Like Online Planning Revisited
+Abstract: Similarly to the classical AI planning, the Atari 2600 games supported in the Arcade Learning Environment all feature a fully observable (RAM) state and actions that have deterministic effect. At the same time, the problems in ALE are given only implicitly, via a simulator, a priori precluding exploiting most of the modern classical planning techniques. Despite that, Lipovetzky et al. [2015] recently showed how online planning for Atari-like problems can be effectively addressed using IW(i), a blind state-space search algorithm that employs a certain form of structural similarity-based pruning. We show that the effectiveness of the blind state-space search for Atari-like online planning can be pushed even further by focusing the search using both structural state similarity and the relative myopic value of the states. We also show that the planning effectiveness can be further improved by considering online planning for the Atari games as a multiarmed bandit style competition between the various actions available at the state planned for, and not purely as a classical planning style action sequence optimization problem.
+
+2015: Red-black planning: A new systematic approach to partial delete relaxation
+Abstract: None
+
+2015: Deterministic Oversubscription Planning as Heuristic Search: Abstractions and Reformulations
+Abstract: While in classical planning the objective is to achieve one of the equally attractive goal states at as low total action cost as possible, the objective in deterministic oversubscription planning (OSP) is to achieve an as valuable as possible subset of goals within a fixed allowance of the total action cost. Although numerous applications in various fields share the latter objective, no substantial algorithmic advances have been made in deterministic OSP. Tracing the key sources of progress in classical planning, we identify a severe lack of effective domain-independent approximations for OSP. 
+ 
+With our focus here on optimal planning, our goal is to bridge this gap. Two classes of approximation techniques have been found especially useful in the context of optimal classical planning: those based on state-space abstractions and those based on logical landmarks for goal reachability. The question we study here is whether some similar-in-spirit, yet possibly mathematically different, approximation techniques can be developed for OSP. In the context of abstractions, we define the notion of additive abstractions for OSP, study the complexity of deriving effective abstractions from a rich space of hypotheses, and reveal some substantial, empirically relevant islands of tractability. In the context of landmarks, we show how standard goal-reachability landmarks of certain classical planning tasks can be compiled into the OSP task of interest, resulting in an equivalent OSP task with a lower cost allowance, and thus with a smaller search space. Our empirical evaluation confirms the effectiveness of the proposed techniques, and opens a wide gate for further developments in oversubscription planning.
+
+2015: From Fork Decoupling to Star-Topology Decoupling
+Abstract: 
+ 
+ Fork decoupling is a recent approach to exploiting problem structure in state space search. The problem is assumed to take the form of a fork, where a single (large) center component provides preconditions for several (small) leaf components. The leaves are then conditionally independent in the sense that, given a fixed center path p, the compliant leaf moves - those leaf moves enabled by the preconditions supplied along p - can be scheduled independently for each leaf. Fork-decoupled state space search exploits this through conducting a regular search over center paths, augmented with maintenance of the compliant paths for each leaf individually. We herein show that the same ideas apply to much more general star-topology structures, where leaves may supply preconditions for the center, and actions may affect several leaves simultaneously as long as they also affect the center. Our empirical evaluation in planning, super-imposing star topologies by automatically grouping the state variables into suitable components, shows the merits of the approach.
+ 
+
+
+2015: On Interruptible Pure Exploration in Multi-Armed Bandits
+Abstract: 
+ 
+ Interruptible pure exploration in multi-armed bandits (MABs) is a key component of Monte-Carlo tree search algorithms for sequential decision problems. We introduce Discriminative Bucketing (DB), a novel family of strategies for pure exploration in MABs, which allows for adapting recent advances in non-interruptible strategies to the interruptible setting, while guaranteeing exponential-rate performance improvement over time. Our experimental evaluation demonstrates that the corresponding instances of DB favorably compete both with the currently popular strategies UCB1 and Epsilon-Greedy, as well as with the conservative uniform sampling.
+ 
+
+
+2014: Landmarks in Oversubscription Planning
+Abstract: In the basic setup of oversubscription planning (OSP), the objective is to achieve an as valuable as possible subset of goals within a fixed allowance of the total action cost [32]. Continuing from the recent successes in exploiting logical goal-reachability landmarks in classical planning, we develop a framework for exploiting such landmarks in heuristic-search OSP. We show how standard landmarks of certain classical planning tasks can be compiled into the OSP task of interest, resulting in an equivalent OSP task with a lower budget, and thus with a smaller search space. We then show how such landmark-based task enrichment can be combined in a mutually stratifying way with the BFBB search used for OSP planning. Our empirical evaluation confirms the effectiveness of the proposed landmark-based budget reduction scheme.
+
+2014: Generic Preferences over Subsets of Structured Objects
+Abstract: Various tasks in decision making and decision support systems require selecting a preferred subset of a given set of items. Here we focus on problems where the individual items are described using a set of characterizing attributes, and a generic preference specification is required, that is, a specification that can work with an arbitrary set of items. For example, preferences over the content of an online newspaper should have this form: At each viewing, the newspaper contains a subset of the set of articles currently available. Our preference specification over this subset should be provided offline, but we should be able to use it to select a subset of any currently available set of articles, e.g., based on their tags. We present a general approach for lifting formalisms for specifying preferences over objects with multiple attributes into ones that specify preferences over subsets of such objects. We also show how we can compute an optimal subset given such a specification in a relatively efficient manner. We provide an empirical evaluation of the approach as well as some worst-case complexity results.
+
+2014: On Robustness of CMAB Algorithms: Experimental Approach
+Abstract: None
+
+2014: Integrating Task and Motion Planning for Unmanned Aerial Vehicles
+Abstract: This paper investigates the problem where a fixed-winged unmanned aerial vehicle is required to find the shortest flyable path to traverse over multiple targets. The unmanned aerial vehicle is modeled as a Dubins vehicle: a vehicle with a minimum turn radius and the inability to go backward. This problem is called the Dubins traveling salesman problem, an extension of the well-known traveling salesman problem. We propose and compare different algorithms that integrate the task planning and the motion planning aspects of the problem, rather than treating the two separately. An upper bound on calculating kinematic satisfying paths for setting costs in the search algorithm is investigated. The proposed integrated algorithms are compared to hierarchical algorithms that solve the search aspect first and then solve the motion planning aspect second. Monte Carlo simulations are performed for a range of vehicle turn radii. The simulations results show the viability of the integrated approach and that using two plausible kinematic satisfying paths as an upper bound to determine the cost-so-far into a search algorithm generally improves performance in terms of the shortest path cost and search complexity.
+
+2014: On MABs and Separation of Concerns in Monte-Carlo Planning for MDPs
+Abstract: 
+ 
+ Linking online planning for MDPs with their special case of stochastic multi-armed bandit problems, we analyze three state-of-the-art Monte-Carlo tree search al-gorithms: UCT, BRUE, and MaxUCT. Using the outcome, we (i) introduce two new MCTS algorithms,MaxBRUE, which combines uniform sampling with Bellman backups, and MpaUCT, which combines UCB1with a novel backup procedure, (ii) analyze them formally and empirically, and (iii) show how MCTS algorithms can be further stratified by an exploration control mechanism that improves their empirical performance without harming the formal guarantees.
+ 
+
+
+2014: On Combinatorial Actions and CMABs with Linear Side Information
+Abstract: Online planning algorithms are typically a tool of choice for dealing with sequential decision problems in combinatorial search spaces. Many such problems, however, also exhibit combinatorial actions, yet standard planning algorithms do not cope well with this type of "the curse of dimensionality." Following a recently opened line of related work on combinatorial multi-armed bandit (CMAB) problems, we propose a novel CMAB planning scheme, as well as two specific instances of this scheme, dedicated to exploiting what is called linear side information. Using a representative strategy game as a benchmark, we show that the resulting algorithms very favorably compete with the state-of-the-art.
+
+2014: Monte-Carlo Tree Search: To MC or to DP?
+Abstract: State-of-the-art Monte-Carlo tree search algorithms can be parametrized with any of the two information updating procedures: MC-backup and DP-backup. The dynamics of these two procedures is very different, and so far, their relative pros and cons have been poorly understood. Formally analyzing the dependency of MC-and DP-backups on various MDP parameters, we reveal numerous important issues that get hidden by the worst-case bounds on the algorithm performance, and reconfirm these findings by a systematic experimental test.
+
+2014: Multi-Agent Coordination Off-Line: Structure and Complexity
+Abstract: Coordination between processing entities is one of the most widely studied areas in multi-agent planning research. Recently, efforts have been made to understand the formal computational issues of this important area. In this paper, we make a step toward this direction, and analyze a certain class of coordination problems for dependent agents with independent goals acting in the same environment. We assume that a state-transition description of each agent is given, and that preconditioning an agent's transitions by the states of other agents is the only considered kind of inter-agent dependence. Off-line coordination between the agents is considered. We analyze some structural properties of these problems, and investigate the relationship between these properties and the complexity of coordination in this domain. We show that our general problem is provably intractable, but some significant subclasses are in NP and even polynomial.
+
+2013: Abstractions for Oversubscription Planning
+Abstract: 
+ 
+ In deterministic OSP, the objective is to achieve an as valuable as possible subset of goals within a fixed allowance of the total action cost. Although numerous applications in various fields share this objective, no substantial algorithmic advances have been made beyond the very special settings of net-benefit optimization. Tracing the key sources of progress in classical planning, we identify a severe lack of domain-independent approximations for OSP, and start with investigating the prospects of abstraction approximations for this problem. In particular, we define the notion of additive abstractions for OSP, study the complexity of deriving effective abstractions from a rich space of hypotheses, and reveal some  substantial, empirically relevant islands of tractability.
+ 
+
+
+2013: Symmetry Breaking: Satisficing Planning and Landmark Heuristics
+Abstract: 
+ 
+ Searching for computational tools that can further push the boundary of satisficing planning, we show that reasoning about state-space symmetries can substantially improve even the most effective heuristic-search satisficing planners, with respect to all standard performance measures. The improvement comes from the state-space pruning, as well as from transparent cost-to-state updates and heuristic enhancement by information obtained during the search at different symmetric states.
+ 
+
+
+2013: The Complexity of Optimal Monotonic Planning: The Bad, The Good, and The Causal Graph
+Abstract: 
+ 
+ For almost two decades, monotonic, or ``delete free,'' relaxation has been one of the key auxiliary tools in the practice of domain-independent deterministic planning. In the particular contexts of both satisficing and optimal planning, it  underlies most state-of-the-art heuristic functions. While satisficing planning for monotonic tasks is polynomial-time, optimal planning for monotonic tasks is NP-equivalent. We took a step towards a fine-grained classification of worst-case time complexity of optimal monotonic planning, with a focus on ``what gets harder" and ``what gets easier" when switching from optimal planning to optimal relaxed planning, in the context of finite-domain planning task representations.
+ 
+
+
+2013: Optimal Planning and Shortcut Learning : An Unfulfilled Promise
+Abstract: An existential optimal landmark is a set of actions, one of which must be used in some optimal plan. Recently, Karpas and Domshlak (2012) introduced a technique for deriving such existential optimal landmarks, which is based on using shortcut rules — rules which take a path, and attempt to find a cheaper path that achieves some of the propositions that the original path achieved. The shortcut rules that were originally used were of a limited form, and only attempted to remove parts of the given path. One would expect that using more sophisticated shortcut rules would result in a more informative heuristic, although possibly at the cost of increased computation time. We show that, somewhat surprisingly, more sophisticated shortcut rules, which are learned online, during search, result in a very small increase in informativeness on IPC benchmarks. Together with the increased computational cost, this leads to a decrease in the number of problems solved, and leaves finding efficient, informative shortcut rules as a standing challenge.
+
+2013: Who Said We Need to Relax All Variables?
+Abstract: 
+ 
+ Despite its success in both satisficing and optimal planning, thedelete relaxation has significant pitfalls in many important classesof planning domains, and it has been a challenge from the outset todevise heuristics that take some deletes into account. Weherein devise an elegant and simple method for doing just that. In thecontext of finite-domain state variables, we define red variables to take the relaxed semantics, in which they accumulate their values rather than switching between them, as opposed to black variables that take the regular semantics. Red-black planning then interpolates between relaxed planning and regular planning simply by allowing a subset of variables to be painted red. Of course, this relaxation is useful as a basis for devising heuristic functions only if the resulting red-black planning task is polynomial-time solvable. We herein investigate the tractability region of red-black planning, extending Chen and Gimenez' characterization theorems for regular planning to the more generalred-black setting. In particular, we identify significant islands of tractable red-black planning, opening the road to the efficient computation of very powerful heuristics.
+ 
+
+
+2013: Data-Parallel Computing Meets STRIPS
+Abstract: 
+ 
+ The increased demand for distributed computations on “big data” has led to solutions such as SCOPE, DryadLINQ, Pig, and Hive, which allow the user to specify queries in an SQL-like language, enriched with sets of user-defined operators. The lack of exact semantics for user-defined operators interferes with the query optimization process, thus putting the burden of suggesting, at least partial, query plans on the user. In an attempt to ease this burden, we propose a formal model that allows for data-parallel program synthesis (DPPS) in a semantically well-defined manner. We show that this model generalizes existing frameworks for data-parallel computation, while providing the flexibility of query plan generation that is currently absent from these frameworks. In particular, we show how existing, off-the-shelf, AI planning tools can be used for solving DPPS tasks.
+ 
+
+

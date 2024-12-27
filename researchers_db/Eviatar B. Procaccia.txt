@@ -1,0 +1,71 @@
+2024: Minimal harmonic measure on 2D lattices
+Abstract: We study the harmonic measure (i.e. the limit of the hitting distribution of a simple random walk starting from a distant point) on three canonical two-dimensional lattices: the square lattice $\mathbb{Z}^2$, the triangular lattice $\mathscr{T}$ and the hexagonal lattice $\mathscr{H}$. In particular, for the least positive value of the harmonic measure of any $n$-point set, denoted by $\mathscr{M}_n(\mathscr{G})$, we prove in this paper that $$[\lambda(\mathscr{G})]^{-n+c\sqrt{n}} \le \mathscr{M}_n(\mathscr{G})\le [\lambda(\mathscr{G})]^{-n+C\sqrt{n}},$$ where $\lambda(\mathbb{Z}^2)=(2+\sqrt{3})^2$, $\lambda(\mathscr{T})=3+2\sqrt{2}$ and $\lambda(\mathscr{H})=(\tfrac{3+\sqrt{5}}{2})^3$. Our results confirm a stronger version of the conjecture proposed by Calvert, Ganguly and Hammond (2023) which predicts the asymptotic of the exponent of $\mathscr{M}_n(\mathbb{Z}^2)$. Moreover, these estimates also significantly extend the findings in our previous paper with Kozma (2023) that $\mathscr{M}_n(\mathscr{G})$ decays exponentially for a large family of graphs $\mathscr{G}$ including $\mathscr{T}$, $\mathscr{H}$ and $\mathbb{Z}^d$ for all $d\ge 2$.
+
+2024: The Double Bubble Problem in the Hexagonal Norm
+Abstract: We study the double bubble problem where the perimeter is taken with respect to the hexagonal norm, i.e. the norm whose unit circle in $\mathbb{R}^2$ is the regular hexagon. We provide an elementary proof for the existence of minimizing sets for volume ratio parameter $\alpha\in (0,1]$ by arguing that any minimizer must belong to a small family of parameterized sets. This family is further simplified by showing that $60^{\circ}$ angles are not optimal as well as other geometric exclusions. We then provide a minimizer for all $\alpha\in(0,1]$ except at a single point, for which we find two minimizing configurations.
+
+2023: Discrete ℓ 1 Double Bubble Solution is at Most Ceiling Plus Two of the Continuous Solution
+Abstract: None
+
+2023: Cylindrical Hastings Levitov
+Abstract: We define a Hastings-Levitov$(0)$ process on a cylinder and prove that the process converges to Stationary Hastings Levitov$(0)$ under appropriate particle size scaling that depends on the radius of the cylinder. The Stationary Hastings Levitov$(0)$ was shown by Berger, Procaccia and Turner to admit tight particle sizes, without a priori particle size normalization, thus it serves as a good model for the phenomenon of diffusion limited aggregation. Technical challenge, in this paper, is in taking the spatial limit together with the correct slit map normalization. This result also shows that the early life of the Hastings Levitov$(0)$ process in the small particle limit, spatially scaled so the slits have unit length, behaves like the Stationary Hastings Levitov$(0)$.
+
+2023: Vertex-removal stability and the least positive value of harmonic measures
+Abstract: We prove that for $\mathbb{Z}^d$ ($d\ge 2$), the vertex-removal stability of harmonic measures (i.e. it is feasible to remove some vertex while changing the harmonic measure by a bounded factor) holds if and only if $d=2$. The proof mainly relies on geometric arguments, with a surprising use of the discrete Klein bottle. Moreover, a direct application of this stability verifies a conjecture of Calvert, Ganguly and Hammond [9] for the exponential decay of the least positive value of harmonic measures on $\mathbb{Z}^2$. Furthermore, the analogue of this conjecture for $\mathbb{Z}^d$ with $d\ge 3$ is also proved in this paper, despite vertex-removal stability no longer holding.
+
+2023: Double seminar
+Abstract: : Consider the following stochastic model for a growing set. At time 0 the model consists of the singleton S = {-infty}. At every subsequent time, two i.i.d. samples, distributed according to some distribution D on R, are suggested as candidates for S. If the smaller among the two is closer to at least a fraction of r of the current elements of S (in comparison with the larger one), then it is admitted into S.
+
+2022: of a quantile
+Abstract: : Consider the following stochastic model for a growing set. At time 0 the model consists of the singleton S = {-infty}. At every subsequent time, two i.i.d. samples, distributed according to some distribution D on R, are suggested as candidates for S. If the smaller among the two is closer to at least a fraction of r of the current elements of S (in comparison with the larger one), then it is admitted into S. Tennenholtz of an exclusive We'll show the empirical distribution of the elements of S converges to a (not-necessarily deterministic) limit distribution for any r and D. This we do by relating the process to a random walk in changing environment. The analysis of this random walk involves various classical exponential concentration inequalities as well as a new general inequality concerning mean and minimum of independent random variables. Abstract : We prove a discrete Beurling estimate for the harmonic measure in a wedge in $\mathbf{Z}^2$, and use it to show that Diffusion Limited Aggregation (DLA) in a wedge of angle smaller than $\pi/4$ stabilizes. This allows to consider the infinite DLA and questions about the number of arms, growth and dimension. I will present some conjectures and open problems.
+
+2022: of a quantile
+Abstract: : Consider the following stochastic model for a growing set. At time 0 the model consists of the singleton S = {-infty}. At every subsequent time, two i.i.d. samples, distributed according to some distribution D on R, are suggested as candidates for S. If the smaller among the two is closer to at least a fraction of r of the current elements of S (in comparison with the larger one), then it is admitted into S. Tennenholtz evolution of an exclusive social We'll show that the empirical distribution of the elements of S converges to a (not-necessarily deterministic) limit distribution for any r and D. This we do by relating the process to a random walk in changing environment. The analysis of this random walk involves various classical exponential concentration inequalities as well as a new general inequality concerning mean and minimum of independent random variables. Abstract : We prove a discrete Beurling estimate for the harmonic measure in a wedge in $\mathbf{Z}^2$, and use it to show that Diffusion Limited Aggregation (DLA) in a wedge of angle smaller than $\pi/4$ stabilizes. This allows to consider the infinite DLA and questions about the number of arms, growth and dimension. I will present some conjectures and open problems.
+
+2022: A toy model for DLA arm growth in a wedge
+Abstract: . In this paper, we consider a non-homogeneous discrete-time Markov chain which can be seen as a toy model for the growth of the arms of the DLA (Diﬀusion limited aggregation) process in a sub-linear wedge. It is conjectured that in a thin enough linear wedge there is only one inﬁnite arm in the DLA cluster and we demonstrate this phenomenon in our model. The technique follows a bootstrapping argument, in which we iteratively prove ever faster growth rate.
+
+2022: An Elementary Proof for the Double Bubble Problem in 
+              
+                
+              
+              $$\ell ^1$$
+              
+                
+                  ℓ
+                  1
+                
+              
+             Norm
+Abstract: None
+
+2022: of a quantile
+Abstract: : Consider the following stochastic model for a growing set. At time 0 the model consists of the singleton S = {-infty}. At every subsequent time, two i.i.d. samples, distributed according to some distribution D on R, are suggested as candidates for S. If the smaller among the two is closer to at least a fraction of r of the current elements of S (in comparison with the larger one), then it is admitted into S. Tennenholtz evolution of an exclusive social We'll show that the empirical distribution of the elements of S converges to a (not-necessarily deterministic) limit distribution for any r and D. This we do by relating the process to a random walk in changing environment. The analysis of this random walk involves various classical exponential concentration inequalities as well as a new general inequality concerning mean and minimum of independent random variables. Abstract : We prove a discrete Beurling estimate for the harmonic measure in a wedge in $\mathbf{Z}^2$, and use it to show that Diffusion Limited Aggregation (DLA) in a wedge of angle smaller than $\pi/4$ stabilizes. This allows to consider the infinite DLA and questions about the number of arms, growth and dimension. I will present some conjectures and open problems.
+
+2022: of a quantile
+Abstract: : Consider the following stochastic model for a growing set. At time 0 the model consists of the singleton S = {-infty}. At every subsequent time, two i.i.d. samples, distributed according to some distribution D on R, are suggested as candidates for S. If the smaller among the two is closer to at least a fraction of r of the current elements of S (in comparison with the larger one), then it is admitted into S. Tennenholtz evolution of an exclusive social We'll show that the empirical distribution of the elements of S converges to a (not-necessarily deterministic) limit distribution for any r and D. This we do by relating the process to a random walk in changing environment. The analysis of this random walk involves various classical exponential concentration inequalities as well as a new general inequality concerning mean and minimum of independent random variables. Abstract : We prove a discrete Beurling estimate for the harmonic measure in a wedge in $\mathbf{Z}^2$, and use it to show that Diffusion Limited Aggregation (DLA) in a wedge of angle smaller than $\pi/4$ stabilizes. This allows to consider the infinite DLA and questions about the number of arms, growth and dimension. I will present some conjectures and open problems.
+
+2022: of a quantile
+Abstract: : Consider the following stochastic model for a growing set. At time 0 the model consists of the singleton S = {-infty}. At every subsequent time, two i.i.d. samples, distributed according to some distribution D on R, are suggested as candidates for S. If the smaller among the two is closer to at least a fraction of r of the current elements of S (in comparison with the larger one), then it is admitted into S. Tennenholtz evolution of an exclusive social We'll show that the empirical distribution of the elements of S converges to a (not-necessarily deterministic) limit distribution for any r and D. This we do by relating the process to a random walk in changing environment. The analysis of this random walk involves various classical exponential concentration inequalities as well as a new general inequality concerning mean and minimum of independent random variables. Abstract : We prove a discrete Beurling estimate for the harmonic measure in a wedge in $\mathbf{Z}^2$, and use it to show that Diffusion Limited Aggregation (DLA) in a wedge of angle smaller than $\pi/4$ stabilizes. This allows to consider the infinite DLA and questions about the number of arms, growth and dimension. I will present some conjectures and open problems.
+
+2021: Dimension of diffusion-limited aggregates grown on a line.
+Abstract: Diffusion-limited aggregation (DLA) has served for 40 years as a paradigmatic example for the creation of fractal growth patterns. In spite of thousands of references, no exact result for the fractal dimension D of DLA is known. In this Letter we announce an exact result for off-lattice DLA grown on a line embedded in the plane D=3/2. The result relies on representing DLA with iterated conformal maps, allowing one to prove self-affinity, a proper scaling limit, and a well-defined fractal dimension. Mathematical proofs of the main results are available in N. Berger, E. B. Procaccia, and A. Turner, Growth of stationary Hastings-Levitov, arXiv:2008.05792.
+
+2021: The Chemical Distance in Random Interlacements in the Low-Intensity Regime
+Abstract: None
+
+2021: Continuity and uniqueness of percolation critical parameters in finitary random interlacements
+Abstract: We prove that the critical percolation parameter for Finitary Random Interlacements (FRI) is continuous with respect to the path length parameter T . The proof uses a result which is interesting on its own right; equality of natural critical parameters for FRI percolation phase transition.
+
+2021: Discrete $\ell^{1}$ Double Bubble solution is at most ceiling +2 of the continuous solution
+Abstract: In this paper we show that the solution of the discrete Double Bubble problem over Z is at most the ceiling function plus two of the continuous solution to the Double Bubble problem, with respect to the ` norm, found in [11] and [6].
+
+2020: Growth of stationary Hastings–Levitov
+Abstract: We construct and study a stationary version of the Hastings-Levitov$(0)$ model. We prove that, unlike in the classical HL$(0)$ model, in the stationary case the size of particles attaching to the aggregate is tight, and therefore SHL$(0)$ is proposed as a potential candidate for a stationary off-lattice variant of Diffusion Limited Aggregation (DLA). The stationary setting, together with a geometric interpretation of the harmonic measure, yields new geometric results such as stabilization, finiteness of arms and arm size distribution. We show that, under appropriate scaling, arms in SHL$(0)$ converge to the graph of Brownian motion which has fractal dimension $3/2$. Moreover we show that trees with $n$ particles reach a height of order $n^{2/3}$, corresponding to a numerical prediction of Meakin from 1983 for the gyration radius of DLA growing on a long line segment.
+
+2020: An elementary proof for the Double Bubble problem in $\ell^1$ norm
+Abstract: We study the double bubble problem with perimeter taken with respect to the $\ell_1$ norm on $\mathbb{R}^2$. We give an elementary proof for the existence of minimizing sets for any volume ratio parameter $0<\alpha\le1$ by direct comparison to a small family of parameterized sets. By simple analysis on this family we obtain the minimizing shapes found in Morgan et al 1998.
+
+2019: Stationary DLA is Well Defined
+Abstract: None
+

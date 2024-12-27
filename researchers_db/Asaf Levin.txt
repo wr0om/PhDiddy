@@ -1,0 +1,60 @@
+2024: APTAS for bin packing with general cost structures
+Abstract: We consider the following generalization of the bin packing problem. We are given a set of items each of which is associated with a rational size in the interval [0,1], and a monotone non-decreasing non-negative cost function f defined over the cardinalities of the subsets of items. A feasible solution is a partition of the set of items into bins subject to the constraint that the total size of items in every bin is at most 1. Unlike bin packing, the goal function is to minimize the total cost of the bins where the cost of a bin is the value of f applied on the cardinality of the subset of items packed into the bin. We present an APTAS for this strongly NP-hard problem. We also provide a complete complexity classification of the problem with respect to the choice of f.
+
+2024: Efficient approximation schemes for scheduling on a stochastic number of machines
+Abstract: We study three two-stage optimization problems with a similar structure and different objectives. In the first stage of each problem, the goal is to assign input jobs of positive sizes to unsplittable bags. After this assignment is decided, the realization of the number of identical machines that will be available is revealed. Then, in the second stage, the bags are assigned to machines. The probability vector of the number of machines in the second stage is known to the algorithm as part of the input before making the decisions of the first stage. Thus, the vector of machine completion times is a random variable. The goal of the first problem is to minimize the expected value of the makespan of the second stage schedule, while the goal of the second problem is to maximize the expected value of the minimum completion time of the machines in the second stage solution. The goal of the third problem is to minimize the \ell_p norm for a fixed p>1, where the norm is applied on machines' completion times vectors. Each one of the first two problems admits a PTAS as Buchem et al. showed recently. Here we significantly improve all their results by designing an EPTAS for each one of these problems. We also design an EPTAS for \ell_p norm minimization for any p>1.
+
+2023: Online cardinality constrained scheduling
+Abstract: None
+
+2023: Online Minimization of the Maximum Starting Time: Migration Helps
+Abstract: None
+
+2023: Scheduling with cardinality dependent unavailability periods
+Abstract: We consider non-preemptive scheduling problems on parallel identical machines where machines change their status from being available to being unavailable and vice versa along the time horizon. The particular form of unavailability we consider is when the starting time of each downtime depends upon the cardinality of the job subset processed on that machine since the previous downtime. We consider the problem of minimizing the makespan in such scenarios as well as its dual problem where we have a fixed common deadline of $1$ and the goal is to minimize the number of machines for which there is a feasible schedule. We develop an EPTAS for the first variant and an AFPTAS for the second variant.
+
+2022: Comparing the costs of Any Fit algorithms for bin packing
+Abstract: None
+
+2022: Weighted throughput in a single machine preemptive scheduling with continuous controllable processing times
+Abstract: None
+
+2022: Starting time minimization for the maximum job variant
+Abstract: None
+
+2022: EPTAS for the dual of splittable bin packing with cardinality constraint
+Abstract: The problem considered is the splittable bin packing with cardinality constraint. It is a variant of the bin packing problem where items are allowed to be split into parts but the number of parts in each bin is at most a given upper bound. Two versions of the splittable bin packing with cardinality constraint have been studied in the literature. Among these variants we consider the dual one where the objective is to minimize the maximum bin size while packing (may be fractional) the items to a given set of bins. We exhibit an EPTAS for the dual problem when the cardinality upper bound is part of the input. This result answers an open question raised by Epstein, Levin, and van Stee.
+
+2022: Cardinality Constrained Scheduling in Online Models
+Abstract: Makespan minimization on parallel identical machines is a classical and intensively studied problem in scheduling, and a classic example for online algorithm analysis with Graham's famous list scheduling algorithm dating back to the 1960s. In this problem, jobs arrive over a list and upon an arrival, the algorithm needs to assign the job to a machine. The goal is to minimize the makespan, that is, the maximum machine load. In this paper, we consider the variant with an additional cardinality constraint: The algorithm may assign at most $k$ jobs to each machine where $k$ is part of the input. While the offline (strongly NP-hard) variant of cardinality constrained scheduling is well understood and an EPTAS exists here, no non-trivial results are known for the online variant. We fill this gap by making a comprehensive study of various different online models. First, we show that there is a constant competitive algorithm for the problem and further, present a lower bound of $2$ on the competitive ratio of any online algorithm. Motivated by the lower bound, we consider a semi-online variant where upon arrival of a job of size $p$, we are allowed to migrate jobs of total size at most a constant times $p$. This constant is called the migration factor of the algorithm. Algorithms with small migration factors are a common approach to bridge the performance of online algorithms and offline algorithms. One can obtain algorithms with a constant migration factor by rounding the size of each incoming job and then applying an ordinal algorithm to the resulting rounded instance. With this in mind, we also consider the framework of ordinal algorithms and characterize the competitive ratio that can be achieved using the aforementioned approaches.
+
+2022: Robust algorithms for preemptive scheduling on uniform machines of non-increasing job sizes
+Abstract: None
+
+2022: High-multiplicity N-fold IP via configuration LP
+Abstract: None
+
+2022: The near exact bin covering problem
+Abstract: None
+
+2021: EPTAS for load balancing problem on parallel machines with a non-renewable resource
+Abstract: None
+
+2021: Lower bounds for batched bin packing
+Abstract: None
+
+2021: Complexity, algorithms and applications of the integer network flow with fractional supplies problem
+Abstract: None
+
+2021: Approximate separable multichoice optimization over monotone systems
+Abstract: None
+
+2021: EPTAS for parallel identical machine scheduling with time restrictions
+Abstract: None
+
+2021: Parameterized complexity of configuration integer programs
+Abstract: None
+
+2020: Algorithms and Complexity for Variants of Covariates Fine Balance
+Abstract: We study here several variants of the covariates fine balance problem where we generalize some of these problems and introduce a number of others. We present here a comprehensive complexity study of the covariates problems providing polynomial time algorithms, or a proof of NP-hardness. The polynomial time algorithms described are mostly combinatorial and rely on network flow techniques. In addition we present several fixed-parameter tractable results for problems where the number of covariates and the number of levels of each covariate are seen as a parameter.
+

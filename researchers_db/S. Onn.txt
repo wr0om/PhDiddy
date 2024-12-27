@@ -1,0 +1,60 @@
+2024: Degree Sequence Optimization and Extremal Degree Enumerators
+Abstract: The degree sequence optimization problem is to find a subgraph of a given graph which maximizes the sum of given functions evaluated at the subgraph degrees. Here we study this problem by replacing degree sequences, via suitable nonlinear transformations, by suitable degree enumerators, and we introduce suitable degree enumerator polytopes. We characterize their vertices, that is, the extremal degree enumerators, for complete graphs and some complete bipartite graphs, and use these characterizations to obtain simpler and faster algorithms for optimization over degree sequences for such graphs.
+
+2024: Circuit and Graver walks and linear and integer programming
+Abstract: None
+
+2024: Sparse Integer Programming Is Fixed-Parameter Tractable
+Abstract: We study the general integer programming problem where the number of variables n is a variable part of the input. We consider two natural parameters of the constraint matrix A: its numeric measure a and its sparsity measure d. We present an algorithm for solving integer programming in time [Formula: see text], where g is some computable function of the parameters a and d, and L is the binary encoding length of the input. In particular, integer programming is fixed-parameter tractable parameterized by a and d, and is solvable in polynomial time for every fixed a and d. Our results also extend to nonlinear separable convex objective functions. Funding: F. Eisenbrand, C. Hunkenschröder, and K.-M. Klein were supported by the Swiss National Science Foundation (SNSF) within the project “Convexity, geometry of numbers, and the complexity of integer programming” [Grant 163071]. A. Levin and S. Onn are partially supported by the Israel Science Foundation [Grant 308/18]. A. Levin is also partially supported by the Israel Science Foundation [Grant 1467/22]. S. Onn is also partially supported by the Dresner Chair at the Technion. M. Koutecký is partially supported by Charles University project UNCE 24/SCI/008, and by the project 22-22997S of the Grantová Agentura České Republiky (GA ČR).
+
+2023: Kissing Polytopes
+Abstract: We investigate the following question: how close can two disjoint lattice polytopes contained in a fixed hypercube be? This question stems from various contexts where the minimal distance between such polytopes appears in complexity bounds of optimization algorithms. We provide nearly matching lower and upper bounds on this distance and discuss its exact computation. We also give similar bounds in the case of disjoint rational polytopes whose binary encoding length is prescribed.
+
+2023: Reducibility bounds of objective functions over the integers
+Abstract: None
+
+2023: On Supmodular Matrices
+Abstract: We consider the problem of determining which matrices are permutable to be supmodular. We show that for small dimensions any matrix is permutable by a universal permutation or by a pair of permutations, while for higher dimensions no universal permutation exists. We raise several questions including to determine the dimensions in which every matrix is permutable.
+
+2023: Degree sequence optimization in bounded treewidth
+Abstract: None
+
+2023: Asymptotic behavior of Markov complexity
+Abstract: None
+
+2022: Separable and Equitable Hypergraphs
+Abstract: A k -hypergraph is separable if its vertices admit a certain labeling, and is equitable if the edges of the complete k -hypergraph admit a certain labeling. We show that these classes of hypergraphs are mutually exclusive. We conjecture a characterization of equitable hypergraphs and hence also of separable hypergraphs, and prove it for graphs, multipartite k -hypergraphs for all k , paving k -matroids and binary k -matroids for all k , and 3-matroids.
+
+2022: Separable and equatable hypergraphs
+Abstract: None
+
+2022: High-multiplicity N-fold IP via configuration LP
+Abstract: None
+
+2022: Asymptotic behavior of Markov complexity of matrices
+Abstract: To any integer matrix $A$ one can associate a matroid structure consisting of a graph and another integer matrix $A_B$. The connected components of this graph are called bouquets. We prove that bouquets behave well with respect to the $r$--th Lawrence liftings of matrices and we use it to prove that the Markov and Graver complexities of $m\times n$ matrices of rank $d$ may be arbitrarily large for $n\geq 4$ and $d\leq n-2$. In contrast, we show they are bounded in terms of $n$ and the largest absolute value $a$ of any entry of $A$.
+
+2022: Matching orderable and separable hypergraphs
+Abstract: None
+
+2021: Approximate separable multichoice optimization over monotone systems
+Abstract: None
+
+2021: The Complexity of Vector Partition
+Abstract: None
+
+2021: Sparse Integer Programming is FPT
+Abstract: We report on major progress in integer programming in variable dimension, asserting that the problem, with linear or separable-convex objective, is ﬁxed-parameter tractable parameterized by the numeric measure and sparsity measure of the deﬁning matrix.
+
+2021: Parameterized complexity of configuration integer programs
+Abstract: None
+
+2020: Uniform and monotone line sum optimization
+Abstract: None
+
+2020: Optimization over Young diagrams
+Abstract: None
+
+2020: On Degree Sequence Optimization
+Abstract: None
+
