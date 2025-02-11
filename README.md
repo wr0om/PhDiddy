@@ -1,2 +1,1 @@
-# PhDiddy
-SuperWiser - Your AI Research Supervisor Assistant
+# SuperWiser - Your AI Research Supervisor Assistant
