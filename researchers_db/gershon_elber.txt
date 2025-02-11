@@ -1,0 +1,63 @@
+Recent papers for Gershon Elber:
+
+2024: Variable offsets and processing of implicit forms toward the adaptive synthesis and analysis of heterogeneous conforming microstructure
+Abstract: The synthesis of porous, lattice, or microstructure geometries has captured the attention of many researchers in recent years. Implicit forms, such as triply periodic minimal surfaces (TPMS) has captured a significant attention, recently, as tiles in lattices, partially because implicit forms have the potential for synthesizing with ease more complex topologies of tiles, compared to parametric forms. In this work, we show how variable offsets of implicit forms could be used in lattice design as well as lattice analysis, while graded wall and edge thicknesses could be fully controlled in the lattice and even vary within a single tile. As a result, (geometrically) heterogeneous lattices could be created and adapted to follow analysis results while maintaining continuity between adjacent tiles. We demonstrate this ability on several 3D models, including TPMS.
+
+2024: Studying Biomolecular Protein Complexes via Origami and 3D-Printed Models
+Abstract: Living organisms are constructed from proteins that assemble into biomolecular complexes, each with a unique shape and function. Our knowledge about the structure–activity relationship of these complexes is still limited, mainly because of their small size, complex structure, fast processes, and changing environment. Furthermore, the constraints of current microscopic tools and the difficulty in applying molecular dynamic simulations to capture the dynamic response of biomolecular complexes and long-term phenomena call for new supplementary tools and approaches that can help bridge this gap. In this paper, we present an approach to comparing biomolecular and origami hierarchical structures and apply it to comparing bacterial microcompartments (BMCs) with spiral-based origami models. Our first analysis compares proteins that assemble the BMC with an origami model called “flasher”, which is the unit cell of an assembled origami model. Then, the BMC structure is compared with the assembled origami model and based on the similarity, a physical scaled-up origami model, which is analogous to the BMC, is constructed. The origami model is translated into a computer-aided design model and manufactured via 3D-printing technology. Finite element analysis and physical experiments of the origami model and 3D-printed parts reveal trends in the mechanical response of the icosahedron, which is constructed from tiled-chiral elements. The chiral elements rotate as the icosahedron expands and we deduce that it allows the BMC to open gates for transmembrane passage of materials.
+
+2024: Multiresolution lattice-based support generation for additive manufacturing
+Abstract: None
+
+2023: Implicit Functionally Graded Conforming Microstructures
+Abstract: None
+
+2023: Heterogeneous Conforming Compliant Microstructure Mechanisms
+Abstract: ,
+
+2023: A Review of a B-spline based Volumetric Representation: Design, Analysis and Fabrication of Porous and/or Heterogeneous Geometries
+Abstract: None
+
+2023: 3D Dice Mosaics: A Multidirectional Dithering System
+Abstract: Dithering of images is a widely used technique for reducing the number of colors in an image to a small subset while maintaining as much information as possible. Dithering is typically applied on a single image although a few results could also be found on the simultaneous dithering of several images. In this paper, we describe a method for the simultaneous dithering of two or three gray-scale images, using the different faces of the die. This work presents (1) a dithering method which calculates the orientation for placing each die, (2) a method for generating a parametric 3D model of a jig to position the cubes, and (3) a positioning plan for the assembly process. As part of our results, we present two assembled dice mosaics, each with 4,096 dice, one that simultaneously dithers two images and the other simultaneously dithers three images.
+
+2023: Kernel-based construction operators for Boolean sum and ruled geometry
+Abstract: None
+
+2022: Shape optimization for temperature regulation in extrusion dies using microstructures
+Abstract: 
+ Plastic profile extrusion – a manufacturing process for continuous profiles with fixed cross section – requires a complex and iterative design process to prevent deformations and residual stresses in the final product. The central task is to ensure a uniform material velocity at the outlet. To this end, not only the geometry of the flow decisively influences the quality of the outflow, but also the temperature profile along the flow channel wall. It is exactly here that this work contributes by presenting a novel design approach for extrusion dies that will allow for optimal temperature profiles. The core of this approach is the composition of the extrusion die through microstructures. The optimal shape and distribution of these microstructures is determined via shape optimization. The corresponding optimization procedure is the main topic of this paper. Special emphasis is placed on the definition of a suitable, low-dimensional shape parameterization. The proposed design-framework is then applied to two numerical test cases with varying complexity.
+
+2022: Simultaneous 3D dithering of multiple images by curves
+Abstract: None
+
+2022: Detection and computation of conservative kernels of models consisting of freeform curves and surfaces, using inequality constraints
+Abstract: None
+
+2021: Self-intersection computation for freeform surfaces based on a regional representation scheme for miter points
+Abstract: None
+
+2021: Synthesis of 3D jigsaw puzzles over freeform 2-manifolds
+Abstract: None
+
+2021: Heterogeneous parametric trivariate fillets
+Abstract: None
+
+2021: Precise Hausdorff distance computation for freeform surfaces based on computations with osculating toroidal patches
+Abstract: None
+
+2021: The Construction of Conforming-to-shape Truss Lattice Structures via 3D Sphere Packing
+Abstract: None
+
+2021: Conformal Microstructure Synthesis in Trimmed Trivariate Based V-Reps
+Abstract: None
+
+2020: Optimization Strategies for CAD-Compliant Microstructure Systems
+Abstract: Through recent advances in modern production techniques, in particular, in the ﬁeld of additive manufacturing, complex and previously unthinkable geometries have become manufacturable. How-ever, this vast realm of new design possibilities has the potential to quickly surpass an engineer’s design intuition. Therefore, it can only unfold its full potential in the context of numerical design. This work aims to contribute to an easily accessible design space for numerical optimization in the context of additive manufacturing. The main ingredients are a geometry based on microstructures and its combination with Isogeometric Analysis. The geometry representation is based on volume splines, thus implying full compatibility with CAD/CAM [1]. More speciﬁcally, spline-based micro-tiles ﬁll a volume spline dictating the outer geometry. This approach yields a number of design possibilities, reaching from the shape of both the main volume and the tiles to the distribution of the latter. In view of the spline-based geometry representation, it is a natural step to perform the connected numerical simulation using Isogeometric Analysis (IGA). Introduced by Hughes, Cottrell and oth-ers [2], this technique aims to close the gap between the design and analysis stage in product development, by using the underlying geometry representation from CAD for analysis. The approach bypasses the need for time-consuming and cost-intensive preparation and meshing. Combining these two developments, we present a framework for numerical optimization of complex, microstructured geometries. We will present ﬁrst results based on the concrete example of a heat exchanger around an extrusion die. Here, a suitable geometry is generated to compensate for irregular boundary
+
+2020: Finite cell method for functionally graded materials based on V-models and homogenized microstructures
+Abstract: None
+
+2020: Euclidean offset and bisector approximations of curves over freeform surfaces
+Abstract: None
+

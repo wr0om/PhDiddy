@@ -1,0 +1,17 @@
+Recent papers for Hovav Perets:
+
+2016: Strategic and stable pollution with finite set of economic agents and a finite set of consumption commodities: a Pareto comparison
+Abstract: None
+
+2015: Strategic and stable pollution with finite set of economic agents and a finite set of consumption commodities: a Pareto comparison
+Abstract: None
+
+2013: Strategic Interactions and Atoms’ Power in Public Goods Economies
+Abstract: In this paper we study the Nash equilibrium in a smooth public goods economy, described as a non-cooperative game, where the set of players is a mixed measure space of consumers. We assume a finite number of private goods. We show that under certain conditions there exists a unique Nash equilibrium in the economy, where the public goods are produced with a linear technology. Moreover, we discuss the difference in market power between an atomless sector and an atom with the same utility function, and an atom with its split atomless sector, both in a pure exchange economy and a public goods economy.
+
+2012: Trading equilibrium in a public good economy with smooth preferences and a mixed measure space of consumers
+Abstract: None
+
+1999: On Pre-Play Negotiations and Zero-Sum Betting
+Abstract: Sebenius and Geanakoplos (1983) have proven the "impossibility of zero-sum betting" in a simple non-strategic model. We study a dynamic game of incomplete information that extends the Sebenius and Geanakoplos framework, and show that the no-betting result carries over to the extended game.
+

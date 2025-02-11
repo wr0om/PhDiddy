@@ -1,0 +1,62 @@
+Recent papers for Kolodny Avinoam:
+
+2019: Links as a Service (LaaS): Guaranteed Tenant Isolation in the Shared Cloud
+Abstract: The most demanding tenants of shared clouds require complete isolation from their neighbors, in order to guarantee that their application performance is not affected by other tenants. Unfortunately, while shared clouds can offer an option, whereby tenants obtain dedicated servers, they do not offer any network provisioning service, which would shield these tenants from network interference. In this paper, we introduce links as a service (LaaS), a new abstraction for cloud service that provides isolation of network links. Each tenant gets an exclusive set of links forming a virtual fat-tree, and is guaranteed to receive the exact same bandwidth and delay as if it were alone in the shared cloud. Consequently, each tenant can use the forwarding method that best fits its application. Under simple assumptions, using bipartite graph properties and pigeonhole-based analysis, we derive theoretical conditions for enabling the LaaS without capacity over-provisioning in fat-trees. New tenants are only admitted in the network, when they can be allocated hosts and links that maintain these conditions. We also provide new results on the numbers of tenants and hosts that can fit while guaranteeing network isolation. The LaaS is implementable with common network gear, tested to scale to large networks, and provides full tenant isolation at the cost of a limited reduction in the cloud utilization.
+
+2017: Energy Efficient System Architectures
+Abstract: None
+
+2017: Optimizing Read-Once Data Flow in Big-Data Applications
+Abstract: Memory hierarchies in modern computing systems work well for workloads that exhibit temporal data locality. Data that is accessed frequently is brought closer to the computing cores, allowing faster access times, higher bandwidth, and reduced transmission energy. Many applications that work on big data, however, read data only once. When running these applications on modern computing systems, data that is not reused is nevertheless transmitted and copied into all memory hierarchy levels, leading to energy and bandwidth waste. In this paper we evaluate workloads dealing with read-once data and measure their energy consumption. We then modify the workloads so that data that is known to be used only once is transferred directly from storage into the CPU's last level cache, effectively bypassing DRAM and avoiding keeping unnecessary copies of the data. Our measurements on a real system show savings of up to 5 Watts in server power and up to 3.9 percent reduction in server energy when 160 GB of read-once data bypasses DRAM.
+
+2016: EFS: Energy-Friendly Scheduler for memory bandwidth constrained systems
+Abstract: None
+
+2016: Design and dynamic management of hierarchical NoCs
+Abstract: None
+
+2015: Net-by-Net Wire Optimization
+Abstract: None
+
+2015: Multi-net Sizing and Spacing in General Layouts
+Abstract: None
+
+2015: Interconnect Optimization by Net Ordering
+Abstract: None
+
+2015: Interconnect Aspects in Design Methodology and EDA Tools
+Abstract: None
+
+2015: Timing-constrained power minimization in VLSI circuits by simultaneous multilayer wire spacing
+Abstract: None
+
+2015: Links as a service (LaaS): Guaranteed tenant isolation in the shared cloud
+Abstract: The most demanding tenants of shared clouds require complete isolation from their neighbors, in order to guarantee that their application performance is not affected by other tenants. Unfortunately, while shared clouds can offer an option whereby tenants obtain dedicated servers, they do not offer any network provisioning service, which would shield these tenants from network interference. In this paper, we introduce Links as a Service (LaaS), a new abstraction for cloud service that provides isolation of network links. Each tenant gets an exclusive set of links forming a virtual fat-tree, and is guaranteed to receive the exact same bandwidth and delay as if it were alone in the shared cloud. Consequently, each tenant can use the forwarding method that best fits its application. Under simple assumptions, we derive theoretical conditions for enabling LaaS without capacity over-provisioning in fat-trees. New tenants are only admitted in the network when they can be allocated hosts and links that maintain these conditions. LaaS is implementable with common network gear, tested to scale to large networks and provides full tenant isolation at the worst cost of a 10% reduction in the cloud utilization.
+
+2015: Links as a Service (LaaS): Feeling Alone in the Shared Cloud
+Abstract: The most demanding tenants of shared clouds require complete isolation from their neighbors, in order to guarantee that their application performance is not affected by other tenants. Unfortunately, while shared clouds can offer an option whereby tenants obtain dedicated servers, they do not offer any network provisioning service, which would shield these tenants from network interference. In this paper, we introduce Links as a Service, a new abstraction for cloud service that provides physical isolation of network links. Each tenant gets an exclusive set of links forming a virtual fat tree, and is guaranteed to receive the exact same bandwidth and delay as if it were alone in the shared cloud. Under simple assumptions, we derive theoretical conditions for enabling LaaS without capacity over-provisioning in fat-trees. New tenants are only admitted in the network when they can be allocated hosts and links that maintain these conditions. Using experiments on real clusters as well as simulations with real-life tenant sizes, we show that LaaS completely avoids the performance degradation caused by traffic from concurrent tenants on shared links. Compared to mere host isolation, LaaS can improve the application performance by up to 200%, at the cost of a 10% reduction in the cloud utilization.
+
+2015: Scaling Dependent Electrical Modeling of Interconnects
+Abstract: None
+
+2015: Multi-net Sizing and Spacing of Bundle Wires
+Abstract: None
+
+2015: Memristor-Based Multilayer Neural Networks With Online Gradient Descent Training
+Abstract: Learning in multilayer neural networks (MNNs) relies on continuous updating of large matrices of synaptic weights by local rules. Such locality can be exploited for massive parallelism when implementing MNNs in hardware. However, these update rules require a multiply and accumulate operation for each synaptic weight, which is challenging to implement compactly using CMOS. In this paper, a method for performing these update operations simultaneously (incremental outer products) using memristor-based arrays is proposed. The method is based on the fact that, approximately, given a voltage pulse, the conductivity of a memristor will increment proportionally to the pulse duration multiplied by the pulse magnitude if the increment is sufficiently small. The proposed method uses a synaptic circuit composed of a small number of components per synapse: one memristor and two CMOS transistors. This circuit is expected to consume between 2% and 8% of the area and static power of previous CMOS-only hardware alternatives. Such a circuit can compactly implement hardware MNNs trainable by scalable algorithms based on online gradient descent (e.g., backpropagation). The utility and robustness of the proposed memristor-based circuit are demonstrated on standard supervised learning tasks.
+
+2015: An Overview of the VLSI Interconnect Problem
+Abstract: None
+
+2015: Average latency and link utilization analysis of heterogeneous wormhole NoCs
+Abstract: None
+
+2015: Future Directions in Interconnect Optimization
+Abstract: None
+
+2015: Multistate Register Based on Resistive RAM
+Abstract: In recent years, memristive technologies, such as resistive random access memory (RRAM), have emerged. These technologies are usually considered as alternates for static RAM, dynamic RAM, and Flash. In this paper, a novel digital circuit, the multistate register, is proposed. The multistate register is different from conventional types of memory, and is used to store multiple data bits, where only a single bit is active and the remaining data bits are idle. The active bit is stored within a CMOS flip flop, while the idle bits are stored in an RRAM crossbar co-located with the flip flop. It is demonstrated that additional states require an area overhead of 1.4% per state for a 64-state register. The use of multistate registers as pipeline registers is demonstrated for a novel multithreading architecture-continuous flow multithreading (CFMT), where the total area overhead in the CPU pipeline is only 2.5% for 16 threads compared with a single thread CMOS pipeline. The use of multistate registers in the CFMT microarchitecture enables higher performance processors (40% average performance improvement) with relatively low energy (6.5% average energy reduction) and area overhead.
+
+2015: Frameworks for Interconnect Optimization
+Abstract: None
+

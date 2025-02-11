@@ -1,3 +1,0 @@
-2005: Nonparametric Estimation of Concave Production Technologies by Entropic Methods
-Abstract: An econometric methodology is developed for nonparametric estimation of concave production technologies. The methodology, based on the principle of maximum likelihood, uses entropic distance and convex programming techniques to estimate production functions. Empirical applications are presented to demonstrate the feasibility of the methodology in small and large data sets.
-

@@ -1,0 +1,277 @@
+Recent papers for Shachar Itzhaky:
+
+2024: Constrictor: Immutability as a Design Concept (Artifact)
+Abstract: Many object-oriented applications in algorithm design rely on objects never changing during their lifetime. This is often tackled by marking object references as read-only, e.g., using the const keyword in C++. In other languages like Python or Java where such a concept does not exist, programmers rely on best practices that are entirely unenforced. While reliance on best practices is obviously too permissive, const-checking is too restrictive: it is possible for a method to mutate the internal state while still satisfying the property we expect from an “immutable” object in this setting. We would therefore like to enforce the immutability of an object’s abstract state . We check an object’s immutability through a view of its abstract state: for instances of an immutable class, the view does not change when running any of the class’s methods, even if some of the internal state does change. If all methods of a class are verified as non-mutating, we can deem the entire class view-immutable. We present an SMT-based algorithm to check view-immutability, and implement it in our linter/verifier, Constrictor . We evaluate Constrictor on 51 examples of immutability-related design violations. Our evaluation shows that Constrictor is effective at catching a variety of prototypical design violations, and does so in seconds. We also explore Constrictor with two real-world case studies.
+
+2024: Kotlin's Type System is (Also) Unsound
+Abstract: Soundness of a type system is a fundemental property that guarantees that no operation that is not supported by a value will be performed on that value at run time. A type checker for a sound type system is expected to issue a warning on every type error. While soundness is a desirable property for many practical applications, in 2016, Amin and Tate presented the first unsoundness proof for two major industry languages: Java and Scala. This proof relied on use-site variance and implicit null values. We present an unsoundness proof for Kotlin, another emerging industry language, which relies on a previously unknown unsound combination of language features. Kotlin does not have implicit null values, meaning that the proof by Amin and Tate would not work for Kotlin. Our new proof, which is an infringing code snippet, utilizes Kotlin's \emph{declaration-site} variance specification and does not require implicit null values. We present this counterexample to soundness in full along with detailed explanations of every step. Finally, we present a thorough discussion on precisely which language features cause this issue, as well as how Kotlin's compiler can be patched to fix it.
+
+2024: CCLemma: E-Graph Guided Lemma Discovery for Inductive Equational Proofs
+Abstract: 
+ The problem of automatically proving the equality
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of terms over recursive functions and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inductive data types is challenging,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as such proofs often require auxiliary lemmas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+which must themselves be proven.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous attempts at lemma discovery compromise
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+on either efficiency or efficacy.
+ Goal-directed
+ approaches
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+are fast but limited in expressiveness,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as they can only discover auxiliary lemmas which
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+entail their goals.
+ Theory exploration
+ approaches
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+are expressive but inefficient,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as they exhaustively enumerate candidate lemmas.
+ 
+ 
+ We introduce
+ e-graph guided lemma discovery
+ ,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a new approach to finding equational proofs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+that makes theory exploration goal-directed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We accomplish this by using e-graphs and equality saturation to
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+efficiently construct and compactly represent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the space of
+ all
+ goal-oriented proofs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This allows us to explore only those auxiliary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lemmas
+ guaranteed
+ to help make progress
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+on some of these proofs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We implemented our method in a new prover
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+called CCLemma and compared it with three state-of-the-art provers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+across a variety of benchmarks.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CCLemma performs consistently well on two standard benchmarks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and additionally solves 50% more problems than the next best tool
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+on a new challenging set.
+
+
+2023: Scalable Spreadsheet-Driven End-User Applications with Incremental Computation
+Abstract: Spreadsheets are a popular programming model among both novice and advanced users. It allows for quick development of computational tasks over the user's data set. It has also been suggested as a model for lightweight, low-code development of small-scale personal and collaborative applications for managing data. A barrier is hit when trying to scale up these applications: as the volume of the data grows, performance of spreadsheet computations degrades noticeably, making their maintenance more difficult and frustrating. This paper explores one aspect in which spreadsheets can be boosted significantly - by making computations more incremental, such that small changes to the data would incur a respectively small cost of update. This is particularly interesting in the context of aggregate operations - applied to sets of data elements, producing a single value, such as their sum or average. We propose a compilation phase in which a compiler transforms a spreadsheet table into a program that accepts a stream of changes and produces a stream of updates. We show how to adapt classical results from finite differencing to this interesting modern scenario, and demonstrate that it yields asymptotic improvements to resource usage.
+
+2023: Leveraging Rust Types for Program Synthesis
+Abstract: The Rust type system guarantees memory safety and data-race freedom. However, to satisfy Rust's type rules, many familiar implementation patterns must be adapted substantially. These necessary adaptations complicate programming and might hinder language adoption. In this paper, we demonstrate that, in contrast to manual programming, automatic synthesis is not complicated by Rust's type system, but rather benefits in two major ways. First, a Rust synthesizer can get away with significantly simpler specifications. While in more traditional imperative languages, synthesizers often require lengthy annotations in a complex logic to describe the shape of data structures, aliasing, and potential side effects, in Rust, all this information can be inferred from the types, letting the user focus on specifying functional properties using a slight extension of Rust expressions. Second, the Rust type system reduces the search space for synthesis, which improves performance. In this work, we present the first approach to automatically synthesizing correct-by-construction programs in safe Rust. The key ingredient of our synthesis procedure is Synthetic Ownership Logic, a new program logic for deriving programs that are guaranteed to satisfy both a user-provided functional specification and, importantly, Rust's intricate type system. We implement this logic in a new tool called RusSOL. Our evaluation shows the effectiveness of RusSOL, both in terms of annotation burden and performance, in synthesizing provably correct solutions to common problems faced by new Rust developers.
+
+2023: Hyperproperty Verification as CHC Satisfiability
+Abstract: Hyperproperties govern the behavior of a system or systems across multiple executions, and are being recognized as an important extension of regular temporal properties. So far, such properties have resisted comprehensive treatment by modern software model-checking approaches such as IC3/PDR, due to the need to find not only an inductive invariant but also a \emph{total} alignment of different executions that facilitates simpler inductive invariants. We show how this treatment is achieved via a reduction from the verification problem of $\forall^k\exists^l$ properties to Constrained Horn Clauses. The approach is based on combining the inference of an alignment and inductive invariant in a single CHC encoding; and, for existential quantification over traces, incorporating also inference of a witness function for the existential choices, based on a game semantics with a sound-and-complete encoding to CHCs as well.
+
+2023: Colored E-Graph: Equality Reasoning with Conditions
+Abstract: E-graphs are a prominent data structure that has been increasing in popularity in recent years due to their expanding range of applications in various formal reasoning tasks. Often, they are used for equality saturation, a process of deriving consequences through repeatedly applying universally quantified equality formulas via term rewriting. They handle equality reasoning over a large spaces of terms, but are severely limited in their handling of case splitting and other types of logical cuts, especially when compared to other reasoning techniques such as sequent calculi and resolution. The main difficulty is when equality reasoning requires multiple inconsistent assumptions to reach a single conclusion. Ad-hoc solutions, such as duplicating the e-graph for each assumption, are available, but they are notably resource-intensive. We introduce a key observation is that each duplicate e-graph (with an added assumption) corresponds to coarsened congruence relation. Based on that, we present an extension to e-graphs, called Colored E-Graphs, as a way to represent all of the coarsened congruence relations in a single structure. A colored e-graph is a memory-efficient equivalent of multiple copies of an e-graph, with a much lower overhead. This is attained by sharing as much as possible between different cases, while carefully tracking which conclusion is true under which assumption. Support for multiple relations can be thought of as adding multiple"color-coded"layers on top of the original e-graph structure, leading to a large degree of sharing. In our implementation, we introduce optimizations to rebuilding and e-matching. We run experiments and demonstrate that our colored e-graphs can support hundreds of assumptions and millions of terms with space requirements that are an order of magnitude lower, and with similar time requirements.
+
+2022: SMT Sampling via Model-Guided Approximation
+Abstract: We investigate the domain of satisfiable formulas in satisfiability modulo theories (SMT), in particular, automatic generation of a multitude of satisfying assignments to such formulas. Despite the long and successful history of SMT in model checking and formal verification, this aspect is relatively under-explored. Prior work exists for generating such assignments, or samples, for Boolean formulas and for quantifier-free first-order formulas involving bit-vectors, arrays, and uninterpreted functions (QF_AUFBV). We propose a new approach that is suitable for a theory T of integer arithmetic and to T with arrays and uninterpreted functions. The approach involves reducing the general sampling problem to a simpler instance of sampling from a set of independent intervals, which can be done efficiently. Such reduction is carried out by expanding a single model - a seed - using top-down propagation of constraints along the original first-order formula.
+
+2022: AmiGo: Computational Design of Amigurumi Crochet Patterns
+Abstract: We propose an approach for generating crochet instructions (patterns) from an input 3D model. We focus on Amigurumi, which are knitted stuffed toys. Given a closed triangle mesh, and a single point specified by the user, we generate crochet instructions, which when knitted and stuffed result in a toy similar to the input geometry. Our approach relies on constructing the geometry and connectivity of a Crochet Graph, which is then translated into a crochet pattern. We segment the shape automatically into chrochetable components, which are connected using the join-as-you-go method, requiring no additional sewing. We demonstrate that our method is applicable to a large variety of shapes and geometries, and yields easily crochetable patterns.
+
+2022: Securing Access to Untrusted Services From TEEs with GateKeeper
+Abstract: Applications running in Trusted Execution Environments (TEEs) commonly use untrusted external services such as host File System. Adversaries may maliciously alter the normal service behavior to trigger subtle application bugs that would have never occurred under correct service operation, causing data leaks and integrity violations. Unfortunately, existing manual protections are incomplete and ad-hoc, whereas formally-veriﬁed ones require special expertise. We introduce GateKeeper , a framework to develop mitiga-tions and vulnerability checkers for such attacks by leveraging lightweight formal models of untrusted services. With the attack seen as a violation of a services’ functional correctness, GateKeeper takes a novel approach to develop a comprehensive model of a service without requiring formal methods expertise. We harness available testing suites routinely used in service development to tighten the model to known correct service implementation. GateKeeper uses the resulting model to automatically generate (1) a correct-by-construction runtime service validator in C that is linked with a trusted application and guards each service invocation to conform to the model; and (2) a targeted model-driven vulnerability checker for analyzing black-box applications. We evaluate GateKeeper on Intel SGX enclaves. We develop comprehensive models of a POSIX ﬁle system and OS synchronization primitives while using thousands of existing test suites to tighten their models to the actual Linux implementations. We generate the validator and integrate it with Graphene-SGX, and successfully protect unmodiﬁed Memcached and SQLite with negligible overheads. The generated vulnerability checker detects novel vulnerabilities in the Graphene-SGX protection layer and production applications.
+
+2021: Run-time Complexity Bounds Using Squeezers
+Abstract: None
+
+2021: Address-Aware Query Caching for Symbolic Execution
+Abstract: Symbolic execution (SE) is a popular program analysis technique. SE heavily relies on satisfiability queries during path exploration, often resulting in the majority of the time being spent on solving these queries. Hence, it is not surprising that one of the most vital optimizations SE engines use is query caching. To increase the cache hit rate, queries are transformed into a normal form, which is used as a key for updating the cache. An obstacle to caching queries involving pointers is the presence of numerical address values, which are assigned by the engine according to its memory allocation scheme and are hard to canonicalize across different paths.In this paper, we propose a novel query caching technique that allows efficient handling of queries containing expressions that depend on address values. The key insight is that the result of such queries is in fact agnostic to the concrete address values occurring in them, subject to some basic memory safety constraints. This observation can be used to coalesce more queries during cache lookup, thus further increasing cache utilization.Our extensive evaluation shows that our technique achieves significant performance gains when the analysis encounters queries containing symbolic pointers, while incurring only a modest performance overhead in other cases.
+
+2021: Cyclic program synthesis
+Abstract: We describe the first approach to automatically synthesizing heap-manipulating programs with auxiliary recursive procedures. Such procedures occur routinely in data structure transformations (e.g., flattening a tree into a list) or traversals of composite structures (e.g., n-ary trees). Our approach, dubbed cyclic program synthesis, enhances deductive program synthesis with a novel application of cyclic proofs. Specifically, we observe that the machinery used to form cycles in cyclic proofs can be reused to systematically and efficiently abduce recursive auxiliary procedures. We develop the theory of cyclic program synthesis by extending Synthetic Separation Logic (SSL), a logical framework for deductive synthesis of heap-manipulating programs from Separation Logic specifications. We implement our approach as a tool called Cypress, and showcase it by automatically synthesizing a number of programs manipulating linked data structures using recursive auxiliary procedures and mutual recursion, many of which were beyond the reach of existing program synthesis tools.
+
+2021: Deductive Synthesis of Programs with Pointers: Techniques, Challenges, Opportunities - (Invited Paper)
+Abstract: None
+
+2021: Cypress (PLDI 2021 Artifact): Code and Benchmarks
+Abstract: None
+
+2021: A bounded symbolic-size model for symbolic execution
+Abstract: Symbolic execution is a powerful program analysis technique which allows executing programs with symbolic inputs. Modern symbolic execution tools use a concrete modeling of object sizes, that does not allow symbolic-size allocations. This leads to concretizations and enforces the user to set the size of the input ahead of time, thus potentially leading to loss of coverage during the analysis. We present a bounded symbolic-size model in which the size of an object can have a range of values limited by a user-specified bound. Unfortunately, this model amplifies the problem of path explosion, due to additional symbolic expressions representing sizes. To cope with this problem, we propose an approach based on state merging that reduces the forking by applying special treatment to symbolic-size dependent loops. In our evaluation on real-world benchmarks, we show that our approach can lead in many cases to substantial gains in terms of performance and coverage, and find previously unknown bugs.
+
+2020: Theory Exploration Powered By Deductive Synthesis
+Abstract: None
+
+2020: Programming with a read-eval-synth loop
+Abstract: A frequent programming pattern for small tasks, especially expressions, is to repeatedly evaluate the program on an input as its editing progresses. The Read-Eval-Print Loop (REPL) interaction model has been a successful model for this programming pattern. We present the new notion of Read-Eval-Synth Loop (RESL) that extends REPL by providing in-place synthesis on parts of the expression marked by the user. RESL eases programming by synthesizing parts of a required solution. The underlying synthesizer relies on a partial solution from the programmer and a few examples. RESL hinges on bottom-up synthesis with general predicates and sketching, generalizing programming by example. To make RESL practical, we present a formal framework that extends observational equivalence to non-example specifications. We evaluate RESL by conducting a controlled within-subjects user-study on 19 programmers from 8 companies, where programmers are asked to solve a small but challenging set of competitive programming problems. We find that programmers using RESL solve these problems with far less need to edit the code themselves and by browsing documentation far less. In addition, they are less likely to leave a task unfinished and more likely to be correct.
+
+2020: Replication package for article: Liquid Information Flow Types
+Abstract: None
+
+2020: Harnessing Static Analysis to Help Learn Pseudo-Inverses of String Manipulating Procedures for Automatic Test Generation
+Abstract: None
+

@@ -1,0 +1,62 @@
+Recent papers for Azaria Paz:
+
+2022: Wonder Cubes: Theme and Variations
+Abstract: None
+
+2022: A Note of Appreciation
+Abstract: None
+
+2012: Chaotic Evolution via Generalized Probabilistic Automata (Probabilistic Arrays)
+Abstract: An n-state generalized probabilistic automaton/array maps a list of d states stochastically into a next state, resulting in a degree-d polynomially nonlinear transformation of the n-component state-probability vector, in contrast with the linear transformation given by the conventional Markovian model. This nonlinearity introduces the possibility of chaotic behaviour as time (iteration) progresses. It is shown that for two-state systems, the d = 2 case is nonchaotic, while chaotic behaviour is found for degree d as low as 5. Examples, and open issues for other values of n and/or d, are also noted.
+
+2011: Axioms and Algorithms for Inferences Involving Probabilistic Independence - eScholarship
+Abstract: TECHNICAL REPORT R-119 March 1991 Reprinted from INFORMATION AND COMPUTATION AH Rights Reserved by Academic Press, New York and London Vol. 91, No. 1, March 1991 Printed in Belgium Axioms and Algorithms for Inferences Involving Probabilistic Independence* DAN GEIGER, A Z A R I A P A Z , AND JUDEA PEARL Cognitive Systems Laboratory, Computer Science Department, Los Angeles, California 90024-1596 This paper offers an axiomatic characterization of the probabilistic relation X is independent of Y (written (X, Y)) where X and Y are two disjoint sets of variables. Four axioms for {X, Y) are presented and shown to be complete. Based on these axioms, a polynomial membership algorithm is developed to decide whether any given independence statement (X, Y) logically follows from a set E of such statements, i.e., whether (X, Y) holds in every probability distribution that satisfies E. The complexity of the algorithm is 0(|E| -k + |E| - n), where | E | is the number of given statements, n is the number of variables in E u {(X, Y)}, and k is the number of variables in (X, Y). © 1991 Academic Press, Inc. 1. I N T R O D U C T I O N Consider a collection of information sources, each reflecting a different aspect of some underlying probabilistic phenomenon. These sources can be regarded as a set of random variables, governed by an unknown proba- bility distribution, some of which are dependent and some independent. In this paper, we are concerned with the following problem: Assume we know that some groups of variables are mutually independent, either by statistical analysis or by conceptual understanding of the underlying phenomenon; we need to infer new independencies without resorting to additional measurements or expensive numerical analysis. We formalize this question as follows: Let an {independence) statement be a sentence of the form (X, Y), where X= { x , x } and Y= {y y ) are disjoint finite sets of variables. The meaning of (X, Y) is that X and Y are probabilistically independent, namely, n u n P(X, Y) = P(X) -P{Y) * This work was supported in part by the National Science Foundation Grant IRI-8821444. Permanent affiliation: Computer Science Department, Technion, Haifa, Israel 32000. f 0890-5401/91 S3.00 Copyright © 1991 by Academic Press, Inc. All rights of reproduction in any form reserved.
+
+2011: A theory of decomposition into prime factors of layered interconnection networks
+Abstract: None
+
+2010: Confounding Equivalence in Causal Inference
+Abstract: Abstract The paper provides a simple test for deciding, from a given causal diagram, whether two sets of variables have the same bias-reducing potential under adjustment. The test requires that one of the following two conditions holds: either (1) both sets are admissible (i.e. satisfy the back-door criterion) or (2) the Markov boundaries surrounding the treatment variable are identical in both sets. We further extend the test to include treatment-dependent covariates by broadening the back-door criterion and establishing equivalence of adjustment under selection bias conditions. Applications to covariate selection and model testing are discussed.
+
+2009: Confounding Equivalence in Observational Studies (or, when are two measurements equally valuable for effect estimation?)
+Abstract: The paper provides a simple test for deciding, from a given causal diagram, whether two sets of covariates have the same bias-reducing potential under adjustment. The test requires that one of the following two conditions holds: either (1) both sets are admissible (i.e., satisfy the back-door criterion) or (2) the Markov boundaries surrounding the treatment variable(s) are identical in both sets. Applications to covariate selection and model testing are discussed.
+
+2006: A Property of Independency Relations Induced by Probabilistic Distributions with Binary Variables
+Abstract: The relationship between graphoid independency relations (defined in the text) and such relations induced by Probabilistic Distributions (PD) with binary random variables is investigated. It is shown that there are axioms that are sound for a subset of PD-induced relations with binary variables and are independent of the Graphoid axioms (cannot be logically derived from those axioms).
+
+2006: A New Graphical Model for the Representation of Marginalized DAG-Representable Relations ⁄
+Abstract: A new model for representing PD-induced relations that are derived from DAG-representable relations through marginalization over a subset of their variables is introduced. The new model requires polynomial space and a polynomial algorithm is given for testing whether a given triplet is represented in the model. In addition a polynomial algorithm is derived for testing whether a marginalized DAG-representable relation is DAGrepresentable.
+
+2004: A New Graphical Model for the Representative of Marginalized
+Abstract: A new model for representing PD-induced relations that are derived from DAGrepresentable relations through marginalization over a subset of their variables is introduced. The new model requires polynomial space and a polynomial algorithm is given for testing whether a given triplet is represented in the model. In addition a polynomial algorithm is derived for testing whether a marginalized DAGrepresentable relation is DAG-representable.
+
+2004: Some Properties of Multistage Interconnection Networks
+Abstract: None
+
+2003: Probabilistic automata
+Abstract: A probabilistic or stochastic automaton (pa) is a device with a finite number of internal states that scans input words over a finite alphabet and responds by successively changing its state in a probabilistic way.
+
+2003: An alternative version of Lauritzen et al.'s algorithm for checking representation of independencies
+Abstract: None
+
+2000: Representation of Irrelevance Relations by Annotated Graphs
+Abstract: Irrelevance relations are sets of statements of the form: given that the ‘value’ of Z is known, the ‘values’ of Y can add no further information about the ‘values’ of X. Undirected Graphs (UGs), Directed Acyclic Graphs (DAGs) and Chain Graphs (CGs) were used and investigated as schemes for the purpose of representing irrelevance relations. It is known that, although all three schemes can approximate irrelevance, they are inadequate in the sense that there are relations which cannot be fully represented by anyone of them. In this paper annotated graphs are defined and suggested as a new model for graphical representation. It is shown that this new model is a proper generalization of the former models: any irrelevance relation that can be represented by either one of the previous models can also be represented by an annotated graph, and there are relations that can be represented by an annotated graph but cannot be represented by either one of the former models. The question of whether this new model is powerful enough to represent all the irrelevance relations, as well as some other related questions, is still open.
+
+1999: Algorithms on Continued Fractions
+Abstract: None
+
+1998: Finding Minimal D-separators
+Abstract: We address the problem of nding a minimal separator in a di rected acyclic graph DAG namely nding a set Z of nodes that d separates a given pair of nodes such that no proper subset of Z d separates that pair We analyze several versions of this problem and o er polynomial algorithms for each These include nding a minimal separator from a restricted set of nodes nding a minimum cost separator and testing whether a given separator is minimal We con rm the intuition that any separator which cannot be reduced by a single node must be minimal TECHNICAL REPORT R-254 February 1998
+
+1996: A new characterization of graphs based on interception relations
+Abstract: While graphs are normally defined in terms of the 2-place relation of adjacency, we take the 3-place relation of interception as the basic primitive of the definition. The paper views graphs as an economic scheme for encoding interception relations, and establishes an axiomatic characterization of relations that lend themselves to representation in terms of graph interception, thus providing a new characterization of graphs.
+
+1995: Factorization properties of lattices over the integers
+Abstract: None
+
+1994: An Elementary Algorithmic Problem from an Advanced Standpoint
+Abstract: None
+
+1994: An Algorithm for Finding a Shortest Vector in a Two-Dimensional Modular Lattice
+Abstract: None
+

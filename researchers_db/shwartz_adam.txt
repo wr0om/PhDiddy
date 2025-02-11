@@ -1,0 +1,62 @@
+Recent papers for Shwartz Adam:
+
+2019: Large Deviations of Random Variables
+Abstract: None
+
+2019: Poisson and Related Processes
+Abstract: None
+
+2019: Applications and Extensions
+Abstract: None
+
+2019: Large Deviations For Performance Analysis
+Abstract: This isn't the real cover. It's the one we wanted. Drawn by Freddy Bruckstein.
+
+2019: The M/M/1 Queue
+Abstract: None
+
+2019: Parallel Algorithms: Rollback
+Abstract: None
+
+2019: Random Walks, Branching Processes
+Abstract: None
+
+2019: What this Book Is, and What It Is Not
+Abstract: None
+
+2019: Large Deviations for Processes
+Abstract: None
+
+2019: The Anick-Mitra-Sondhi Model
+Abstract: None
+
+2019: General Principles
+Abstract: None
+
+2019: Allocating Independent Subtasks
+Abstract: None
+
+2019: Boundary Theory
+Abstract: None
+
+2019: The Flatto-Hahn-Wright model
+Abstract: None
+
+2016: Operational optimization of wastewater treatment plants: a CMDP based decomposition approach
+Abstract: None
+
+2014: On the risk-sensitive cost for a Markovian multiclass queue with priority
+Abstract: A multi-class M/M/1 system, with service rate $\mu_in$ for class-$i$ customers, is considered with the risk-sensitive cost criterion $n^{-1}\log E\exp\sum_ic_iX^n_i(T)$, where $c_i>0$, $T>0$ are constants, and $X^n_i(t)$ denotes the class-$i$ queue-length at time $t$, assuming the system starts empty. An asymptotic upper bound (as $n\to\infty$) on the performance under a fixed priority policy is attained, implying that the policy is asymptotically optimal when $c_i$ are sufficiently large. The analysis is based on the study of an underlying differential game.
+
+2013: Predicting the Impact of Measures Against P2P Networks: Transient Behavior and Phase Transition
+Abstract: The paper has two objectives. The first is to study rigorously the transient behavior of some peer-to-peer (P2P) networks whenever information is replicated and disseminated according to epidemic-like dynamics. The second is to use the insight gained from the previous analysis in order to predict how efficient are measures taken against P2P networks. We first introduce a stochastic model that extends a classical epidemic model and characterize the P2P swarm behavior in presence of free-riding peers. We then study a second model in which a peer initiates a contact with another peer chosen randomly. In both cases, the network is shown to exhibit phase transitions: A small change in the parameters causes a large change in the behavior of the network. We show, in particular, how phase transitions affect measures of content providers against P2P networks that distribute nonauthorized music, books, or articles and what is the efficiency of countermeasures. In addition, our analytical framework can be generalized to characterize the heterogeneity of cooperative peers.
+
+2013: Risk-Sensitive Control for the Parallel Server Model
+Abstract: A Markovian queueing model is considered in which servers of various types work in parallel to process jobs from a number of classes at rates $\mu_{ij}$ that depend on the class, $i$, and the type, $j$. The problem of dynamic resource allocation so as to minimize a risk-sensitive criterion is studied in a law-of-large-numbers scaling. Letting $X_i(t)$ denote the number of class-$i$ jobs in the system at time $t$, the cost is given by $E\exp\{n[\int_0^Th(\bar X(t))dt+g(\bar X(T))]\}$, where $T>0$, $h$ and $g$ are given functions satisfying regularity and growth conditions, and $\bar X=\bar X^n=n^{-1}X(n\cdot)$. It is well known in an analogous context of controlled diffusion, and has been shown for some classes of stochastic networks, that the limit behavior, as $n\to\infty$, is governed by a differential game (DG) in which the state dynamics is given by a fluid equation for the formal limit $\varphi$ of $\bar X$, while the cost consists of $\int_0^Th (\varphi(t))dt+g(\varphi(T))$ and an additional term th...
+
+2012: Action Time Sharing Policies for Ergodic Control of Markov Chains
+Abstract: Ergodic control for discrete time controlled Markov chains with a locally compact state space and a compact action space is considered under suitable stability, irreducibility, and Feller continuity conditions. A flexible family of controls, called action time sharing (ATS) policies, associated with a given continuous stationary Markov control, is introduced. It is shown that the long-term average cost for such a control policy, for a broad range of one-stage cost functions, is the same as that for the associated stationary Markov policy. In addition, ATS policies are well suited for a range of estimation, information collection, and adaptive control goals. To illustrate the possibilities we present two examples. The first demonstrates a construction of an ATS policy that leads to consistent estimators for unknown model parameters while producing the desired long-term average cost value. The second example considers a setting where the target stationary Markov control $q$ is not known but there are sampling schemes available that allow for consistent estimation of $q$. We construct an ATS policy which uses dynamic estimators for $q$ for control decisions and show that the associated cost coincides with that for the unknown Markov control $q$.
+
+2012: Asymptotic optimality of a fixed priority rule for a queueing problem in the large deviation regime ∗
+Abstract: A multi-class M/M/1 system, with service rate μin for class-i customers, is considered with the risk-sensitive cost criterion n−1 logE exp ∑ i ciXi(T ), where ci > 0, T > 0 are constants, Xi(t) denotes the class-i queue-length at time t assuming the system starts empty. It is shown that, as n → ∞, asymptotic optimality is achieved by the service policy that prioritizes the classes in decreasing order of the index μi(1− e−ci). This index, noticed first in [1], can thus be thought of as a modification of the well-known cμ rule for risk-sensitive cost. AMS subject classifications: 60F10, 60K25, 49N70, 93E20
+

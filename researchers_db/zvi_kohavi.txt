@@ -1,0 +1,62 @@
+Recent papers for Zvi Kohavi:
+
+2009: Testing of combinational circuits
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Threshold logic for nanotechnologies
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Switching algebra and its applications
+Abstract: The second part of this book is devoted to combinational logic and deals with various aspects of the analysis and design of combinational switching circuits. The particular characteristic of a combinational switching circuit is that its outputs are functions of only the present circuit inputs. First, switching algebra is introduced as the basic mathematical tool essential for dealing with problems encountered in the study of switching circuits. Switching expressions are defined and are found to be instrumental in describing the logical properties of switching circuits. Systematic simplification procedures of these expressions are next presented; these lead to more economical circuits. Logical design is studied with special attention to conventional logic, complementary metaloxide semiconductor (CMOS) circuits, and threshold logic. Finally, problems related to the testing of combinational circuits for various fault models, and synthesis-for-testability techniques are discussed. In the current chapter, after developing a switching algebra from the simplest set of basic postulates we show its applications to the study of switching circuits as well as to the calculus of propositions. Finally, this switching algebra is shown to be a special case of Boolean algebra. Switching algebra The basic concepts of switching algebra will be introduced by means of a set of postulates, from which we shall derive useful theorems and develop necessary tools that will enable us to manipulate and simplify algebraic expressions. Fundamental postulates The basic postulate of switching algebra is the existence of a two-valued switching variable that can take either of two distinct values, 0 and 1.
+
+2009: Switching and Finite Automata Theory: Structure of sequential machines
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Logic design
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Multi-level logic synthesis
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Asynchronous sequential circuits
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Sets, relations, and lattices
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Introduction to synchronous sequential circuits and iterative networks
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Memory, definiteness, and information losslessness of finite automata
+Abstract: None
+
+2009: 1964 Kohavi : Secondary State Assignment 195 Assignment
+Abstract: One of the most important and complicated problems The aim of this paper is to find for every machine in the synthesis of a sequential machine described by a state diagram which appears to be in the reduced form and undecomor table is the assignment of the states of the secondary variables to . . . the states of the machine. The secondary assignment for a given posable anbequivnt achine which a partiin "machine varies in accordance with the requirements of the design. with the substitution property and for which we can find It has already been shown that the partition with the substitution a cascade or parallel decomposition. It is also shown that property and the partition pairs are of great significance in the these machines can sometimes be further reduced. This secondary assignment. However, only few machines possess these paper presents a method for obtaining such an equivaproperties, and hence, a more general method is needed. This paper presents a method of obtaining for any given machine M an equivalent machine M' which has a partition with the substiby adding redundant states to the machine. The method tution property or partition pairs and therefore can be decomposed presented in this paper is valid for completely and ininto two or more submachines connected in cascade or possibly in completely specified flow tables. parallel. It is also shown that for machine M' we can find an assignment with self-dependent subsets. The method is shown to be NOTATION AND BASIc DEFINITIONS general for any completely or incompletely specified sequential A machine is defined as a finite-state, synchronous, machine. deterministic, sequential device which can be described INTRODUCTION by Mealy's model [6] as follows:
+
+2009: Switching and Finite Automata Theory: Minimization of switching functions
+Abstract: A switching function can usually be represented by a number of expressions. Our aim in this chapter will be to develop procedures for obtaining a minimal expression for any such function, after establishing some criteria for minimality. In the preceding chapter, we dealt with simplification of switching expressions by means of algebraic manipulations. The deficiency of this method is that it does not constitute an algorithm and is ineffective for expressions of even a small number of variables (e.g., four or five). The methods to be introduced in this chapter partly overcome these limitations. The presented map method is very effective for the simplification by hand of expressions of up to five or six variables, while the tabulation procedure is suitable for machine computation and yields minimal expressions. Introduction Our aim in simplifying a switching function f ( x 1 , x 2 , …, x n ) is to find an expression g ( x 1 , x 2 , …, x n ) which is equivalent to f and which minimizes some cost criteria . There are various criteria to determine minimal cost. The most common are: the minimum number of appearances of literals (recall that a literal is a variable in complemented or uncomplemented form); the minimum number of literals in a sum-of-products (or product-of-sums) expression; the minimum number of terms in a sum-of-products expression, provided that there is no other such expression with the same number of terms and fewer literals.
+
+2009: Switching and Finite Automata Theory: Linear sequential machines
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Finite-state recognizers
+Abstract: In this chapter we consider the characterization of finite-state machines and the sets of sequences that they accept. We investigate a number of generalized forms of finite-state machines and prove that these forms are equivalent, with respect to the sets of sequences that they accept, to the basic deterministic finite-state model. In Sections 16.2 and 16.3 we study the properties of nondeterministic state diagrams, called transition graphs, which will prove to be a useful tool in the study of regular expressions. Procedures are developed whereby any transition graph can be converted into a deterministic state diagram. Section 16.4 presents the language of regular expressions, which provides a precise characterization of the sets of sequences accepted by finite-state machines. In the following two sections we prove that any finite-state machine can be characterized by a regular expression and that every regular expression can be realized by a finite-state machine. Finally, in Section 16.7 we will be concerned with a generalized form of finite-state machines known as two-way machines. Deterministic recognizers So far, we have regarded a finite-state machine as a transducer that transforms input sequences into output sequences. In this chapter we shall view a machine as a recognizer that classifies input strings into two classes, those that it accepts and those that it rejects. The set consisting of all the strings that a given machine accepts is said to be recognized by that machine.
+
+2009: Switching and Finite Automata Theory: Preface
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Frontmatter
+Abstract: Understand the structure, behavior, and limitations of logic machines with this thoroughly updated third edition. Many new topics are included, such as CMOS gates, logic synthesis, logic design for emerging nanotechnologies, digital system testing, and asynchronous circuit design, to bring students up-to-speed with modern developments. The intuitive examples and minimal formalism of the previous edition are retained, giving students a text that is logical and easy to follow, yet rigorous. Kohavi and Jha begin with the basics, and then cover combinational logic design and testing, before moving on to more advanced topics in finite-state machine design and testing. Theory is made easier to understand with 200 illustrative examples, and students can test their understanding with over 350 end-of-chapter review questions.
+
+2009: Switching and Finite Automata Theory: Number systems and codes
+Abstract: None
+
+2009: Switching and Finite Automata Theory: Capabilities, minimization, and transformation of sequential machines
+Abstract: None
+
+2009: Switching and Finite Automata Theory: State-identification experiments and testing of sequential circuits
+Abstract: None
+
+1995: An optimal algorithm for cycle breaking in directed graphs
+Abstract: None
+

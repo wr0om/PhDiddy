@@ -1,0 +1,147 @@
+Recent papers for Marius Ungarish:
+
+2024: On a similarity solution for lock-release gravity currents affected by slope, drag and entrainment
+Abstract: We consider the long-time propagation of a Boussinesq inertia–buoyancy (large-Reynolds- number) gravity current released from a lock over a downslope of angle 
+ 
+ 
+ $\gamma$
+ 
+ , affected by entrainment and drag. We show that the shallow-water (depth-averaged) equations with a Benjamin-type front-jump condition admit a similarity solution 
+ 
+ 
+ $x_N(t) = K t^{2/3}$
+ 
+ while 
+ 
+ 
+ $h, \phi, u$
+ 
+ change like 
+ 
+ 
+ $t$
+ 
+ to the power of 
+ 
+ 
+ $2/3, -4/3, -1/3$
+ 
+ , respectively; here 
+ 
+ 
+ $x_N, h, \phi, u$
+ 
+ and 
+ 
+ 
+ $t$
+ 
+ are the position of the nose (distance from backwall), thickness, concentration of dense fluid, velocity and time, respectively, and K is a constant. Assuming that 
+ 
+ 
+ $\gamma$
+ 
+ and the coefficients of entrainment and drag are constant, we derive an analytical exact solution for the similarity profiles and show that 
+ 
+ 
+ $K \propto (\tan \gamma )^{1/3}$
+ 
+ ; the driving of the slope is balanced by entrainment and/or drag. The predicted 
+ 
+ 
+ $t^{2/3}$
+ 
+ propagation is in agreement with previously published experimental data but a conclusive quantitative assessment of the present theory cannot be performed due to various uncertainties (discussed in the paper) that must be resolved by future work.
+
+2024: On the initial down-slope propagation of a lock-release particle-driven gravity current: shallow-water predictions and comparisons with previously published data
+Abstract: We consider the initial ‘slumping phase’ of a lock-release gravity current (GC) on a down slope with focus on particle-driven (turbidity) flows, in the inertia–buoyancy (large Reynolds number) and Boussinesq regime. We use a two-layer shallow-water (SW) model for the depth-averaged variables, and compare the predictions with previously published experimental data. In particular, we analyse the empirical conclusion of Gadal et al. (J. Fluid Mech., vol. 974, 2023, A4) that the slumping displays a constant speed for a significant range of slopes and particle-sedimentation speeds. We emphasize the physical definition of the slumping phase (stage): the adjustment process during which (a) the fluid in the lock is set into motion by the dam break, then (b) forms a tail from the backwall to the nose. We focus on the question of if and when the propagation speed 
+ 
+ 
+ $u_N$
+ 
+ of the nose (front) of the GC is constant during this process (there is consensus that a significant deceleration of 
+ 
+ 
+ $u_N$
+ 
+ appears in the post-slumping stage.) The SW theory predicts correctly the adjustment of the flow field during the slumping stage, but indicates that a constant 
+ 
+ 
+ $u_N$
+ 
+ appears only for the classical case (
+ 
+ 
+ $\gamma =E=c_D=\beta =0$
+ 
+ ) where 
+ 
+ 
+ $\gamma, E, c_D, \beta$
+ 
+ are the slope, entrainment and drag coefficients, and the scaled particle settling speed for a particle-driven GC. However, since 
+ 
+ 
+ $\gamma, E, c_D, \beta$
+ 
+ are typically small, the change of 
+ 
+ 
+ $u_N$
+ 
+ during the slumping phase is also small in many cases of interest. The interaction between the various driving and hindering mechanisms is elucidated. We show that, in a system with a horizontal (open) top (typical laboratory experiments), the height of the ambient increases along the slope, and this compensates for buoyancy loss due to particle sedimentation. We point out the need for further experimental and simulation studies for a better understanding of the slumping phase and transition to the next phases, and further assessment/improvement of the SW predictions.
+
+2024: The drag on a rising sphere along the axis in a short rotating cylinder of fluid: revisiting the data and theory
+Abstract: Abstract We revisit the problem of a solid sphere rising slowly in a rotating short container filled with a slightly viscous fluid, with emphasis on the drag force. The data of the classical experiments of Maxworthy (J. Fluid Mech., vol. 31, 1968, pp. 643–655) and recent experiments of Kozlov et al. (Fluids, vol. 8 (2), 2023, paper 49), and the available geostrophic and quasi-geostrophic theories, are subjected to a novel scrutiny by combined reprocessing and comparisons. The measured drag is, consistently, about 20 % lower than the geostrophic prediction (assuming that flow is dominated by the Ekman layers, while in the inviscid cores the Coriolis acceleration is supported by the pressure gradient). The major objective is the interpretation and improvement of the gap between data and predictions. We show that the data cover a small range of relevant parameters (in particular the Taylor number $T$ and the height ratio $H$ of cylinder to particle diameter) that precludes a thorough and reliable assessment of the theories. However, some useful insights and improvements can be derived. The hypothesis that the discrepancy between data and the geostrophic prediction is due to inertial effects (not sufficiently small Rossby number $Ro$ in the experiments) is dismissed. We show that the major reason for the discrepancy is the presence of relatively thick Stewartson layers about the cylinder (Taylor column) attached to the sphere. The $1/3$ layer displaces the boundary condition of the angular velocity ($\omega = 0$) outside the radius of the particle. This observation suggests a semi-empirical correction to the theoretical quasi-geostrophic predictions (which takes into account the Ekman layers and the $1/4$ Stewartson layers); the corrected drag is in fair agreement with the data. We demonstrate that the inertial terms are negligible for $Ro\,T^{1/2} <0.4$. We consider curve-fit approximations, and point out some persistent gaps of knowledge that require further experiments and simulations.
+
+2023: Corrigendum to: “Gravity currents with internal stratification in channels of non-rectangular cross-section” [Eur. J. Mech. B Fluids 89 (2021) 83–92]
+Abstract: None
+
+2022: On simple models for gravity currents from moving sources
+Abstract: Abstract The propagation of the gravity current generated from a moving source of buoyancy is of interest in deep-sea mining and related technologies. The study by Ouillon et al. (J. Fluid Mech., vol. 924, 2021, A43) elucidated some salient patterns of the flow concerning a source close to the bottom on the basis of direct numerical simulation on a supercomputer. Here, we present a simple box model that provides further insights and useful analytical approximations for this gravity-current flow system. We show that this flow is very different from that produced by a moving source at the top, studied by Hogg et al. (J. Fluid Mech., vol. 539, 2005, pp. 349–385). The model confirms that the main governing parameter is the ratio $a$ of speed of source to that of buoyancy propagation. The model points out dependency also on the front-jump Froude number (which implies dependency on the height of the ambient fluid). For a sufficiently large $a >a_{crit}$, a supercritical regime appears in which the gravity current forms a wedge behind the moving source; in the subcritical regime, the upstream propagation attains a maximum $x_m$ at time $t_m$. The model predicts the value $a_{crit}$, the distance and time $x_m$ and $t_m$ in the subcritical case, and the shape of the wedge in the supercritical case, without any adjustable constant. Comparisons with the numerical data show fair agreement.
+
+2022: A simple model for the reflection by a vertical barrier of a dambreak flow over a dry or pre-wetted bottom
+Abstract: Abstract We revisit the theoretical solutions of the problem of the reflected flow from a vertical obstacle encountered by a current generated by dambreak of a Cartesian long reservoir over a dry bottom and with tailwaters. Previous investigations derived accurate solutions by quite complex manipulation of the balances along the characteristics, supported by numerical solutions, of the shallow-water equations (a significant extension is the recent paper Hogg & Skevington, Q. J. Mech. Appl. Maths, vol. 74, no. 4, 2021, pp. 441–465). Here we developed a simplified model, based on the major assumption that the fluid between the obstacle (wall) and the reflected jump is stagnant. This allows the solution of the problem by a straightforward numerical integration of one initial-value ordinary differential equation. The model provides the position, height and speed of the jump as functions of time. For long times a simple analytical approximation is also available. The model points out clear-cut effects of the presence of the tailwaters. The model has been validated by comparisons with exact solutions of the shallow-water equations of the recent study of Hogg & Skevington (Q. J. Mech. Appl. Maths, vol. 74, no. 4, 2021, pp. 441–465) (obtained by significantly more complex hodograph-plane methods). In all the tested cases the agreement is good, for long periods of time. This model provides reliable insights and fast quantitative predictions recommended for use in research and engineering problems where a fair approximation is sufficient for the application.
+
+2022: Experimental Study on Gravity Currents with Internal Strati Cation in Semicircular Channels
+Abstract: None
+
+2022: On the spinup and spreadout of a Cartesian gravity current on a slope in a rotating system
+Abstract: Abstract Ocean gravity currents flow along the inclined ocean floor for long times compared to the planet's rotation period. Their shape and motion is governed by the gravity buoyancy, Coriolis acceleration and friction-induced Ekman-layer spinup circulation. In order to understand this process, we consider the flow of a dense-fluid Boussinesq gravity current of fixed volume over an inclined bottom in a rotating system, in the framework of Cartesian 2.5-dimensional geometry (no dependency on the lateral direction $y$, but with a non-trivial $y$-component velocity $v$ due to Coriolis coupling with the main $u$ along the bottom $x$). After release from rest in a lock (co-rotating, with two gates creating propagation in ${\pm }x$-directions), the current forms a quasi-steady geostrophic ‘vein’ of parabolic height profile with a significant lateral velocity $v$. Subsequently, a spinup process, driven by the Ekman layers on the bottom and interface, appears and prevails for many revolutions, during which $v$ decays and the shape of the interface changes dramatically. We investigate the spinup motion, using an approximate model, for the case of large Rossby number, small Ekman number and small slope $\gamma$ (relevant to oceanic currents). We show that the initial shape of the natural geostrophic vein can be calculated rigorously (not an arbitrary parabola), and the initial lateral velocity $v(x,t=0)$ is counter-rotation about a fixed point (pivot) $x_{\rm \pi}$ at which $v(x_{\rm \pi},t) =0$ (at the beginning and during spinup). This point is placed excentrically, in the upper part, and this excentre, $\propto \gamma$, plays a significant role in the process. The spinup in a rigid container is developed as the prototype process; an essential component is the edge (outer wall) where the flux of the Ekman layer is arrested (and then returned to the centre via the inviscid core). While the upper part of the vein adopts this spinup pattern, the lower part (most of the vein, $x< x_{\rm \pi}$) develops a leak (drainage) at the edge that (a) modifies the spinup of the vein, and (b) generates a thin tail extension downslope. The tail consists of two merged non-divergent Ekman layers, which chokes the drainage flow rate. The present model provides clear-cut insights and some quantitative predictions of the major spinup stage by analytical algebraic solutions. A comparison with a previously published simple model (Wirth, Ocean Dyn., vol. 59, 2009, pp. 551–563) is presented. We also discuss briefly stability of the initial vein.
+
+2021: Development of supercritical motion and internal jumps within lock-release radial currents and draining flows
+Abstract: When released from rest in a cylindrical reservoir, relatively dense fluid flows radially and may drain freely over an edge or may propagate along the underlying boundary as a gravity current. Here we show that in both scenarios the unsteady fluid motions develop the same supercritical state, a phenomenon that does not occur in equivalent two-dimensional flows and which strongly influences the ensuing dynamics, even at long times after the release. In particular, we demonstrate the onset and persistence of supercritical outflow when fluid drains over an edge, and the development of internal bores within gravity current flow.
+
+2021: Gravity currents with internal stratification in channels of non-rectangular cross-section
+Abstract: None
+
+2021: On symmetric intrusions in a linearly stratified ambient: a revisit of Benjamin's steady-state propagation results
+Abstract: Abstract Previous studies have extended Benjamin's theory for an inertial steady-state gravity current of density $\rho _{c}$ in a homogeneous ambient fluid of density $\rho _{o} < \rho _{c}$ to the counterpart propagation in a linearly stratified (Boussinesq) ambient (density decreases from $\rho _b$ to $\rho _{o}$). The extension is typified by the parameter $S = (\rho _{b}-\rho _{o})/(\rho _{c}-\rho _{o}) \in (0,1]$, uses Long's solution for the flow over a topography to model the flow of the ambient over the gravity current, and reduces well to the classical theory for small and moderate values of $S$. However, for $S=1$, i.e. $\rho _b = \rho _c$, which corresponds to a symmetric intrusion, various idiosyncrasies appear. Here attention is focused on this case. The control-volume analysis (balance of volume, mass, momentum and vorticity) produces a fairly compact analytical formulation, pending a closure for the head loss, and subject to stability criteria (no inverse stratification downstream). However, we show that plausible closures that work well for the non-stratified current (like zero head loss on the stagnation line, or zero vorticity diffusion) do not produce satisfactory results for the intrusion (except for some small ranges of the height ratio of current to channel, $a = h/H$). The reasons and insights are discussed. Accurate data needed for comparison with the theoretical model are scarce, and a message of this paper is that dedicated experiments and simulations are needed for the clarification and improvement of the theory.
+
+2021: Experimental verification of theoretical approaches for radial gravity currents draining from an edge
+Abstract: None
+
+2020: Inertial gravity current in rectangular channels over a porous bottom: Asymptotic solutions
+Abstract: None
+
+2020: Propagation of a continuously supplied gravity current head down bottom slopes
+Abstract: HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
+
+2020: A model for the propagation of inertial gravity currents released from a two-layer stratified lock
+Abstract: Abstract Consider the propagation of a gravity current (GC) released from a lock of length $x_0$ and height $h_0$ into an ambient fluid of height $H h_0$ and density $\rho _{o}$. The lock contains a layer of thickness $H_L h_0$ of density $\rho _L$ overlaid by a layer of thickness $(1-H_L)h_0$ and density $\rho _U$, where $\rho _{o} < \rho _U < \rho _L$ and $H_L \in (0, 1)$. Assume Boussinesq and large Reynolds-number flow. The internal stratification parameter is $\sigma = (\rho _L - \rho _U)/(\rho _L - \rho _{o})$, in the range $(0,1)$; the classical GC is $\sigma =0$. Such GCs were investigated experimentally (Gladstone et al., Sedimentology, vol. 51, 2004, pp. 767–789; Dai, Phys. Rev. Fluids, vol. 2, 2017, 073802; Wu & Dai, J. Hydraul. Res., 2019, pp. 1–14.); we present a new self-contained model for the prediction of the thickness $h$ and depth-averaged velocity $u$ as functions of distance $x$ and time $t$; the position and speed of the nose $x_N(t)$ and $u_N(t)$ follow. We derive a compact scaling upon which, for a given $H$ (height ratio of ambient to lock), the flows differ in only one parameter: $\varPsi = \{ [1 -\sigma (1 - H_L)]/[1 - \sigma (1 - H_L^2)] \} ^{1/2}$. The parameter $\varPsi$ equals $1$ for the classical GC and is larger in the presence of stratification; a larger $\varPsi$ means a faster and a thinner GC. The solution reveals an initial slumping phase with constant $u_N$, a self-similar phase $x_N \sim t^{2/3}$, and the transition at $x_V$ to the viscous regime. Comparisons with published experiments show good data collapse with the present scaling $\varPsi$, and fair-to-good quantitative agreement (the discrepancy and the stability conditions are discussed).
+
+2020: Gravity Currents and Intrusions
+Abstract: None
+
+2020: Tailwater gravity currents and their connection to perfectly subcritical flow: laboratory experiments and shallow-water and direct numerical solutions
+Abstract: None
+
+2019: Inertial gravity current produced by the drainage of a cylindrical reservoir from an outer or inner edge
+Abstract: We consider the time-dependent flow of a fluid of density $\unicode[STIX]{x1D70C}_{1}$ in a vertical cylindrical container embedded in a fluid of density $\unicode[STIX]{x1D70C}_{2}~({<}\unicode[STIX]{x1D70C}_{1})$ whose side boundary is suddenly removed and the fluid drains freely from the edge. We show that in the inertial–buoyancy regime (large initial Reynolds number) the flow is modelled by the shallow-water equations and bears similarities to a gravity current released from a lock (the dam-break problem) driven by the reduced gravity $g^{\prime }=(1-\unicode[STIX]{x1D70C}_{2}/\unicode[STIX]{x1D70C}_{1})g$ . This formulation is amenable to an efficient finite-difference solution. Moreover, we demonstrate that similarity solutions exist, and show that the flow created by the dam break approaches the predicted self-similar behaviour when the volume ratio ${\mathcal{V}}(t)/{\mathcal{V}}(0)\approx 1/2$ where $t$ is time elapsed from the dam break. We considered two cases of drainage: (i) outward from the outer boundary in a full-radius reservoir; and (ii) inward from the inner radius in an annular-shaped reservoir. For the first case the similarity solution is expressed analytically, while the second case is more complicated and requires a numerical solution. In both cases ${\mathcal{V}}(t)/{\mathcal{V}}(0)$ decays like $t^{-2}$ , but the details are different. The similarity solutions admit an adjustable virtual-origin constant, which we determine by matching with the finite-difference solution. The analysis is valid for both Boussinesq and non-Boussinesq systems, and a wide range of geometric parameters (inner and outer radii, and height). The importance of the neglected viscous terms increases with time, and eventually the inertial–buoyancy model becomes invalid. An estimate for this occurrence is also provided. The predictions of the model are compared to results of direct numerical simulations; there is good agreement for the position of the interface and for the averaged radial velocity, and excellent agreement for ${\mathcal{V}}(t)/{\mathcal{V}}(0)$ . A box model is used for estimating the effect of a partial (over a sector) dam break. This study is an extension of the work for a rectangular reservoir of Momen et al. (J. Fluid Mech., vol. 827, 2017, pp. 640–663). We demonstrate that there are some similarities, but also significant differences, between the rectangular and the cylindrical reservoirs concerning the velocity, shape of the interface and rate of drainage, which are of interest in applications. The overall conclusion is that this simple model captures very well the flow field under consideration.
+
+2019: Rotating planar gravity currents at moderate Rossby numbers: fully resolved simulations and shallow-water modelling – ERRATUM
+Abstract: This note is concerned with the paper published in JFM 867 "Rotating planar gravity currents at moderate Rossby numbers: fully-resolved simulations and shallow-water modeling" by Salinas, Jorge; Bonometti, Thomas; Ungarish, M.; Cantero, Mariano. We discovered a serious error in a significant equation; this produced some wrong numbers in a table and a related figure. The present erratum clarifies the error and provides the corrected results.
+
+2019: On gravity currents of fixed volume that encounter a down-slope or up-slope bottom
+Abstract: We consider a gravity current released from a lock into an ambient fluid of smaller density, that, from the beginning or after some horizontal propagation X1, propagates along an inclined (up- or down-) bottom. The flow (assumed in the inertial-buoyancy regime) is modeled by the shallow-water (SW) equations with a jump condition applied at the nose (front). The behavior of the current is dominated by the slope angle, θ, but is also affected by additional dimensionless parameters: the aspect ratio of the lock x0/h0, the height ratio of the ambient to lock, H/h0, and the distance of the backwall from the beginning of the slope, X1/x0. We show that the stability of the interface, reflected by the value of the bulk Richardson number, Ri, is essential in the interpretation and modeling. In the upslope flow, Ri increases and hence entrainment/mixing effects are unimportant. In the downslope flow, the current first accelerates and Ri decreases; this enhances entrainment and drag, which then decelerate the current. We show that the accelerating-decelerating downstream current is reproduced well by a SW model combined with a simple closure for the entrainment and drag. A comparison of the theoretical results with previously published experimental data for both upslope flow and downslope flow show fair agreement.We consider a gravity current released from a lock into an ambient fluid of smaller density, that, from the beginning or after some horizontal propagation X1, propagates along an inclined (up- or down-) bottom. The flow (assumed in the inertial-buoyancy regime) is modeled by the shallow-water (SW) equations with a jump condition applied at the nose (front). The behavior of the current is dominated by the slope angle, θ, but is also affected by additional dimensionless parameters: the aspect ratio of the lock x0/h0, the height ratio of the ambient to lock, H/h0, and the distance of the backwall from the beginning of the slope, X1/x0. We show that the stability of the interface, reflected by the value of the bulk Richardson number, Ri, is essential in the interpretation and modeling. In the upslope flow, Ri increases and hence entrainment/mixing effects are unimportant. In the downslope flow, the current first accelerates and Ri decreases; this enhances entrainment and drag, which then decelerate the curren...
+

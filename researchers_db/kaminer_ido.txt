@@ -1,0 +1,62 @@
+Recent papers for Kaminer Ido:
+
+2025: Toward high-gain laser-driven electron undulators
+Abstract: None
+
+2024: Dynamics of optical vortices in Van der Waals materials
+Abstract: None
+
+2024: Electron-photon quantum interaction enables novel ultrafast electron imaging approaches
+Abstract: None
+
+2024: Free-electron crystals for enhanced X-ray radiation
+Abstract: None
+
+2024: Many-body entanglement via ‘which-path’ information
+Abstract: None
+
+2024: Toward High-Gain Laser-Driven Electron Undulation
+Abstract: We find an unexplored regime of inverse Compton scattering, achieving high-gain undulation as in FELs. We show the potential for soft-X-ray and extreme ultraviolet radiation sources based on next-generation electron sources and state-of-the-art laser sources.
+
+2024: Maximal Quantum Interaction between Free Electrons and Photons
+Abstract: The emerging field of free-electron quantum optics enables electron-photon entanglement and holds the potential for generating nontrivial photon states for quantum information processing. Although recent experimental studies have entered the quantum regime, rapid theoretical developments predict that qualitatively unique phenomena only emerge beyond a certain interaction strength. It is thus pertinent to identify the maximal electron-photon interaction strength and the materials, geometries, and particle energies that enable one to approach it. We derive an upper limit to the quantum vacuum interaction strength between free electrons and single-mode photons, which illuminates the conditions for the strongest interaction. Crucially, we obtain an explicit energy selection recipe for electrons and photons to achieve maximal interaction at arbitrary separations and identify two optimal regimes favoring either fast or slow electrons over those with intermediate velocities. We validate the limit by analytical and numerical calculations on canonical geometries and provide near-optimal designs indicating the feasibility of strong quantum interactions. Our findings offer fundamental intuition for maximizing the quantum interaction between free electrons and photons and provide practical design rules for future experiments on electron-photon and electron-mediated photon-photon entanglement. They should also enable the evaluation of key metrics for applications such as the maximum power of free-electron radiation sources and the maximum acceleration gradient of dielectric laser accelerators.
+
+2024: Theory and Experiment of Nanoscale Heterostructure Scintillators
+Abstract: We develop a framework modeling nanoscale heterostructure scintillators, predicting their light yield quantitatively and comparing with new fabricated multilayer polymer-scintillators. This combined theory-experiment approach unveils the prospects of controlling secondary-electrons for future enhanced scintillators.
+
+2024: Unsupervised Discovery of Formulas for Mathematical Constants
+Abstract: Ongoing efforts that span over decades show a rise of AI methods for accelerating scientific discovery, yet accelerating discovery in mathematics remains a persistent challenge for AI. Specifically, AI methods were not effective in creation of formulas for mathematical constants because each such formula must be correct for infinite digits of precision, with"near-true"formulas providing no insight toward the correct ones. Consequently, formula discovery lacks a clear distance metric needed to guide automated discovery in this realm. In this work, we propose a systematic methodology for categorization, characterization, and pattern identification of such formulas. The key to our methodology is introducing metrics based on the convergence dynamics of the formulas, rather than on the numerical value of the formula. These metrics enable the first automated clustering of mathematical formulas. We demonstrate this methodology on Polynomial Continued Fraction formulas, which are ubiquitous in their intrinsic connections to mathematical constants, and generalize many mathematical functions and structures. We test our methodology on a set of 1,768,900 such formulas, identifying many known formulas for mathematical constants, and discover previously unknown formulas for $\pi$, $\ln(2)$, Gauss', and Lemniscate's constants. The uncovered patterns enable a direct generalization of individual formulas to infinite families, unveiling rich mathematical structures. This success paves the way towards a generative model that creates formulas fulfilling specified mathematical properties, accelerating the rate of discovery of useful formulas.
+
+2024: Opportunities in nanoscale probing of laser-driven phase transitions
+Abstract: None
+
+2024: Free-Electron Computed Tomography of Near-Fields
+Abstract: We propose a novel approach for extracting the 3D vectorial near-field confined in nanostructures. Our Radon-like algorithm incorporates the nonlinearity of free-electron interactions and can be realized using ultrafast transmission electron microscopes.
+
+2024: Emerging Modalities for Condensed Matter Explorations Using Ultrafast Electron Microscopy
+Abstract: None
+
+2024: Modeling quantum optical phenomena using transition currents
+Abstract: Spontaneous light emission is central to a vast range of physical systems and is a founding pillar for the theory of light–matter interactions. In the presence of complex photonic media, the description of spontaneous light emission usually requires advanced theoretical quantum optics tools such as macroscopic quantum electrodynamics, involving quantized electromagnetic fields. Although rigorous and comprehensive, the complexity of such models can obscure the intuitive understanding of many quantum-optical phenomena. Here, we review a method for calculating spontaneous emission and other quantum-optical processes without making explicit use of quantized electromagnetic fields. Instead, we introduce the concept of transition currents, comprising charges in matter that undergo transitions between initial and final quantum states. We show how predictions that usually demand advanced methods in quantum electrodynamics or quantum optics can be reproduced by feeding these transition currents as sources to the classical Maxwell equations. One then obtains the relevant quantum observables from the resulting classical field amplitudes, without washing out quantum optical effects. We show that this procedure allows for a straightforward description of quantum phenomena, even when going beyond the dipole approximation and single emitters. As illustrative examples, we calculate emission patterns and Purcell-enhanced emission rates in both bound-electron and free-electron systems. For the latter, we derive cathodoluminescence emission and energy-loss probabilities of free electrons interacting with nanostructured samples. In addition, we calculate quantum-beat phenomena in bound-electron systems and wave function-dependent optical coherence in free-electron systems. Remarkably, the transition-current formalism captures more complex phenomena, such as many-body interference effects and super-radiance of both bound- and free-electron systems, second-order processes such as two-photon emission, and quantum recoil corrections to free-electron radiation. We review a variety of light–matter interactions in fields ranging from electron microscopy to nanophotonics and quantum optics, for which the transition-current theoretical formalism facilitates practical simulations and a deeper understanding of novel applications.
+
+2024: Coherent Interactions of Free Electrons and Matter: Toward Tunable Compact X-ray Sources
+Abstract: Compact laboratory-scale X-ray sources still rely on the same fundamental principles as in the first X-ray tubes developed more than a century ago. In recent years, significant research and development have focused on large-scale X-ray sources such as synchrotrons and free-electron lasers, leading to the generation of high-brightness coherent X-rays. However, the large size and high costs of such sources prevent their widespread use. The quest for a compact and coherent Xray source has long been a critical objective in modern physics, gaining further importance in recent years for industrial applications and fundamental scientific research. Here, we review the physical mechanisms governing compact coherent X-ray generation. Of current interest are coherent periodic interactions of free electrons in crystalline materials, creating hard X-rays via a mechanism known as parametric X-ray radiation (PXR). Over the past decade, X-ray sources leveraging this mechanism have demonstrated state-of-the-art tunability, directionality, and broad spatial coherence, enabling X-ray phase-contrast imaging on a compact scale. The coming years are expected to show substantial miniaturization of compact X-ray sources, facilitated by progress in electron beam technologies. This review compares the most promising mechanisms used for hard-X-ray generation, contrasting parametric X-ray radiation with inverse Compton scattering and characteristic radiation from a liquid-jet anode. We cover the most recent advancements, including the development of new materials, innovative geometrical designs, and specialized optimization techniques, aiming toward X-ray flux levels suitable for medical imaging and X-ray spectroscopy in compact scales.
+
+2024: Spectral Splitting and Enhanced Emission Rate in X-Ray-Driven Scintillation from Perovskite Quantum Dots
+Abstract: We observe record-fast X-ray-induced light emission (scintillation) from perovskite quantum dots, a long-sought characteristic in time-of-flight radiation detectors. This fast emission is correlated with spectral.
+
+2024: Coherent Amplification in Ultrafast Electron Microscopy
+Abstract: We present free-electron imaging of sub-cycle spatio-temporal dynamics of 2D polariton wavepackets, demonstrating the first simultaneous time-, space-, and phase-resolved measurement of such phenomena, and resolving their novel features like vortex-anti-vortex singularities for record-low intensities.
+
+2024: Mode entanglement created by interacting superradiant emitters
+Abstract: We show that interacting quantum emitters coupled to a waveguide or any bath of optical-modes emit mode-entangled light. Controlling this entanglement could create useful multi-mode pure states, although each mode has thermal statistics.
+
+2024: Electron-Heralded Quantum X-Ray Source
+Abstract: We present a concept for creating quantum X-ray radiation heralded by free electrons, showing conditions for squeezed vacuum and Schrodinger cat states of X-rays, created by post-selected pre-bunched electrons. © 2024 The Author(s)
+
+2024: Towards Many-Body Hamiltonian Tomography Using Quantum Light Emission
+Abstract: We show that quantum many-body systems can transfer information about their Hamiltonians onto multi-mode quantum light states via collective spontaneous emission, opening new paths towards tomographic reconstruction of many-body Hamiltonians.
+
+2024: Enhanced Free-Electron Wavefunction Modulation via Photon-Induced Near-Field Electron Microscopy (PINEM) with Shaped Light Fields
+Abstract: interacts with a femtosecond
+

@@ -1,0 +1,63 @@
+Recent papers for Rosenthal Amir:
+
+2023: Miniature ultrasound detector arrays in silicon photonics using amplitude transmission monitoring
+Abstract: Silicon-photonics is a new ultrasound-detection technology, based on optical resonators, with unparalleled miniaturization levels, sensitivities, bandwidths, and capable of producing dense resonator arrays. Conventional techniques, based on tuning a continuous-wave laser to the resonator wavelength, are not scalable due to the wavelength disparity between the resonators, requiring a separate laser for each resonator. In this work, we show that also the Q-factor and transmission peak of silicon-based resonators can be pressure sensitive, develop a readout scheme based on monitoring the amplitude transmission, and demonstrate its compatibility with optoacoustic tomography.
+
+2023: Silicon photonic acoustic detector (SPADE) using a silicon nitride microring resonator
+Abstract: None
+
+2023: High-resolution silicon photonics focused ultrasound transducer with a sub-millimeter aperture.
+Abstract: We present an all-optical focused ultrasound transducer with a sub-millimeter aperture and demonstrate its capability for high-resolution imaging of tissue ex vivo. The transducer is composed of a wideband silicon photonics ultrasound detector and a miniature acoustic lens coated with a thin optically absorbing metallic layer used to produce laser-generated ultrasound. The demonstrated device achieves axial resolution and lateral resolutions of 12 μm and 60 μm, respectively, well below typical values achieved by conventional piezoelectric intravascular ultrasound. The size and resolution of the developed transducer may enable its use for intravascular imaging of thin fibrous cap atheroma.
+
+2023: All-optical optoacoustic micro-tomography in reflection mode
+Abstract: None
+
+2023: Portable hand-held optoacoustic system for localizing blood vessels at intermediate depths
+Abstract: The rapid localization of blood vessels in patients is important in various clinical applications, such as catheterization procedures. While optical techniques, including visual inspection, are limited in their effectiveness at depths below 1 mm, ultrasound and optoacoustic tomography can be used at deeper depths but require a spacer between the tissue and transducer to visualize superficial structures. In this work, we introduce a portable hand-held optoacoustic system that is capable of localizing blood vessels from the point of contact to a depth of 1 cm without the need for a spacer. The probe features a flat, lens-free ultrasound array which enables a largely depth independent response, though at the cost of reduced elevational resolution. In contrast to lens-based probes, where acoustic signals from outside the focal region are distorted, the amplitude of the signal from our probe only varies with depth, resulting in an imaging quality that is largely depth-independent within the imaged region. Additionally, to facilitate miniaturization, dark-field illumination is used, whereby light scattering from the tissue is exploited to homogenize the sensitivity field.
+
+2023: Silicon photonics ultrahigh-resolution in vivo optoacoustic tomography
+Abstract: A new ultrasound-detection technology is developed for ultrahigh-resolution optoacoustic tomography and is experimentally demonstrated with bandwidths exceeding 200 MHz and lateral resolutions beyond 20 μm. Our technology is based on an optical resonator fabricated in a silicon-photonics platform, which is coated by a sensitivity-enhancing polymer, which also eliminates the parasitic effect of surface acoustic waves. Further improvement in sensitivity is achieved by a low-noise interferometric setup, which eliminates the effect of laser frequency noise on the measurement. In vivo optoacoustic tomography is performed on a mouse ear, revealing its vasculature at detail that has been previously reserved to optoacoustic microscopy.
+
+2022: Burst-mode pulse interferometry for enabling low-noise multi-channel optical detection of ultrasound.
+Abstract: Ultrasound detection via optical resonators can achieve high levels of miniaturization and sensitivity as compared to piezoelectric detectors, but its scale-up from a single detector to an array is highly challenging. While the use of wideband sources may enable parallel interrogation of multiple resonators, it comes at the cost of reduction in the optical power, and ultimately in sensitivity, per channel. In this work we have developed a new interferometric approach to overcome this signal loss by using high-power bursts that are synchronized with the time window in which ultrasound detection is performed. Each burst is composed of a train of low-noise optical pulses which are sufficiently wideband to interrogate an array of resonators with non-overlapping spectra. We demonstrate our method, termed burst-mode pulse interferometry, for interrogating a single resonator in which the optical power was reduced to emulate the power loss per channel that occurs in parallel interrogation of 20 to 200 resonators. The use of bursts has led to up 25-fold improvement in sensitivity without affecting the shape of the acoustic signals, potentially enabling parallel low-noise interrogation of resonator arrays with a single source.
+
+2022: Silicon-photonics acoustic detector for optoacoustic micro-tomography
+Abstract: None
+
+2022: Single-detector 3D optoacoustic tomography via coded spatial acoustic modulation
+Abstract: None
+
+2022: Hybrid optical parametrically-oscillating emitter at 1930 nm for volumetric photoacoustic imaging of water content
+Abstract: None
+
+2022: Silicon-photonics focused ultrasound detector for minimally invasive optoacoustic imaging.
+Abstract: One of the main challenges in miniaturizing optoacoustic technology is the low sensitivity of sub-millimeter piezoelectric ultrasound transducers, which is often insufficient for detecting weak optoacoustic signals. Optical detectors of ultrasound can achieve significantly higher sensitivities than their piezoelectric counterparts for a given sensing area but generally lack acoustic focusing, which is essential in many minimally invasive imaging configurations. In this work, we develop a focused sub-millimeter ultrasound detector composed of a silicon-photonics optical resonator and a micro-machined acoustic lens. The acoustic lens provides acoustic focusing, which, in addition to increasing the lateral resolution, also enhances the signal. The developed detector has a wide bandwidth of 84 MHz, a focal width smaller than 50 µm, and noise-equivalent pressure of 37 mPa/Hz1/2 - an order of magnitude improvement over conventional intravascular ultrasound. We show the feasibility of the approach and the detector's imaging capabilities by performing high-resolution optoacoustic microscopy of optical phantoms with complex geometries.
+
+2022: Homodyne Time-Domain Acousto-Optics Imaging for High SNR
+Abstract: None
+
+2022: Hand-Held Optoacoustic System for the Localization of Mid-Depth Blood Vessels
+Abstract: The ability to rapidly locate blood vessels in patients is important in many clinical applications, e.g., in catheterization procedures. Optical techniques, including visual inspection, generally suffer from a reduced performance at depths below 1 mm, while ultrasound and optoacoustic tomography are better suited to a typical depth on the scale of 1 cm and require an additional spacer between the tissue and transducer in order to image the superficial structures at the focus plane. For this work, we developed a hand-held optoacoustic probe, designed for localizing blood vessels from the contact point down to a depth of 1 cm, without the use of a spacer. The probe employs a flat lens-free ultrasound array, enabling a largely depth-independent response down to a depth of 1 cm, at the expense of low elevational resolution. Specifically, while in lens-based probes, the acoustic signals from outside the focal region suffer from distortion, in our probe, only the amplitude of the signal varies with depth, thus leading to an imaging quality that is largely depth-independent in the imaged region. To facilitate miniaturization, dark-field illumination is used, whereby light scattering from the tissue is exploited to homogenize the sensitivity field.
+
+2022: Miniaturized ultrasound detector arrays in silicon photonics using pulse transmission amplitude monitoring.
+Abstract: Silicon photonics holds promise for a new generation of ultrasound-detection technology, based on optical resonators, with unparalleled miniaturization levels, sensitivities, and bandwidths, creating new possibilities for minimally invasive medical devices. While existing fabrication technologies are capable of producing dense resonator arrays whose resonance frequency is pressure sensitive, simultaneously monitoring the ultrasound-induced frequency modulation of numerous resonators has remained a challenge. Conventional techniques, which are based on tuning a continuous wave laser to the resonator wavelength, are not scalable due to the wavelength disparity between the resonators, requiring a separate laser for each resonator. In this work, we show that the Q-factor and transmission peak of silicon-based resonators can also be pressure sensitive, exploit this phenomenon to develop a readout scheme based on monitoring the amplitude, rather than frequency, at the output of the resonators using a single-pulse source, and demonstrate its compatibility with optoacoustic tomography.
+
+2022: Homodyne Time-Domain Acousto-Optic Imaging for Low-Gain Photodetectors
+Abstract: Acousto-optics imaging (AOI) is a hybrid imaging modality that is capable of mapping the light ﬂuence rate in deep tissue by local ultrasound modulation of the diffused photons. Since the intensity of the modulated photons is relatively low, AOI systems often rely on high-gain photodetectors, e.g. photomultiplier tubes (PMTs), which limit scalability due to size and cost and may signiﬁcantly increase the relative shot-noise in the detected signal due to low quantum yields or gain noise. In this Letter, we have developed a homodyne AOI scheme in which the modulated photons are ampliﬁed by interference with a reference beam, enabling their detection with low-gain photodetectors. We experimentally demonstrate our approach with a silicon photodiode, achieving over a 4-fold improvement in SNR in comparison to a PMT-based setup.
+
+2022: Homodyne time-of-flight acousto-optic imaging for low-gain photodetector
+Abstract: None
+
+2022: Silicon-photonics acoustic detector for ultrahigh-resolution imaging
+Abstract: A new ultrasound-detection technology is developed for imaging with resolutions beyond 20 µm using an optical resonator coated by a sensitivity-enhancing polymer, which also eliminates the parasitic effect of surface acoustic waves.
+
+2021: 3D optoacoustic tomography via spatially coded detectors
+Abstract: Novel method for spatially coding ultrasonic detectors is described and experimentally demonstrated by in vivo Optoacoustic imaging of a mouse leg using a single detector, effectively transformed to a 2D detection array with 1763 elements.
+
+2021: Single pixel imaging at megahertz switching rates via cyclic Hadamard masks
+Abstract: None
+
+2021: A new spin on single-pixel imaging: spatial light modulation at megahertz switch rates via cyclic Hadamard masks
+Abstract: 
+ Optical imaging is commonly performed with either a camera and wide-field illumination or with a single detector and a collimated beam that scans the imaged object. Unfortunately, sources that can be collimated and cameras do not exist at all wavelengths and may not always achieve the specifications required for a given application. Single-pixel imaging (SPI) offers an alternative that requires a single detector and may be performed with wide-field illumination, potentially enabling imaging applications in which both the detection and illumination technologies are immature. However, SPI currently struggles with low imaging rates owing to its reliance on configurable spatial light modulators, whose rates do not generally exceed 22 kHz. In this work, we develop an approach towards rapid SPI which relies on cyclic patterns coded onto a spinning mask and demonstrate it for in vivo imaging of C. elegans worms. Spatial modulation rates of up to 2.4 MHz and imaging rates of up to 72 fps are reported, creating new opportunities for using the SPI paradigm in dynamic imaging scenarios.
+

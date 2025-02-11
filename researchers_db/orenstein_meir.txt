@@ -1,0 +1,62 @@
+Recent papers for Orenstein Meir:
+
+2023: Controlled Emission of Entangled Multiphoton States from Cascaded Quantum Wells
+Abstract: We propose a deterministic source of entangled multiphoton states based on spontaneous emission from a ladder of a cascaded quantum well structure. The coupling between the quantum wells enables a many-path evolution with the emission of photon-number combination states in three modes. The tripartite multiphoton state can be used for controlling the entanglement between two multiphoton modes by measuring the third. We further discuss an application as a qubit-pair source with an error-detection ancilla.
+
+2023: Orbital Angular Momentum in Nanoplasmonic Vortices
+Abstract: None
+
+2023: Generating structured 3D linear space-time light bullets with nonlocal nanophotonics
+Abstract: We propose the generation of 3D linear light bullets propagating in free space using a single passive optical surface. The device is a single-layer photonic crystal slab. It can automatically transform an incident conventional Gaussian pulse into a light bullet in the reflection. Our approach also provides simultaneous control of various properties including group velocity, spin, and orbital angular momentum. Our results may advance practical applications of light bullet.
+
+2022: Generation of Structured 3D Linear Space-time Light Bullets Using Nonlocal Nanophotonics
+Abstract: We propose the generation of 3D linear light bullets propagating in free space using a single passive optical surface. Our approach provides simultaneous control of various properties including group velocity, spin, and orbital angular momentum.
+
+2022: Laser Cooling Assisted Thermal Management of Lightsails
+Abstract: A lightsail can be accelerated to ultra-high speed by the radiation pressure of a laser having an intensity of the order of GW/m$^2$, which though presents a critical challenge in the thermal management of lightsails. In this letter, we explore the applicable regimes of solid-state laser cooling in dissipating heat in additional to the previously explored radiative cooling approach. We begin by examining the cooling capacity of laser cooling, and show that the cooling rate from a micron-thick layer doped with ytterbium ions can exceed that of blackbody thermal emission. This allows more intense laser illumination upon material damage, and consequently shortened acceleration distance. Next, we explore the impact of the limited operating bandwidth of laser cooling to account for the Doppler shift of the pumping laser, and conclude that laser cooling is helpful for target velocities $\lesssim5\%$ for room-temperature operations.
+
+2022: Lineshape study of optical force spectra on resonant structures.
+Abstract: Understanding the frequency spectrum of the optical force is important for controlling and manipulating micro- and nano-scale objects using light. Spectral resonances of these objects can significantly influence the optical force spectrum. In this paper, we develop a theoretical formalism based on the temporal coupled-mode theory that analytically describes the lineshapes of force spectra and their dependencies on resonant scatterers for arbitrary incident wavefronts. We obtain closed-form formulae and discuss the conditions for achieving symmetric as well as asymmetric lineshapes, pertaining, respectively, to a Lorentzian and Fano resonance. The relevance of formalism as a design tool is exemplified for a conceptual scheme of the size-sorting mechanism of small particles, which plays a role in biomedical diagnosis.
+
+2022: Topology of multiple cross-linked Su-Schrieffer-Heeger chains
+Abstract: In polymer science, cross-linking of polymer chains yields a substantially modified system compared to the one-dimensional constituent chains, due to the increase of dimensionality and effective seeding by defects (cross-linking sites). Inspired by this concept, we analyze topological features of a unit cell of a generalized topological mesh comprised of several one-dimensional Su-Schrieffer-Heeger (SSH) lattices cross-linked via a single site. The coupling site functions as a defect with protected states in the trivial regime and also induces edges inside the bulk with protected localized states centered around it in the topological regime. When more than two lattices are coupled by the defect, namely, a graph-dimensionality larger than one, the crossed chains support two types of localized eigenstates around the defect. One type is highly controllable by modifying the cross-linking strength, enabling broad tuning of eigenenergies from being submerged in the bulk band to becoming highly isolated and protected. We show that these unique features can be explained by an equivalence of the aforementioned system to an SSH chain coupled nonreciprocally to an external reservoir, yielding a unique pseudospectrum for both the bulk and localized states, with spatially symmetric eigenstates. Applying non-Hermiticity by adding gain and loss to alternating sites, relevant for example to a possible realization of topological coupled-laser fabric, we observe an abrupt transition of the topologically protected mid-gap state from anti-localized to localized near the defect. By changing the gain-loss parameters, we observe a cascaded spatial symmetry breaking of the supported states at exceptional points where parity-time symmetry is broken, for both the localized and the bulk states, exhibiting various novel phases.
+
+2022: Multiple crossed non-Hermitian Su-Schrieffer-Heeger chains coupled via a mutual defect site
+Abstract: We analyze topological systems with dimensions larger than one, comprised of several one-dimensional Su-SchriefferHeeger (SSH) lattices coupled through a single defect. The defect induces edges inside the bulk, producing protected localized states centered around it. Whenever more than two lattices are coupled by the defect – namely in a dimension larger than one – the system supports two distinct types of localized eigenstates around the defect, in addition to the regular topological edge-states of the native SSH lattice. One type is highly controllable and by a modification of the defect coupling strength, the eigenenergies are tuned in a broad range from being merged in the bulk band to becoming highly isolated. We show that in general, the crossed-chain system is isospectral with a system consisting of several uncoupled SSH chains and a single chain coupled nonreciprocally to an external reservoir. The latter forms a separate singlet pseudospectrum both for the bulk and localized states, with spatially symmetric amplitude profiles. We generalize our analysis to a non-Hermitian crossed-chain structure by adding gain and loss to alternating sites and show that the same isospectral system is valid also here. In the non-Hermitian regime, we observe spatial symmetry breaking not only for the localized but also for the bulk singlet states at exceptional points and show that the combination of the nonHermiticity and higher-dimensionality yields novel phases.
+
+2021: High-performance photonic transformers for DC voltage conversion
+Abstract: None
+
+2021: Temporal coupled-mode theory for the line shape of the optical force spectrum
+Abstract: None
+
+2021: Theory for Twisted Bilayer Photonic Crystal Slabs.
+Abstract: We analyze scattering properties of twisted bilayer photonic crystal slabs through a high-dimensional plane wave expansion method. The method is applicable for arbitrary twist angles and does not suffer from the limitations of the commonly used supercell approximation. We show strongly tunable resonance properties of this system which can be accounted for semianalytically from a correspondence relation to a simpler structure. We also observe strongly tunable resonant chiral behavior in this system. Our work provides the theoretical foundation for predicting and understanding the rich optical physics of twisted multilayer photonic crystal systems.
+
+2021: Publisher Correction: Topological optical differentiator
+Abstract: None
+
+2021: Inverse design of relativistic lightsail for efficient propulsion
+Abstract: We present a comprehensive study of photonic design of lightsails with large- scale optimization techniques. We show that the optimal structure is relatively simple, yet exhibiting nearly 50% enhancement in propulsion efficiency compared to prior studies.
+
+2021: Photonic Chern insulators from two-dimensional atomic lattices interacting with a single surface plasmon polariton
+Abstract: We study the interaction of two-dimensional atomic lattices with a single surface plasmon polariton. We propose a general framework to realize photonic Chern insulators with an arbitrary Chern number. This enables us to design robust non-reciprocal photonic devices including unidirectional single-photon sources.
+
+2021: Adaptive four-level modeling of laser cooling of solids
+Abstract: X iv :2 10 9. 02 70 2v 1 [ ph ys ic s. op tic s] 6 S ep 2 02 1 Adaptive four-level modeling of laser cooling of solids Weiliang Jin, Cheng Guo, Meir Orenstein, and Shanhui Fan Department of Electrical Engineering, Ginzton Laboratory, Stanford University, Stanford, California 94305, USA Department of Applied Physics, Ginzton Laboratory, Stanford University, Stanford, California 94305, USA Department of Electrical and Computer Engineering, Technion-Israel Institute of Technology, 32000 Haifa, Israel
+
+2021: Topological optical differentiator
+Abstract: None
+
+2021: Structured 3D linear space–time light bullets by nonlocal nanophotonics
+Abstract: None
+
+2021: Functional Meta Lenses for Compound Plasmonic Vortex Field Generation and Control.
+Abstract: Surface plasmon polaritons carrying orbital angular momentum are of great fundamental and applied interest. However, common approaches for their generation are restricted to having a weak dependence on the properties of the plasmon-generating illumination, providing a limited degree of control over the amount of delivered orbital angular momentum. Here we experimentally show that by tailoring local and global geometries of vortex generators, a change in helicity of light imposes arbitrary large switching in the delivered plasmonic angular momentum. Using time-resolved photoemission electron microscopy we demonstrate pristine control over the generation and rotation direction of high-order plasmonic vortices. We generalize our approach to create complex topological fields and exemplify it by studying and controlling a "bright vortex", exhibiting the breakdown of a high-order vortex into a mosaic of unity-order vortices while maintaining the overall angular momentum density. Our results provide tools for plasmonic manipulation and could be utilized in lab-on-a-chip devices.
+
+2021: Design of Nighttime Power Generation System to Optimally Utilize Outer Space Darkness
+Abstract: We present a systematic optimization of nighttime thermoelectric power generation system utilizing radiative cooling. We show that an electrical power density > 2 W/m2, two orders of magnitude higher than previous works, is achievable using existing technologies.
+
+2021: Two-dimensional quasi periodic structures for large-scale light out-coupling with amplitude, phase and polarization control.
+Abstract: Chip-scale light-atom interactions are vital for the miniaturization of atomic sensing systems, including clocks, magnetometers, gyroscopes and more. Combining as many photonic elements as possible onto a photonic chip greatly reduces size and power consumption, where the critical elements are those interfacing between the 2D circuit and the 3D vapor cell. We introduce a new design method for large scale two-dimensional converter structures, enabling out-coupling of radiation from the photonic chip into the atomic medium. These structures allow light intensity and phase spatial distribution and polarization control, without external light-manipulating elements. Large, 100 × 100 µm2 structures were designed generating low divergence optical beams with high degree of circular polarization. Simulations obtain mean circular polarization contrast of better than 30 dB.
+

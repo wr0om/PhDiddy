@@ -1,0 +1,62 @@
+Recent papers for Sidorenko Pavel:
+
+2024: Spatial Characterization of Multiple Pulses, With Different Spatial Profiles, From a Single Camera Snapshot
+Abstract: We used a single-shot ptychographic microscope to image the complex-valued (intensity and phase) spatial profiles of multiple ultrashort pulses. Specifically, we present a characterization of a burst of three ultrashort pulses with three nanoseconds delays between pulses using data recorded by a single camera exposure with millisecond integration time. This scheme is promising for various applications, including characterizing spatiotemporal mode-locked or Q-switched lasers, potentially shedding light on their buildup dynamics.
+
+2023: Single-shot ptychographic imaging of non-repetitive ultrafast events.
+Abstract: We demonstrate experimentally high-speed ptychographic imaging of non-repetitive complex-valued events. Three time-resolved complex-valued frames are reconstructed from data recorded in a single camera snapshot. The temporal resolution of the microscope is determined by delays between illuminating pulses. The ability to image amplitude and phase of nonrepetitive events with ultrafast temporal resolution will open new opportunities in science and technology.
+
+2023: Thermalization and Entanglement of Quantum Light in a Nonlinear Multimode System
+Abstract: We study how thermodynamic behavior in classical nonlinear optical multimode systems presents itself in quantum many-body settings, and find multimode entanglement arising in the thermalization process.
+
+2023: Single Shot Imaging of a Burst of Laser Short Pulses
+Abstract: Using a single-shot ptychographic microscope, we image the complex-valued spatial profiles of ultrashort pulses of an isolated laser pulse burst. It shows that this system can film ultrafast non-repetitive complex-valued events.
+
+2023: Evaluation of a gain-managed nonlinear fiber amplifier for multiphoton microscopy.
+Abstract: Two-photon excited fluorescence microscopy is a widely-employed imaging technique that enables the noninvasive study of biological specimens in three dimensions with sub-micrometer resolution. Here, we report an assessment of a gain-managed nonlinear (GMN) fiber amplifier for multiphoton microscopy. This recently-developed source delivers 58-nJ and 33-fs pulses at 31-MHz repetition rate. We show that the GMN amplifier enables high-quality deep-tissue imaging, and furthermore that the broad spectral bandwidth of the GMN amplifier can be exploited for superior spectral resolution when imaging multiple distinct fluorophores.
+
+2022: Multimode dynamics in an anomalous-dispersion fiber laser
+Abstract: Spatiotemporal mode-locking in a laser with anomalous dispersion is observed. Experimental results are compared to numerical simulation, which show strong temporal breathing.
+
+2022: MW-level Pulses from an All-Fiber and Self-Starting Femtosecond Oscillator
+Abstract: We present an all-fiber Mamyshev oscillator that generates 40 fs and 80 nJ pulses. The resulting 1.5-MW peak power is 20 times higher than that of prior all-fiber and self-starting lasers.
+
+2022: Direct observations of thermalization to a Rayleigh–Jeans distribution in multimode optical fibres
+Abstract: None
+
+2022: Megawatt pulses from an all-fiber and self-starting femtosecond oscillator.
+Abstract: Mamyshev oscillators produce high-performance pulses, but technical and practical issues render them unsuitable for widespread use. Here we present a Mamyshev oscillator with several key design features that enable self-starting operation and unprecedented performance and simplicity from an all-fiber laser. The laser generates 110 nJ pulses that compress to 40 fs and 80 nJ with a grating pair. The pulse energy and duration are both the best achieved by a femtosecond all-fiber laser to date, to our knowledge, and the resulting peak power of 1.5 MW is 20 times higher than that of prior all-fiber, self-starting lasers. The simplicity of the design, ease of use, and pulse performance make this laser an attractive tool for practical applications.
+
+2021: Diffraction-limited Quantitative Phase Microscopy at peta-Hertz Rates
+Abstract: None
+
+2021: Generation of 70-nJ and 40-fs Pulses by a Ring Mamyshev Oscillator with a Single Gain Segment
+Abstract: We present a ring-type Mamyshev oscillator with only one amplification stage. The design allows self-starting via modulation of the pump power, high pulse performance, and is suitable for all-fiber integration.
+
+2021: Integrated sample-handling and mounting system for fixed-target serial synchrotron crystallography
+Abstract: A highly flexible, integrated system for preparing samples for serial synchrotron crystallography at room and cryogenic temperatures is described and evaluated. The system is compatible with the existing infrastructure for high-throughput crystallography at synchrotrons and addresses major issues in maximizing data quantity and quality from large numbers of small crystals.
+
+2021: V-FROG—single-scan vectorial FROG
+Abstract: We propose and experimentally demonstrate single-scan vectorial frequency-resolved optical gating (FROG) which characterizes the amplitude, phase and polarization of ultrashort laser pulses using a single measured spectrogram. It is carried out by rotating the polarization of the incoming pulse (using a half-wavelength waveplate), in parallel to scanning the delay between the pulse and its replica in an otherwise ordinary FROG apparatus. A ptychography-based phase retrieval algorithm extracts the full pulse information from the recorded spectrogram. We numerically show that this method is reliable and use it to experimentally reconstruct a pulse with intricate time-dependent polarization. We also show that this method can be used to remove time-reversal ambiguity of second harmonic generation FROG.
+
+2021: Supplementary document for A Synchronously Pumped Raman Laser for Simultaneous Degenerate and Nondegenerate Two-Photon Microscopy - 5151543.pdf
+Abstract: None
+
+2021: Femtosecond optical parametric chirped-pulse amplification in birefringent step-index fiber.
+Abstract: We demonstrate an optical parametric chirped-pulse amplifier (OPCPA) that uses birefringence phase matching in a step-index single-mode optical fiber. The OPCPA is pumped with chirped pulses that can be compressed to sub-30-fs duration. The signal (idler) pulses are generated at 905 nm (1270 nm), have 26 nJ (20 nJ) pulse energy, and are compressible to 70 fs duration. The short compressed signal and idler pulse durations are enabled by the broad bandwidth of the pump pulses. Numerical simulations guiding the design are consistent with the experimental results and predict that scaling to higher pulse energies will be possible. Forgoing a photonic crystal fiber for phase-matching offers practical advantages, including allowing energy scaling with mode area.
+
+2021: Synchronously pumped Raman laser for simultaneous degenerate and nondegenerate two-photon microscopy.
+Abstract: Two-photon fluorescence microscopy is a nonlinear imaging modality frequently used in deep-tissue imaging applications. A tunable-wavelength multicolor short-pulse source is usually required to excite fluorophores with a wide range of excitation wavelengths. This need is most typically met by solid-state lasers, which are bulky, expensive, and complicated systems. Here, we demonstrate a compact, robust fiber system that generates naturally synchronized femtosecond pulses at 1050 nm and 1200 nm by using a combination of gain-managed and Raman amplification. We image the brain of a mouse and view the blood vessels, neurons, and other cell-like structures using simultaneous degenerate and nondegenerate excitation.
+
+2021: Efficient soliton self-frequency shift in hydrogen-filled hollow-core fiber.
+Abstract: We report a study of soliton self-frequency shifting in a hydrogen-filled hollow-core fiber. The combination of hydrogen and short 40-fs input pulses underlies clean and efficient generation of Raman solitons between 1080 and 1600 nm. With 240-nJ input pulses, the Raman soliton energy ranges from 110 to 20 nJ over that wavelength range, and the pulse duration is approximately 45 fs. In particular, 70-nJ and 42-fs pulses are generated at 1300 nm. Numerical simulations agree reasonably well with experiments and predict that microjoule-energy tunable pulses should be possible with higher-energy input pulses.
+
+2021: Multimode Mamyshev Oscillator
+Abstract: Spatiotemporal mode-locking (STML) is demonstrated in a Mamyshev Oscillator. We observe a variety of STML states with different degrees of spatiotemporal coupling. The design allows some control over the multimode output beam profile.
+
+2021: Turning nonlinearity from problem to advantage in ultrafast fiber amplifiers
+Abstract: We review the recent advances in fiber-based sources of ultrashort pulses based on the gain-managed nonlinear regime. We discuss how highly nonlinear pulse evolution can be exploited to overcome typical limits of fiber-based sources.
+
+2020: Direct Measurement of Thermalization to Rayleigh-Jeans Distribution in Optical Beam Self-Cleaning
+Abstract: An equilibrium thermodynamic framework that describes highly-multimode optical processes was introduced recently. This theory predicts the outcomes of complex linear and nonlinear multimode interactions based on thermodynamic principles and provides analytic results for the distributions of mode occupancies in optical systems. Here, we present direct experimental measurements of irreversible thermalization of initial distributions of mode occupancies to the predicted equilibrium Rayleigh-Jeans distribution in nonlinear wave propagation in multimode optical fiber. Kerr self-cleaning of femtosecond light pulses is shown to yield the Rayleigh-Jeans distribution, which confirms that the process maximizes entropy. Analytic theory, numerical simulations, and experimental results agree.
+

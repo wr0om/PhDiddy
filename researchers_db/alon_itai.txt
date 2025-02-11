@@ -1,0 +1,62 @@
+Recent papers for Alon Itai:
+
+2021: On the Optimization Landscape of Maximum Mean Discrepancy
+Abstract: Generative models have been successfully used for generating realistic signals. Because the likelihood function is typically intractable in most of these models, the common practice is to use"implicit"models that avoid likelihood calculation. However, it is hard to obtain theoretical guarantees for such models. In particular, it is not understood when they can globally optimize their non-convex objectives. Here we provide such an analysis for the case of Maximum Mean Discrepancy (MMD) learning of generative models. We prove several optimality results, including for a Gaussian distribution with low rank covariance (where likelihood is inapplicable) and a mixture of Gaussians. Our analysis shows that that the MMD optimization landscape is benign in these cases, and therefore gradient based methods will globally minimize the MMD objective.
+
+2018: Acronyms: identification, expansion and disambiguation
+Abstract: None
+
+2018: On the Complexity of Direct Caching
+Abstract: None
+
+2015: Morphological Disambiguation in Hebrew Using A Priori Probabilities *
+Abstract: This paper describes a new approach for morphological disambiguation in Hebrew using an untagged corpus. This approach demonstrates a way to extract very useful and nontrivial information from an untagged corpus, which otherwise would require laborious tagging of large corpora. The suggested method depends primarily on the following property: a lexical entry in Hebrew may have many different word forms, some of which are ambiguous while the others are not. Thus, disambiguation of a given word can be achieved using other word forms of the same lexical entry. Even though it was originally devised and implemented for dealing with the problem in Hebrew, the basic idea can be extended and used to handle similar problems in other languages with rich morphology. ·This research was partially supported by grant number 120-741 of the Israel Council for Research and Development. 1 T ec hn io n C om pu te r Sc ie nc e D ep ar tm en t T eh ni ca l R ep or t C S0 76 0. re vi se d 19 92
+
+2014: FOR THE RESOLUTION
+Abstract: Manual acquisition of semantic constraints in broad domains is very expensive. This paper presents an automatic scheme for collect­ ing statistics on cooccurrence patterns in a large corpus. To a large extent, these statistics reflect semantic constraints and ihus are used to disambiguate anaphora references and syntactic ambiguities. The scheme was implemented by gathering statistics on the output of other linguistic tools. An experiment was performed to resolve references of the pronoun "it" in sentences that were randomly selected from the corpus. The results of the experiment show that in most of the cases the cooccurrence statistics indeed reflect the semantic constraints and thus provide a basis for a useful disambiguation tool.
+
+2014: Optimal Strategies Cor Source Routing in a Network with Dependent Paths by
+Abstract: Algorithms for adaptive routing in a high speed networks are examined. In such networks the intermediate nodes serve as switching elements with limited computational resources. The mode of operation is to specify an entire path from the source to the destination. If all the links of the path are nonfaulty then the message is transmitted; otherwise an indication is given to the first link that has failed. The source, upon learning of a failure, chooses another path and retransmits the message. The links of the network have independent a priori failure probablities. The status of the links does not change while attempting to transmit a message. First, the greedy algorithm (the algorithm which tries the paths in the order of increasing failure probability) is examined. It is shown to be optimal for a small class of networks, but not for all. The main result concerns series/parallel graphs, for which an optimal algorithm is presented. It is shown that an optimal algorithm can be easily derived from a fixed sequence of paths. Finally, an O(IEI3) time algorithm to find this sequence is presented, (lEI is the number of links in the network).
+
+2014: How to construct a multi-lingual domain ontology
+Abstract: The research focuses on automatic construction of multi-lingual domain-ontologies, i.e., creating a DAG (directed acyclic graph) consisting of concepts relating to a specific domain and the relations between them. The domain example on which the research performed is “Organized Crime”. The contribution of the work is the investigation of and comparison between several data sources and methods to create multi-lingual ontologies. The first subtask was to extract the domain’s concepts. The best source turned out to be Wikepedias articles that are under the catgegory. The second task was to create an English ontology, i.e., the relationships between the concepts. Again the relationships between concepts and the hierarchy were derived from Wikipedia. The final task was to create an ontology for a language with far fewer resources (Hebrew). The task was accomplished by deriving the concepts from the Hebrew Wikepedia and assessing their relevance and the relationships between them from the English ontology.
+
+2014: A Hebrew verb–complement dictionary
+Abstract: None
+
+2014: Lexical Representation of Multiword Expressions in Morphologically-complex Languages
+Abstract: None
+
+2013: A Hebrew verb–complement dictionary
+Abstract: None
+
+2013: Parsing Hebrew CHILDES transcripts
+Abstract: None
+
+2010: A Linguistic Search Tool for Semitic Languages
+Abstract: The paper discusses searching a corpus for linguistic patterns. Semitic languages have complex morphology and ambiguous writing systems. We explore the properties of Semitic Languages that challenge linguistic search and describe how we used the Corpus Workbench (CWB) to enable linguistic searches in Hebrew corpora.
+
+2010: How to Pronounce Hebrew Names
+Abstract: This paper addresses the problem of determining the correct pronunciation of people’s names written in Hebrew, by extracting clues from the way the same name is written in other languages, and by using a database of names whose pronunciation is known to guess the correct pronunciation of a given name. Names differs from other words in a language because they do not follow the language’s fixed set of rules. Names are not necessarily composed of the morphemes of the language and its inflections. Names may have different origins, while some names are legitimate word forms of the language, others originate in different languages. A naive approach to this problem might be
+
+2009: Covering a Tree by a Forest
+Abstract: None
+
+2008: Randomized Broadcasting in Radio Networks
+Abstract: None
+
+2008: Language resources for Hebrew
+Abstract: None
+
+2008: Using Movie Subtitles for Creating a Large-Scale Bilingual Corpora
+Abstract: This paper presents a method for compiling a large-scale bilingual corpus from a database of movie subtitles. To create the corpus, we propose an algorithm based on Gale and Churchs sentence alignment algorithm(1993). However, our algorithm not only relies on character length information, but also uses subtitle-timing information, which is encoded in the subtitle files. Timing is highly correlated between subtitles in different versions (for the same movie), since subtitles that match should be displayed at the same time. However, the absolute time values cant be used for alignment, since the timing is usually specified by frame numbers and not by real time, and converting it to real time values is not always possible, hence we use normalized subtitle duration instead. This results in a significant reduction in the alignment error rate.
+
+2007: Canonical density control
+Abstract: None
+
+2007: Randomized Broadcasting in Radio Networks , 1992
+Abstract: The paper investigates deterministic and randomized protocols for achieving broadcast (distributing a message from a source to all other nodes) in arbitrary multi-hop synchronous radio networks. The model consists of an arbitrary (undirected) network, with processors communicating in synchronous time-slots subject to the following rules. In each time-slot, each processor acts either as a transmitter or as a receiver. A processor acting as a receiver is said to receive a message in that time-slot t if exactly one of its neighbors transmits in that time-slot. The message received is the one transmitted. If more than one neighbor transmits in that timeslot, a conflict occurs. In this case the receiver may either get a message from one of the transmitting neighbors or get no message. It is assumed that conflicts (or “collisions”) are not detected, hence a processor cannot distinguish the case in which no neighbor transmits from the case in which one or more of its neighbors transmits during that time-slot. The processors are not required to have ID’s nor do they know their neighbors, in particular the processors do not know the topology of the network. The only inputs required by the protocol are the number of processors in the network – n, ∆ – an a priori known upper bound on the maximum degree in the network and the error bound – 2. (All bounds are a priori known to the algorithm.) Broadcast is a task initiated by a single processor, called the source, transmitting a single message. The goal is to have the message reach all processors in the network.
+
+2006: A Computational Lexicon of Contemporary Hebrew
+Abstract: Computational lexicons are among the most important resources for natural language processing (NLP). Their importance is even greater in languages with rich morphology, where the lexicon is expected to provide morphological analyzers with enough information to enable themto correctly process intricately inflected forms. We describe the Haifa Lexicon of Contemporary Hebrew, the broadest-coverage publicly available lexicon of Modern Hebrew, currently consisting of over 20,000 entries.While other lexical resources of Modern Hebrew have been developed in the past, this is the first publicly available large-scale lexicon of the language. In addition to supporting morphological processors (analyzers and generators), which was our primary objective, thelexicon is used as a research tool in Hebrew lexicography and lexical semantics. It is open for browsing on the web and several search tools and interfaces were developed which facilitate on-line access to its information. The lexicon is currently used for a variety of NLP applications.
+

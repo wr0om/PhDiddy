@@ -1,0 +1,73 @@
+Recent papers for Nissim Francez:
+
+2024: Phrasal Coordination Relatedness Logic
+Abstract: I presented a sub-classical relating logic based on a relating via an NL-inspired relating relation Rcss. The relation Rcss is motivated by the NL-phenomenon of phrasal (subsentential) coordination, exhibiting an important aspect of contents relating among the arguments of binary connectives. The resulting logic Lcss can be viewed as a relevance logic exhibiting a contents related relevance, stronger than the variable-sharing property of other relevance logics like R. Note that relating here is not “tailored” to justify some predetermined logic; rather, the relating relation is independently justified, and induces a logic not previously investigated.
+
+2024: Negation-cohesive connectives: a generalization of connexivity
+Abstract: None
+
+2023: Bilateral Connexive Logic
+Abstract: This paper proposes a bilateral analysis of connexivity, presenting a bilateral natural deduction system for a weak connexive logic. The proposed logic deviates from other connexive logics and other bilateral logics in the following respects: (1) The logic induces a difference in meaning between inner and outer occurrences of negation in the connexive axioms. (2) The logic allows incoherence—assertion and denial of the same formula—while still being non-trivial.
+
+2023: A Dialectic Contra-Classical Logic
+Abstract: None
+
+2022: Proof-theoretic semantics as a resource for expressing semantic variability
+Abstract: None
+
+2022: A generalization of falsity in finitely-many valued logics
+Abstract: The paper proposes a new type of negation in multi-valued logics, providing a different way to answer the following question: what does it mean that some object language formula does not have a given truth-value. Along the way, the paper provides a general definition of truth and falsity in an arbitrary many-valued logic.
+
+2022: Poly-Connexivity: Connexive Conjunction and Disjunction
+Abstract: None
+
+2021: Logical Grounding: The Case of “
+ if‐then‐else”
+Abstract: None
+
+2021: On the Role of Aristotle's Connexive Axioms in Non-connexive Logics
+Abstract: None
+
+2021: Calculi for Many-Valued Logics
+Abstract: None
+
+2021: Bilateralism based on Corrective Denial
+Abstract: None
+
+2020: Towards a generalization of the logic of grounding* (Hacia una generalización de la lógica de la fundamentación)
+Abstract: The main goal of this paper is to provide a ground-analysis of two classical connectives that have so far being ignored in the literature, namely the exclusive disjunction, and the ternary disjunction. Such ground-analysis not only serves to extend the applicability of the logic of grounding but also leads to a generalization of Poggiolesi ( )’s de nition of the notion of complete and immediate grounding.
+
+2020: Toward a generalization of the logic of grounding
+Abstract: The main goal of this paper is to provide a ground-analysis of two classical connectives that have so far been ignored in the literature, namely the exclusive disjunction, and the ternary disjunction. Such ground-analysis not only serves to extend the applicability of the logic of grounding but also leads to a generalization of Poggiolesi (2016)’s definition of the notion of complete and immediate
+
+2020: DE MORGAN INTERPRETATION OF THE LAMBEK–GRISHIN CALCULUS
+Abstract: Abstract We present an embedding of the Lambek–Grishin calculus into an extension of the nonassociative Lambek calculus with negation. The embedding is based on the De Morgan interpretation of the dual Grishin connectives.
+
+2020: Connexive Restricted Quantification
+Abstract: None
+
+2019: On Poly-logistic Natural-deduction for Finitely-valued Propositional Logics
+Abstract: None
+
+2019: Bilateralism, Trilateralism, Multilateralism and Poly-Sequents
+Abstract: None
+
+2019: A Poly-Connexive Logic
+Abstract: The paper introduces a variant of connexive logic in which connexivity is extended from the interaction of negation with implication to the interaction of negation also with conjunction and disjunction. The logic is presented by two deductively equivalent methods: an axiomatic one and a natural-deduction one. Both are shown to be complete for a four-valued model theory.
+
+2019: Another plan for negation
+Abstract: The paper  presents a plan for negation, proposing a paradigm shift from the Australian plan for negation,  
+leading to a family of contra-classical logics. The two main ideas are the following:  
+ 
+Instead of shifting points of evaluation (in a frame), shift the evaluated formula. 
+Introduce an incompatibility set for every atomic formula, extended to any compound formula, and impose the condition on valuations that a formula evaluates to true iff all the formulas in its incompatibility set evaluate to false. Thus, atomic sentences are not independent in their truth-values.  
+The resulting negation, in addition to excluding the negated formula, provides a positive alternative 
+to the negated formula. 
+ 
+I  also present a sound and complete natural deduction proof systems for those logics. 
+In addition, the kind of negation considered in this paper is shown to provide an innovative notion of grounding negation.  
+ 
+
+2019: Proof-Theoretic Semantics for Natural Language
+Abstract: None
+

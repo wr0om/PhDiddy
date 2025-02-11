@@ -1,0 +1,62 @@
+Recent papers for Yuval Ishai:
+
+2024: Secure Sorting and Selection via Function Secret Sharing
+Abstract: None
+
+2024: Information-Theoretic Single-Server PIR in the Shuffle Model
+Abstract: We revisit the problem of private information retrieval (PIR) in the shuffle model , where queries can be made anonymously by multiple clients. We present the first single-server PIR protocol in this model that has sublinear per-client communication and information-theoretic security . Moreover, following one-time preprocessing on the server side, our protocol only requires sublinear per-client computation . Concretely, for every γ > 0, the protocol has O ( n γ ) communication and computation costs per (stateless) client, with 1 / poly ( n ) statistical security, assuming that a size-n database is simultaneously accessed by poly ( n ) clients. This should be contrasted with the recent breakthrough result of Lin, Mook, and Wichs (STOC 2023) on doubly efficient PIR in the standard model, which is (inherently) limited to computational security
+
+2024: Succinct Partial Garbling from Groups and Applications
+Abstract: None
+
+2024: Computationally Secure Aggregation and Private Information Retrieval in the Shuffle Model
+Abstract: ,
+
+2024: Rabbit-Mix: Robust Algebraic Anonymous Broadcast from Additive Bases
+Abstract: We present Rabbit-Mix, a robust algebraic mixing-based anonymous broadcast protocol in the client-server model. Rabbit-Mix is the first practical sender-anonymous broadcast protocol satisfying both robustness and 100% message delivery assuming a (strong) honest majority of servers. It presents roughly 3 × improvement in comparison to Blinder (CCS 2020), a previous anonymous broadcast protocol in the same model, in terms of the number of algebraic operations and communication, while at the same time eliminating the non-negligible failure probability of Blinder. To obtain these improvements, we combine the use of Newton’s identities for mixing with a novel way of exploiting an algebraic structure in the powers of field elements, based on an additive 2-basis , to compactly encode and decode client messages. We also introduce a simple and efficient distributed protocol to verify the well-formedness of client input encodings, which should consist of shares of multiple arithmetic progressions tied together.
+
+2024: Constant-Round Simulation-Secure Coin Tossing Extension with Guaranteed Output
+Abstract: None
+
+2024: Compressing Unit-Vector Correlations via Sparse Pseudorandom Generators
+Abstract: None
+
+2024: PIR with Client-Side Preprocessing: Information-Theoretic Constructions and Lower Bounds
+Abstract: None
+
+2024: Dot-Product Proofs and Their Applications
+Abstract: A dot-product proof (DPP) is a simple probabilistic proof system in which the input statement $\boldsymbol{x}$ and the proof $\boldsymbol{\pi}$ are vectors over a finite field $\mathbb{F}$, and the proof is verified by making a single dot-product query $\langle \boldsymbol{q}, (\boldsymbol{x}\Vert\boldsymbol{\pi})\rangle$ jointly to $\boldsymbol{x}$ and $\boldsymbol{\pi}$. A DPP can be viewed as a 1-query fully linear PCP. We study the feasibility and efficiency of D PPs, obtaining the following results: •Small-field DPP. For any finite field $\mathbb{F}$ and Boolean circuit $C$ of size $S$, there is a D PP for proving that there exists $\boldsymbol{w}$ such that $C(\boldsymbol{x},\ \boldsymbol{w})=1$ with a proof $\boldsymbol{\pi}$ of length $S\cdot \text{poly}(\vert \mathbb{F}\vert)$ and soundness error $\varepsilon=O(1/\sqrt{\vert \mathbb{F}\vert })$. We show this error to be asymptotically optimal. In particular, and in contrast to the best known PCPs, there exist strictly linear-length DPPs over constant-size fields. •Large-field DPP. If $\vert \mathbb{F}\vert\geq$ poly $(S/\varepsilon)$, there is a similar DPP with soundness error $\varepsilon$ and proof length $O(S)$ (in field elements). The above results do not rely on the PCP theorem and their proofs are considerably simpler. We apply our DPP constructions toward two kinds of applications. •Hardness of approximation. We obtain a simple proof for the NP-hardness of approximating MAXLIN (with dense instances) over any finite field $\mathbb{F}$ up to some constant factor $c > 1$, independent of F. Unlike previous PCP-based proofs, our proof yields exponential-time hardness under the exponential time hypothesis (ETH). •Succinct arguments. We improve the concrete efficiency of succinct interactive arguments in the generic group model using input-independent preprocessing. In particular, the communication is comparable to sending two group elements and the verifier's computation is dominated by a single group exponentiation. We also show how to use DPPs together with linear-only encryption to construct succinct commit-and-prove arguments.
+
+2023: Hard Languages in $\text{NP}\cap\text{coNP}$ and NIZK Proofs from Unstructured Hardness
+Abstract: None
+
+2023: Hard Languages in $\mathsf{NP} \cap \mathsf{coNP}$ and NIZK Proofs from Unstructured Hardness
+Abstract: None
+
+2023: Bounded Simultaneous Messages
+Abstract: We consider the following question of bounded simultaneous messages (BSM) protocols: Can computationally unbounded Alice and Bob evaluate a function $f(x,y)$ of their inputs by sending polynomial-size messages to a computationally bounded Carol? The special case where $f$ is the mod-2 inner-product function and Carol is bounded to AC$^0$ has been studied in previous works. The general question can be broadly motivated by applications in which distributed computation is more costly than local computation, including secure two-party computation. In this work, we initiate a more systematic study of the BSM model, with different functions $f$ and computational bounds on Carol. In particular, we give evidence against the existence of BSM protocols with polynomial-size Carol for naturally distributed variants of NP-complete languages.
+
+2023: Cryptography from Planted Graphs: Security with Logarithmic-Size Messages
+Abstract: None
+
+2023: Hard Languages in NP ∩ coNP and NIZK Proofs from Unstructured Hardness
+Abstract: The existence of “unstructured” hard languages in NP  ∩ coNP is an intriguing open question. Bennett and Gill (SICOMP, 1981) asked whether P is separated from NP ∩ coNP relative to a random oracle, a question that remained open ever since. While a hard language in NP  ∩ coNP can be constructed in a black-box way from a one-way permutation, for which only few (structured) candidates exist, Bitansky et al. (SICOMP, 2021) ruled out such a construction based on an injective one-way function, an unstructured primitive that is easy to instantiate heuristically. In fact, the latter holds even with a black-box use of indistinguishability obfuscation. We give the first evidence for the existence of unstructured hard languages in NP  ∩ coNP by showing that if UP ⊈RP, which follows from the existence of injective one-way functions, the answer to Bennett and Gill’s question is affirmative: with probability 1 over a random oracle O, we have that PO ≠ NPO ∩ coNPO. Our proof gives a constructive non-black-box approach for obtaining candidate hard languages in NP  ∩ coNP from cryptographic hash functions. The above conditional separation builds on a new construction of non-interactive zero-knowledge (NIZK) proofs, with a computationally unbounded prover, to convert a hard promise problem into a hard language. We obtain such NIZK proofs for NP, with a uniformly random reference string, from a special kind of hash function which is implied by (an unstructured) random oracle. This should be contrasted with previous constructions of such NIZK proofs that are based on one-way permutations or other structured primitives, as well as with (computationally sound) NIZK arguments in the random oracle model.
+
+2023: Round-Optimal Black-Box MPC in the Plain Model
+Abstract: None
+
+2023: Additive Randomized Encodings and Their Applications
+Abstract: None
+
+2023: Beyond the Csiszár–Körner Bound: Best-Possible Wiretap Coding via Obfuscation
+Abstract: None
+
+2023: Black-Box Reusable NISC with Random Oracles
+Abstract: None
+
+2023: Succinct Arguments for RAM Programs via Projection Codes
+Abstract: None
+
+2023: Combinatorially Homomorphic Encryption
+Abstract: None
+

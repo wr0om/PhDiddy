@@ -1,0 +1,62 @@
+Recent papers for Bobrowski Omer:
+
+2024: Universality in Random Persistent Homology and Scale-Invariant Functionals
+Abstract: In this paper, we prove a universality result for the limiting distribution of persistence diagrams arising from geometric filtrations over random point processes. Specifically, we consider the distribution of the ratio of persistence values (death/birth), and show that for fixed dimension, homological degree and filtration type (Cech or Vietoris-Rips), the limiting distribution is independent of the underlying point process distribution, i.e., universal. In proving this result, we present a novel general framework for universality in scale-invariant functionals on point processes. Finally, we also provide a number of new results related to Morse theory in random geometric complexes, which may be of an independent interest.
+
+2023: A universal null-distribution for topological data analysis
+Abstract: None
+
+2023: Cluster Persistence for Weighted Graphs
+Abstract: Persistent homology is a natural tool for probing the topological characteristics of weighted graphs, essentially focusing on their 0-dimensional homology. While this area has been thoroughly studied, we present a new approach to constructing a filtration for cluster analysis via persistent homology. The key advantages of the new filtration is that (a) it provides richer signatures for connected components by introducing non-trivial birth times, and (b) it is robust to outliers. The key idea is that nodes are ignored until they belong to sufficiently large clusters. We demonstrate the computational efficiency of our filtration, its practical effectiveness, and explore into its properties when applied to random graphs.
+
+2023: Functional Limit Theorems for Local Functionals of Dynamic Point Processes
+Abstract: We establish functional limit theorems for local, additive, interaction functions of temporally evolving point processes. The dynamics are those of a spatial Poisson process on the flat torus with points subject to a birth-death mechanism, and which move according to Brownian motion while alive. The results reveal the existence of a phase diagram describing at least three distinct structures for the limiting processes, depending on the extent of the local interactions and the speed of the Brownian motions. The proofs, which identify three different limits, rely heavily on Malliavin-Stein bounds on a representation of the dynamic point process via a distributionally equivalent marked point process.
+
+2022: Unsupervised Geometric and Topological Approaches for Cross-Lingual Sentence Representation and Comparison
+Abstract: We propose novel structural-based approaches for the generation and comparison of cross lingual sentence representations. We do so by applying geometric and topological methods to analyze the structure of sentences, as captured by their word embeddings. The key properties of our methods are”:" (a) They are designed to be isometric invariant, in order to provide language-agnostic representations. (b) They are fully unsupervised, and use no cross-lingual signal. The quality of our representations, and their preservation across languages, are evaluated in similarity comparison tasks, achieving competitive results. Furthermore, we show that our structural-based representations can be combined with existing methods for improved results.
+
+2022: Alarm Sound Detection Using Topological Signal Processing
+Abstract: We present a novel approach to alarm sound detection using topological data analysis. Our main focus is on proposing a new set of robust features, based on algebraic topology, that are aimed at capturing global structural information about the dynamical system underlying each input signal. In short, we convert each signal into a point cloud and compute its corresponding persistent homology, from which we can extract a variety of useful numerical features. We demonstrate the power of this framework using the UrbanSound8K dataset and show that, by combining topological features with a classical classification method, we achieve state-of-the-art results.
+
+2022: On the Universality of Random Persistence Diagrams
+Abstract: One of the most elusive challenges within the area of topological data analysis is understanding the distribution of persistence diagrams. Despite much effort, this is still largely an open problem. In this paper, we present a series of novel conjectures regarding the behavior of persistence diagrams arising from random point-clouds. We claim that these diagrams obey a universal probability law, and include an explicit expression as a candidate for what this law is. We back these conjectures with an exhaustive set of experiments, including both simulated and real data. We demonstrate the power of these conjectures by proposing a new hypothesis testing framework for individual features within persistence diagrams.
+
+2022: Functional central limit theorems for local statistics of spatial birth–death processes in the thermodynamic regime
+Abstract: We present normal approximation results at the process level for local functionals defined on dynamic Poisson processes in $\mathbb{R}^d$. The dynamics we study here are those of a Markov birth-death process. We prove functional limit theorems in the so-called thermodynamic regime. Our results are applicable to several functionals of interest in the stochastic geometry literature, including subgraph and component counts in the random geometric graphs.
+
+2021: Joint Geometric and Topological Analysis of Hierarchical Datasets
+Abstract: None
+
+2021: Poisson process approximation under stabilization and Palm coupling
+Abstract: . — We present new Poisson process approximation results for stabilizing functionals of Poisson and binomial point processes. These functionals are allowed to have an unbounded range of interaction and encompass many examples in stochastic geometry. Our bounds are derived for the Kantorovich–Rubinstein distance using the generator approach to
+
+2021: Random Simplicial Complexes: Models and Phenomena
+Abstract: None
+
+2021: Cycle Registration in Persistent Homology With Applications in Topological Bootstrap
+Abstract: We propose a novel approach for comparing the persistent homology representations of two spaces (or filtrations). Commonly used methods are based on numerical summaries such as persistence diagrams and persistence landscapes, along with suitable metrics (e.g., Wasserstein). These summaries are useful for computational purposes, but they are merely a marginal of the actual topological information that persistent homology can provide. Instead, our approach compares between two topological representations directly in the data space. We do so by defining a correspondence relation between individual persistent cycles of two different spaces, and devising a method for computing this correspondence. Our matching of cycles is based on both the persistence intervals and the spatial placement of each feature. We demonstrate our new framework in the context of topological inference, where we use statistical bootstrap methods in order to differentiate between real features and noise in point cloud data.
+
+2021: A Coupled Alpha Complex
+Abstract: The alpha complex is a subset of the Delaunay triangulation and is often used in computational geometry and topology. One of the main drawbacks of using the alpha complex is that it is non-monotone, in the sense that if ${\cal X}\subset{\cal X}'$ it is not necessarily (and generically not) the case that the corresponding alpha complexes satisfy ${\cal A}_r({\cal X})\subset{\cal A}_r({\cal X}')$. The lack of monotonicity may introduce significant computational costs when using the alpha complex, and in some cases even render it unusable. In this work we present a new construction based on the alpha complex, that is homotopy equivalent to the alpha complex while maintaining monotonicity. We provide the formal definitions and algorithms required to construct this complex, and to compute its homology. In addition, we analyze the size of this complex in order to argue that it is not significantly more costly to use than the standard alpha complex.
+
+2020: Homological Percolation: The Formation of Giant k-Cycles
+Abstract: In this paper we introduce and study a higher-dimensional analogue of the giant component in continuum percolation. Using the language of algebraic topology, we define the notion of giant k-dimensional cycles (with 0-cycles being connected components). Considering a continuum percolation model in the flat d-dimensional torus, we show that all the giant k-cycles (k=1,...,d-1) appear in the regime known as the thermodynamic limit. We also prove that the thresholds for the emergence of the giant k-cycles are increasing in k and are tightly related to the critical values in continuum percolation. Finally, we provide bounds for the exponential decay of the probabilities of giant cycles appearing.
+
+2020: On the spectrum of dense random geometric graphs
+Abstract: In this paper we study the spectrum of the random geometric graph $G(n,r)$, in a regime where the graph is dense and highly connected. In the \erdren $G(n,p)$ random graph it is well known that upon connectivity the spectrum of the normalized graph Laplacian is concentrated around $1$. We show that such concentration does not occur in the $G(n,r)$ case, even when the graph is dense and almost a complete graph. In particular, we show that the limiting spectral gap is strictly smaller than $1$. In the special case where the vertices are distributed uniformly in the unit cube and $r=1$, we show that for every $0\le k \le d$ there are at least $\binom{d}{k}$ eigenvalues near $1-2^{-k}$, and the limiting spectral gap is exactly $1/2$. We also show that the corresponding eigenfunctions in this case are tightly related to the geometric configuration of the points.
+
+2019: Homological percolation and the Euler characteristic.
+Abstract: In this paper we study the connection between the zeros of the expected Euler characteristic curve and the phenomenon which we refer to as homological percolation-the formation of "giant" cycles in persistent homology, which is intimately related to classical notions of percolation. We perform an experimental study that covers four different models: site percolation on the cubical and permutahedral lattices, the Poisson-Boolean model, and Gaussian random fields. All the models are generated on the flat torus T^{d} for d=2,3,4. The simulation results strongly indicate that the zeros of the expected Euler characteristic curve approximate the critical values for homological percolation. Our results also provide some insight about the approximation error. Further study of this connection could have powerful implications both in the study of percolation theory and in the field of topological data analysis.
+
+2019: Probabilistic convergence and stability of random mapper graphs
+Abstract: None
+
+2019: Homological Connectivity in \v{C}ech Complexes
+Abstract: None
+
+2019: Homological connectivity in random Čech complexes
+Abstract: None
+
+2018: Convergence of persistence diagrams for topological crackle
+Abstract: In this paper we study the persistent homology associated with topological crackle generated by distributions with an unbounded support. Persistent homology is a topological and algebraic structure that tracks the creation and destruction of homological cycles (generalizations of loops or holes) in different dimensions. Topological crackle is a term that refers to homological cycles generated by "noisy" samples where the support is unbounded. We aim to establish weak convergence results for persistence diagrams - a point process representation for persistent homology, where each homological cycle is represented by its (birth,death) coordinates. In this work we treat persistence diagrams as random closed sets, so that the resulting weak convergence is defined in terms of the Fell topology. In this framework we show that the limiting persistence diagrams can be divided into two parts. The first part is a deterministic limit containing a densely-growing number of persistence pairs with a short lifespan. The second part is a two-dimensional Poisson process, representing persistence pairs with a longer lifespan.
+

@@ -1,0 +1,63 @@
+Recent papers for Bartal Guy:
+
+2023: Non-classical correlation between mode-entangled pairs of surface plasmon polaritons
+Abstract: We observe non-classical correlations between single photons outcoupled from surface plasmon modes carrying a superposition of angular momenta. The spatial distribution of the correlation indicates entanglement of surface plasmon pairs in the mode basis.
+
+2023: Inverse Design of Plexcitonic Metasurfaces for Broadband Nonlinear Frequency Conversion
+Abstract: Using inverse design, we demonstrate a plexcitonic metasurface of monolayer WS2 strongly coupled to gold nanoantennas. Broadband third-harmonic generation is attained over the entire plexcitonic frequencies. We discuss optimization strategies and implications for nonlinear photonics.
+
+2023: Strong Coupling at Room Temperature Achieved by Nanoscale Inverse Design
+Abstract: None
+
+2023: The plasmonic Kapitza-Dirac effect and electron shaping with plasmonic fields
+Abstract: We present a novel method to shape single-electron wavepackets via their interaction with tunable plasmonic fields. We further demonstrate the first instance of electron diffraction from a standing electromagnetic surface wave – a plasmonic Kapitza-Dirac effect.
+
+2023: Coherently amplified ultrafast imaging using a free-electron interferometer
+Abstract: None
+
+2023: Free-electron-based interferometry for enhanced, phase-resolved near-field imaging
+Abstract: We propose a novel scheme for phase-resolved near-field imaging using free electrons. Our scheme relies on algorithmic extraction of the complex-valued electron-field coupling. Pre-shaping the electron wavefunction facilitates superior sensitivity relative to the state-of-the-art.
+
+2023: Free-electron Ramsey-type interferometry for enhanced amplitude and phase imaging of nearfields
+Abstract: The complex range of interactions between electrons and electromagnetic fields gave rise to countless scientific and technological advances. A prime example is photon-induced nearfield electron microscopy (PINEM), enabling the detection of confined electric fields in illuminated nanostructures with unprecedented spatial resolution. However, PINEM is limited by its dependence on strong fields, making it unsuitable for sensitive samples, and its inability to resolve complex phasor information. Here, we leverage the nonlinear, overconstrained nature of PINEM to present an algorithmic microscopy approach, achieving far superior nearfield imaging capabilities. Our algorithm relies on free-electron Ramsey-type interferometry to produce orders-of-magnitude improvement in sensitivity and ambiguity-immune nearfield phase reconstruction, both of which are optimal when the electron exhibits a fully quantum behavior. Our results demonstrate the potential of combining algorithmic approaches with state-of-the-art modalities in electron microscopy and may lead to various applications from imaging sensitive biological samples to performing full-field tomography of confined light.
+
+2022: Tunable photon-induced spatial modulation of free electrons
+Abstract: None
+
+2022: Nonlinear Forced Response of Plasmonic Nanostructures.
+Abstract: Incorporating optical surface waves in nonlinear processes unlocks unique and sensitive nonlinear interactions wherein highly confined surface states can be accessed and explored. Here, we unravel the rich physics of modal-nonmodal state pairs of short-range surface plasmons in thin metal films by leveraging "dark nonlinearity"-a nonradiating nonlinear source. We control and observe the nonlinear forced response of these modal-nonmodal pairs and present nonlinearly mediated direct access to nonmodal plasmons in a lossless regime. Our study can be generalized to other forms of surface waves or optical nonlinearities, toward on-chip nonlinearly controlled nanophotonic devices.
+
+2022: Observation of 2D Cherenkov Radiation
+Abstract: For over 80 years of research, the conventional description of free-electron radiation phenomena, such as Cherenkov radiation, has remained unchanged: classical three-dimensional electromagnetic waves. Interestingly, in reduced dimensionality, the properties of free-electron radiation are predicted to fundamentally change. Here, we present the first observation of Cherenkov surface waves, wherein free electrons emit narrow-bandwidth photonic quasiparticles propagating in two-dimensions. The low dimensionality and narrow bandwidth of the effect enable to identify quantized emission events through electron energy loss spectroscopy. Our results support the recent theoretical prediction that free electrons do not always emit classical light and can instead become entangled with the photons they emit. The two-dimensional Cherenkov interaction achieves quantum coupling strengths over two orders of magnitude larger than ever reported, reaching the single-electron-single-photon interaction regime for the first time with free electrons. Our findings pave the way to previously unexplored phenomena in free-electron quantum optics, facilitating bright, free-electron-based quantum emitters of heralded Fock states.
+
+2022: Inverse design of broadband, strongly-coupled plexcitonic nonlinear metasurfaces
+Abstract: Hybrid photonic structures of plasmonic metasurfaces coupled to atomically thin semiconductors have emerged as a versatile platform for strong light–matter interaction, supporting both strong coupling and parametric nonlinearities. However, designing optimized nonlinear hybrid metasurfaces is a complex task, as the multiple parameters’ contribution to the nonlinear response is elusive. Here we present a simple yet powerful strategy for maximizing the nonlinear response of the hybrid structures based on evolutionary inverse design of the metasurface’s near-field enhancement around the excitonic frequency. We show that the strong coupling greatly enhances the nonlinear signal, and that its magnitude is mainly determined by the Rabi splitting, making it robust to geometrical variations of the metasurface. Furthermore, the large Rabi splitting attained by these hybrid structures enables broadband operation over the frequencies of the hybridized modes. Our results constitute a significant step toward achieving flexible nonlinear control, which can benefit applications in nonlinear frequency conversion, all-optical switching, and phase-controlled nonlinear metasurfaces.
+
+2022: Room-temperature strong coupling at the nanoscale achieved by inverse design
+Abstract: : Room-temperature strong coupling between plasmonic nanocavities and monolayer semiconductors is a prominent path towards efficient, integrated light-matter interactions. However, designing such systems is challenging due to the nontrivial dependence of the strong coupling on various properties of the cavity and emitter, as well as the subwavelength scale of the interaction. In this work, we develop a methodology for obtaining hybrid nanostructures consisting of plasmonic metasurfaces coupled to atomically thin WS 2 layers, exhibiting extreme values of Rabi splitting, by inverse design of the near-field plasmonic response. Contrary to common measures such as the quality factor or the mode volume, our method relies on an overlap-integral-based metric. We experimentally measure large values of Rabi splitting for our nanoantenna designs, while providing theoretically optimal configurations for several additional types of nanostructures. Our results open a path to maximizing light-matter interactions in integrated platforms, for classical and quantum-optical applications.
+
+2022: Topological transitions and surface umklapp scattering in Slack Metasurfaces
+Abstract: : Metamaterials and metasurfaces are at the pinnacle of wave propagation engineering, yet their design has thus far been mainly focused on deep-subwavelength periodicities, practically forming an effective medium. Such an approach overlooks important structural degrees-of-freedom, e.g. the interplay between the corrugation periodicity and depth and how it affects the beam transport. Here, we present Slack Metasurfaces – weakly modulated metal-dielectric interfaces unlocking all structural degrees-of-freedom that affect the wave propagation. We experimentally demonstrate control over the anisotropy of surface waves in such metasurfaces, leading to yet, unexplored, dual stage topological transitions. We further utilize these metasurfaces to show unique backward focusing of surface waves driven by an umklapp process – momentum relaxation empowered by the periodic nature of the structure. Our findings can be applied to any type of guided waves, introducing a simple and diverse method for controlling wave propagation in artificial media.
+
+2021: Sub-wavelength Spin Excitations Driven by Stimulated Raman Transitions in Ultracold Gases
+Abstract: We present sub-wavelength periodic spin textures of spatially varying Raman Rabi frequency created by evanescent-wave optical lattice. Our results open the door to the study of spin excitation dynamics in ultracold gases.
+
+2021: Real-time sub-wavelength imaging of surface waves with nonlinear near-field optical microscopy
+Abstract: None
+
+2021: Emulating spin transport with nonlinear optics, from high-order skyrmions to the topological Hall effect
+Abstract: None
+
+2021: Real-time imaging of surface waves with nonlinear near-field optical microscopy
+Abstract: We introduce nonlinear near-field optical microscopy (NNOM), capable of real-time evanescent wave imaging by nonlinear wave mixing. Using NNOM, we exhibit phase-resolved polarization- and spin-sensitive near-field mappings of plasmonic patterns using only standard optical components.
+
+2021: Nonlinear optical spintronics: topological Hall effect and Anderson localization
+Abstract: We propose nonlinear optical systems that are analogous to spin-transport in magnetic materials. We find a topological Hall effect for light in skyrmionic nonlinear photonic crystals, and spin-Anderson localization in optical spin-glass.
+
+2021: Topologies in structured plasmons: from optical skyrmions to higher-dimensional topological charge
+Abstract: Surface plasmons are three-dimensional vector-field bound to a two dimensional surface. As a result, structuring or interfering surface plasmons gives rise to new topologies and textures of electro-magnetic waves, typically not found in propagating waves which are often assumed paraxial.
+Using near-field investigation with well controlled boundary condition, we discover new phenomena arising solely from the interference of discrete number of surface plasmon: we demonstrate the first optical skyrmions - topological defects in 3D vector field bound to a 2D surface, show plasmonic-based spin effects in systems with discrete symmetries and discover a 4D topological charge in 2D plasmonic quasi-lattices.
+
+2021: Observation of 2D Cherenkov radiation and its Quantized Photonic Nature Using Free-Electrons
+Abstract: Using a dispersion-engineered structure supporting hybrid photonic-plasmonic surface polaritons, we present the first observation of 2D Cherenkov radiation from free electrons, with record-strong electron–polariton quantum coupling that reaches the single-electron–single-photon interaction regime.
+

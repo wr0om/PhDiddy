@@ -1,0 +1,63 @@
+Recent papers for Johann Makowsky:
+
+2024: Meta-theorems for Graph Polynomials
+Abstract: In this paper I survey the sources of inspiration for my own and co-authored work in trying to develop a general theory of graph polynomials. I concentrate on meta-theorems, i.e., theorem which depend only on the form infinite classes of graph polynomials are defined in some formalism, and not on the actual meaning of the particular definitions.
+
+2023: MC-finiteness of restricted set partition functions
+Abstract: A sequence $s(n)$ of integers is MC-finite if for every $m \in \mathbb{N}^+$ the sequence $s^m(n) = s(n) \bmod{m}$ is ultimately periodic. We discuss various ways of proving and disproving MC-finiteness. Our examples are mostly taken from set partition functions, but our methods can be applied to many more integer sequences.
+
+2023: Counting finite topologies
+Abstract: In this paper we study the number of finite topologies on an $n$-element set subject to various restrictions.
+
+2023: How I got to like graph polynomials
+Abstract: For Boris Zilber on his 75th birthday. I trace the roots of my collaboration with Boris Zilber, which combines categoricity theory, finite model theory, algorithmics, and combinatorics.
+
+2022: Extensions and Limits of the Specker-Blatter Theorem
+Abstract: The original Specker-Blatter Theorem (1983) was formulated for classes of structures $\mathcal{C}$ of one or several binary relations definable in Monadic Second Order Logic MSOL. It states that the number of such structures on the set $[n]$ is modularly C-finite (MC-finite). In previous work we extended this to structures definable in CMSOL, MSOL extended with modular counting quantifiers. The first author also showed that the Specker-Blatter Theorem does not hold for one quaternary relation (2003). If the vocabulary allows a constant symbol $c$, there are $n$ possible interpretations on $[n]$ for $c$. We say that a constant $c$ is {\em hard-wired} if $c$ is always interpreted by the same element $j \in [n]$. In this paper we show: 1. The Specker-Blatter Theorem also holds for CMSOL when hard-wired constants are allowed. The proof method of Specker and Blatter does not work in this case. 2. The Specker-Blatter Theorem does not hold already for $\mathcal{C}$ with one ternary relation definable in First Order Logic FOL. This was left open since 1983. Using hard-wired constants allows us to show MC-finiteness of counting functions of various restricted partition functions which were not known to be MC-finite till now. Among them we have the restricted Bell numbers $B_{r,A}$, restricted Stirling numbers of the second kind $S_{r,A}$ or restricted Lah-numbers $L_{r,A}$. Here $r$ is an non-negative integer and $A$ is an ultimately periodic set of non-negative integers.
+
+2021: On the Tutte and Matching Polynomials for Complete Graphs
+Abstract: Let T(G; X, Y) be the Tutte polynomial for graphs. We study the sequence ta,b(n) = T(Kn; a, b) where a, b are integers, and show that for every μ ∈ ℕ the sequence ta,b(n) is ultimately periodic modulo μ provided a ≠ 1 mod μ and b ≠ 1 mod μ. This result is related to a conjecture by A. Mani and R. Stones from 2016. The theorem is a consequence of a more general theorem which holds for a wide class of graph polynomials definable in Monadic Second Order Logic. This gives also similar results for the various substitution instances of the bivariate matching polynomial and the trivariate edge elimination polynomial ξ(G; X, Y, Z) introduced by I. Averbouch, B. Godlin and the second author in 2008. All our results depend on the Specker-Blatter Theorem from 1981, which studies modular recurrence relations of combinatorial sequences which count the number of labeled graphs.
+
+2021: Almost unimodal and real-rooted graph polynomials
+Abstract: None
+
+2021: Some Thoughts on Computational Models: From Massive Human Computing to Abstract State Machines, and Beyond
+Abstract: None
+
+2020: To Yuri at 80 and More than 40 Years of Friendship
+Abstract: None
+
+2020: Axiomatizing Origami planes.
+Abstract: We provide a variant of an axiomatization of elementary geometry based on logical axioms in the spirit of Huzita--Justin axioms for the Origami constructions. We isolate the fragments corresponding to natural classes of Origami constructions such as Pythagorean, Euclidean, and full Origami constructions. The sets of Origami constructible points for each of the classes of constructions provides the minimal model of the corresponding set of logical axioms. Our axiomatizations are based on Wu's axioms for orthogonal geometry and some modifications of Huzita--Justin axioms. We work out bi-interpretations between these logical theories and theories of fields as described in J.A. Makowsky (2018). Using a theorem of M. Ziegler (1982) which implies that the first order theory of Vieta fields is undecidable, we conclude that the first order theory of our axiomatization of Origami is also undecidable.
+
+2020: Harary polynomials
+Abstract: Given a graph property $\mathcal{P}$, F. Harary introduced in 1985 $\mathcal{P}$-colorings, graph colorings where each colorclass induces a graph in $\mathcal{P}$. Let $\chi_{\mathcal{P}}(G;k)$ counts the number of $\mathcal{P}$-colorings of $G$ with at most $k$ colors. It turns out that $\chi_{\mathcal{P}}(G;k)$ is a polynomial in $\mathbb{Z}[k]$ for each graph $G$. Graph polynomials of this form are called Harary polynomials. In this paper we investigate properties of Harary polynomials and compare them with properties of the classical chromatic polynomial $\chi(G;k)$. We show that the characteristic and Laplacian polynomial, the matching, the independence and the domination polynomial are not Harary polynomials. We show that for various notions of sparse, non-trivial properties $\mathcal{P}$, the polynomial $\chi_{\mathcal{P}}(G;k)$ is, in contrast to $\chi(G;k)$, not a chromatic, and even not an edge elimination invariant. Finally we study whether Harary polynomials are definable in Monadic Second Order Logic.
+
+2019: Weakly distinguishing graph polynomials on addable properties
+Abstract: A graph polynomial $P$ is weakly distinguishing if for almost all finite graphs $G$ there is a finite graph $H$ that is not isomorphic to $G$ with $P(G)=P(H)$. It is weakly distinguishing on a graph property $\mathcal{C}$ if for almost all finite graphs $G\in\mathcal{C}$ there is $H \in \mathcal{C}$ that is not isomorphic to $G$ with $P(G)=P(H)$. We give sufficient conditions on a graph property $\mathcal{C}$ for the characteristic, clique, independence, matching, and domination and $\xi$ polynomials, as well as the Tutte polynomial and its specialisations, to be weakly distinguishing on $\mathcal{C}$. One such condition is to be addable and small in the sense of C. McDiarmid, A. Steger and D. Welsh (2005). Another one is to be of genus at most $k$.
+
+2019: Modernism, Fiction and Mathematics
+Abstract: This is an expanded version of my review of Nina Engelhardt's book "Modernism, Fiction and Mathematics", Edinburgh University Press 2018. 
+A considerably shortened version will appear in the Notices of the AMS.
+
+2019: The exact complexity of the Tutte polynomial
+Abstract: This is a survey on the exact complexity of computing the Tutte polynomial. It is the longer 2017 version of Chapter 25 of the CRC Handbook on the Tutte polynomial and related topics, edited by J. Ellis-Monaghan and I. Moffatt, which is due to appear in the first quarter of 2020. In the version to be published in the Handbook the Sections 5 and 6 are shortened and made into a single section.
+
+2018: The Undecidability of Orthogonal and Origami Geometries
+Abstract: None
+
+2018: On Weakly Distinguishing Graph Polynomials
+Abstract: A univariate graph polynomial P(G;X) is weakly distinguishing if for almost all finite graphs G there is a finite graph H with P(G;X)=P(H;X). We show that the clique polynomial and the independence polynomial are weakly distinguishing. Furthermore, we show that generating functions of induced subgraphs with property C are weakly distinguishing provided that C is of bounded degeneracy or tree-width. The same holds for the harmonious chromatic polynomial.
+
+2018: Can one design a geometry engine?
+Abstract: None
+
+2017: On P-unique hypergraphs
+Abstract: We study hypergraphs which are uniquely determined by their chromatic, independence and matching polynomials. B. Bollob\'as, L. Pebody and O. Riordan (2000) conjectured (BPR-conjecture) that almost all graphs are uniquely determined by their chromatic polynomials. We show that for $r$-uniform hypergraphs with $r \geq 3$ this is almost never the case. This disproves the analolgue of the BPR-conjecture for $3$-uniform hypergraphs. For $r =2$ this also holds for the independence polynomial, as shown by J.A. Makowsky and V. Rakita (2017), whereas for the chromatic and matching polynomial this remains open.
+
+2017: A logician's view of graph polynomials
+Abstract: None
+
+2017: Tuesday ( Including celebration of Tutte centenary )
+Abstract: s of invited talks 4-coloring graphs with no induced 6-vertex path Maria Chudnovsky∗, Sophie Spirkl, Mingxian Zhong ∗Princeton University The problem of testing if a graph can be colored with a given number k of colors is NP-complete for every k > 2. But what if we have more information about the input graph, namely that some fixed graph H is not present in it as an induced subgraph? It is known that the problem remains NP-complete if H is not a subgraph of a path, and the question has been extensively studied in the case when H is a path. Only two cases remain open: 3-coloring a graph with no induced t-vertex path when t > 8, and 4-coloring a graph with no induced 6-vertex path. Recently in joint work with Sophie Spirkl and Mingxian Zhong we settled one of these two problems and found a polynomial-time algorithm to determine if a graph with no induced 6-vertex path admits a 4-coloring (and finds such a coloring if it exists). In this talk we will survey what is known on the topic, and discuss the main ideas of our recent algorithm. (Thursday 10:50) Asymptotic and Constructive Bounds for Hash Families Charles J. Colbourn∗ ∗Arizona State University A perfect hash family PHF (N ; k, w, t) is an N × k array on w symbols, in which in every N × t subarray, at least one row consists of distinct symbols (and hence separates the t columns). Perfect hash families arise in combinatorial cryptography and in constructions of covering arrays; one wants to minimize the number N of rows given that the PHF has k columns, w symbols, and strength t. Many related types of hash families have been defined, motivated by similar applications. Although direct constructions from codes, designs, finite geometries, and arithmetic sequences are known, the construction of specific hash famlies needed in applications remains challenging. Indeed, for specific parameters, it often happens that the best array constructed by direct and recursive methods fails to achieve the size guaranteed by simple probabilistic arguments. Because of this, efficient algorithms to achieve the asymptotic bounds from probabilistic methods are of interest. We explore two asymptotic bounds, one from an elementary probabilistic argument and one via the Lovász Local Lemma. Using the Stein-Lovász-Johnson conditional expectation method for the first, and the Moser-Tardos resampling method for the second, we describe constructive methods for hash families that are easily implemented and prove to be effective for relatively large parameters. Finally we adapt the random selection to use oversampling, and discuss both the asymptotic and the algorithmic consequences. (Monday 2:00)
+

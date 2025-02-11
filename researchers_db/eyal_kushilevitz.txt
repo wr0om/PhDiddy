@@ -1,0 +1,62 @@
+Recent papers for Eyal Kushilevitz:
+
+2023: Hard Languages in $\text{NP}\cap\text{coNP}$ and NIZK Proofs from Unstructured Hardness
+Abstract: None
+
+2023: Hard Languages in $\mathsf{NP} \cap \mathsf{coNP}$ and NIZK Proofs from Unstructured Hardness
+Abstract: None
+
+2023: Cryptography from Planted Graphs: Security with Logarithmic-Size Messages
+Abstract: None
+
+2023: Hard Languages in NP ∩ coNP and NIZK Proofs from Unstructured Hardness
+Abstract: The existence of “unstructured” hard languages in NP  ∩ coNP is an intriguing open question. Bennett and Gill (SICOMP, 1981) asked whether P is separated from NP ∩ coNP relative to a random oracle, a question that remained open ever since. While a hard language in NP  ∩ coNP can be constructed in a black-box way from a one-way permutation, for which only few (structured) candidates exist, Bitansky et al. (SICOMP, 2021) ruled out such a construction based on an injective one-way function, an unstructured primitive that is easy to instantiate heuristically. In fact, the latter holds even with a black-box use of indistinguishability obfuscation. We give the first evidence for the existence of unstructured hard languages in NP  ∩ coNP by showing that if UP ⊈RP, which follows from the existence of injective one-way functions, the answer to Bennett and Gill’s question is affirmative: with probability 1 over a random oracle O, we have that PO ≠ NPO ∩ coNPO. Our proof gives a constructive non-black-box approach for obtaining candidate hard languages in NP  ∩ coNP from cryptographic hash functions. The above conditional separation builds on a new construction of non-interactive zero-knowledge (NIZK) proofs, with a computationally unbounded prover, to convert a hard promise problem into a hard language. We obtain such NIZK proofs for NP, with a uniformly random reference string, from a special kind of hash function which is implied by (an unstructured) random oracle. This should be contrasted with previous constructions of such NIZK proofs that are based on one-way permutations or other structured primitives, as well as with (computationally sound) NIZK arguments in the random oracle model.
+
+2023: Additive Randomized Encodings and Their Applications
+Abstract: None
+
+2023: Perfect MPC over Layered Graphs
+Abstract: None
+
+2023: Succinct Computational Secret Sharing
+Abstract: A secret-sharing scheme enables a dealer to share a secret s among n parties such that only authorized subsets of parties, specified by a monotone access structure f:{0,1}n→{0,1}, can reconstruct s from their shares. Other subsets of parties learn nothing about s. The question of minimizing the (largest) share size for a given f has been the subject of a large body of work. However, in most existing constructions for general access structures f, the share size is not much smaller than the size of some natural computational representation of the access structure f, a fact that has often been referred to as the “representation size barrier” in secret sharing. In this work, we initiate a systematic study of succinct computational secret sharing (SCSS), where the secrecy requirement is computational and the goal is to substantially beat the representation size barrier. We obtain the following main results. First, we introduce the notion of a projective PRG, a pseudorandom generator for which any subset of the output bits can be revealed while keeping the other output bits hidden, using a short projective seed. We construct projective PRGs with different levels of succinctness under a variety of computational assumptions, and apply them towards constructing SCSS for graph access structures, monotone CNF formulas, and (less succinctly) useful subclasses of monotone circuits and branching programs. Most notably, under the sub-exponential RSA assumption, we obtain a SCSS scheme that, given an arbitrary access structure f, represented by a truth table of size N=2n, produces shares of size polylog(N)=poly(n) in time Õ(N). For comparison, the share size of the best known information-theoretic schemes is O(N0.58). Secondly, under the (minimal) assumption that one-way functions exist, we obtain a near-quadratic separation between the total share size of computational and information-theoretic secret sharing. This is the strongest separation one can hope for, given the state of the art in secret sharing lower bounds. We also construct SCSS schemes from one-way functions for useful classes of access structures, including forbidden graphs and monotone DNF formulas. This leads to constructions of fully-decomposable conditional disclosure of secrets (also known as privacy-free garbled circuits) for general functions, represented by a truth table of size N=2n, with share size polylog(N) and computation time Õ(N), assuming sub-exponentially secure one-way functions.
+
+2022: Random-Index Oblivious RAM
+Abstract: None
+
+2022: Anonymous Permutation Routing
+Abstract: None
+
+2021: CNF-FSS and its Applications
+Abstract: None
+
+2021: Secure Computation from One-Way Noisy Communication, or: Anti-correlation via Anti-concentration
+Abstract: None
+
+2020: LOWER AND UPPER BOUNDS ON THE RANDOMNESS
+Abstract: . We consider multi-party information-theoretic private protocols, and speciﬁcally 5 their randomness complexity. The randomness complexity of private protocols is of interest both 6 because random bits are considered a scarce resource, and because of the relation between that 7 complexity measure and other complexity measures of boolean functions such as the circuit size or 8 the sensitivity of the function being computed [19, 13]. 9 More concretely, we consider the randomness complexity of the basic boolean function and , that 10 serves as a building block in the design of many private protocols. We show that and cannot be 11 privately computed using a single random bit, thus giving the ﬁrst non-trivial lower bound on the 12 1-private randomness complexity of an explicit boolean function, f : { 0 , 1 } n → { 0 , 1 } . We further 13 show that and , on any number of inputs n (one input bit per player), can be privately computed 14 using 8 random bits (and 7 random bits in the special case of n = 3 players), improving the upper 15 bound of 73 random bits implicit in [19]. Together with our lower bound, we thus approach the 16 exact determination of the randomness complexity of and . To the best of our knowledge, the exact 17 randomness complexity of private computation is not known for any explicit function (except for 18 xor , which is 1-random, and for several degenerate functions). 19
+
+2020: Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning
+Abstract: Abstract We propose Falcon, an end-to-end 3-party protocol for efficient private training and inference of large machine learning models. Falcon presents four main advantages – (i) It is highly expressive with support for high capacity networks such as VGG16 (ii) it supports batch normalization which is important for training complex networks such as AlexNet (iii) Falcon guarantees security with abort against malicious adversaries, assuming an honest majority (iv) Lastly, Falcon presents new theoretical insights for protocol design that make it highly efficient and allow it to outperform existing secure deep learning solutions. Compared to prior art for private inference, we are about 8× faster than SecureNN (PETS’19) on average and comparable to ABY3 (CCS’18). We are about 16 − 200× more communication efficient than either of these. For private training, we are about 6× faster than SecureNN, 4.4× faster than ABY3 and about 2−60× more communication efficient. Our experiments in the WAN setting show that over large networks and datasets, compute operations dominate the overall latency of MPC, as opposed to the communication.
+
+2020: Cryptography from One-Way Communication: On Completeness of Finite Channels
+Abstract: None
+
+2019: On Fully Secure MPC with Solitary Output
+Abstract: None
+
+2019: Lower and Upper Bounds on the Randomness Complexity of Private Computations of AND
+Abstract: None
+
+2019: Cryptographic Sensing
+Abstract: None
+
+2018: The Query Complexity of Finding Local Minima inthe
+Abstract: None
+
+2018: Sub-logarithmic Distributed Oblivious RAM with Small Block Size
+Abstract: None
+
+2018: The Complexity of Multiparty PSM Protocols and Related Models
+Abstract: None
+

@@ -1,0 +1,62 @@
+Recent papers for Zeheb Ezra:
+
+2019: Some stability tests for switched descriptor systems
+Abstract: None
+
+2017: Stability tests for a class of switched descriptor systems with non-homogenous indices
+Abstract: In this paper we derive stability conditions for a switched system where switching occurs between linear descriptor systems of different indices. In particular, our results can be used to analyse the stability of the important case when switching between a standard system and an index one descriptor system, and systems where switching occurs between an index one and and an index two descriptor system. Examples are given to illustrate the use of our results.
+
+2017: On the SPRification of Linear Descriptor Systems via Output Feedback
+Abstract: We consider input–output systems in descriptor form and ask when such systems can be rendered strictly positive real (SPR) via output feedback. Time- and frequency-domain conditions are given to determine when and how this is possible. In addition, a synthesis procedure for controller design is also derived. Together, the results provide a complete answer to when a linear descriptor system can be made SPR via output feedback, and provide a recipe for design of a feedback controller when one exists.
+
+2015: Exact stability test and stabilization for fractional systems
+Abstract: None
+
+2013: Stability of a class of switched descriptor systems
+Abstract: In this paper we use the dimensionality reduction result from [1] for linear descriptor systems to derive stability conditions for special classes of switched descriptor systems.
+
+2013: On dimensionality reduction and the stability of a class of switched descriptor systems
+Abstract: None
+
+2013: Static output feedback passivation of a SISO system characterized by state matrices
+Abstract: Necessary and sufficient conditions for the existence of a static feedback controller for a LTI single-input single-output system, which renders the system passive, are derived. The novelty is that these conditions are expressed in terms of the state space matrices of the open loop system. The derived conditions pertain to all possible cases: proper transfer functions, strictly proper transfer functions, state matrix A invertible or singular.
+
+2013: Comments and observations on the passivity of descriptor systems in state space
+Abstract: In this article, we give necessary and sufficient conditions for passivity of descriptor systems. These conditions are easily verifiable and apply without restriction to all descriptor systems.
+
+2012: Robust controller design based on generalized Bode envelopes
+Abstract: We propose simple tools for robust design of controllers for SISO linear systems with or without uncer- tainty. These tools are based on the generalization of frequency domain, where the uncertainty is defined by generalized Bode envelopes (GBE). The utilization of generalized Nyquist and Mikhailov theorems, which uses the number of GBE crossings with certain predefined horizontal lines, to deduce stability, allows to obtain stability as well as performance specifications simultaneously. The same design rules can be applied to continuous as well as discrete time systems. We provide examples to demonstrate our method of controller design for various control systems. The main problem of control theory is a design of an appropriate controller for a given plant with prescribed specifications. The controller should be robust enough to manage the errors in the model, noise and disturbances. Then, the designed controllers can be used in diverse applications ranging from automotive to process control. In the classical control design theory (e.g., Bode (1945)), the noise and uncertainties are not explicitly modeled, thus the phase and gain margins are used to make the system more robust. In the modern optimal control Kwakernaak & Sivan (1972), the specifications are converted to some performance criterion that should be minimized. In our approach, we avoid the need in gain and phase margins by exploring the poles and zeros clustering in the complex plane. If all the poles in the closed loop are clustered inside an arbitrary chosen bounded region G , we say that this system is G stable and all the specifications are met. To provide better stability margins we may choose the location of the region farther to the left from the imaginary axis (for continuous systems). By choosing the region inside the unit circle, we can use the same tools to design discrete controllers for discrete plants. Further development of the robust design went in a few directions described below. The parametric methods of robust control are described in Bhattacharyya et al. (1995), and Barmish (1993). In these methods, the structure of uncertainty is defined aforehand, and the design procedure is based on alge- braic and optimization methods. Another type which is based on H ¥ norm was proposed by Zames (1981). A loop shaping in frequency domain that is based on H ¥ theory was proposed by McFarlane et al. (1992). The methods of loop shaping try to consider the sensitivity at low and high frequencies in the design. A more recent approach is based on the linear matrix inequalities (LMI) (e.g., Iwasaki & Hara (2004)), but this approach uses state space representation and not a transfer function. Our aim is to fill the gap between the traditional classical control design theory, and more mathematically inclined sophisticated modern robust control theory. One of the earliest attempts to explicit plant uncertainty description was formulated in the quanti- tative feedback theory (QFT) by Horowitz (2001). In this theory, the fixed controller structure is not assumed, and the design is made by utilization of Nichols chart and conversion of the specifications to the frequency domain. Similarly to QFT, our method is very intuitive allowing a designer to achieve the desired performance and to see what trade-offs are necessary. In contrast to QFT, we use generalized
+
+2012: Corrigendum
+Abstract: None
+
+2011: Necessary and sufficient conditions for passivity of descriptor systems
+Abstract: In this talk, Descriptor Systems are discussed, i.e. linear systems whose state space characterization is singular. Necessary and sufficient spectral conditions for various notions of strict positive realness for single-input single-output descriptor systems will be given. These ensure passivity of the systems. Essentially, these conditions only require calculation of eigenvalues of a single matrix. This is a significant advantage for testing of positive realness even for regular systems characterized by transfer functions. The talk is based on a joint work with Robert Shorten and Shravan Sajja.
+
+2011: Generalized Bode envelopes and generalized Nyquist theorem for analysis of uncertain systems
+Abstract: This work is concerned with analysis of uncertain control systems, with regard to clustering of poles inside a simple symmetric bounded contour. We present and use the generalized Bode envelopes, generalized Mikhailov theorem, and the generalized Nyquist theorem for the simultaneous analysis of stability and quality of transient response of uncertain systems. Our results allow one to determine the number of open‐ and closed‐loop poles inside the given symmetric simply connected contour, for the entire uncertain family. The proposed method is computationally efficient and appropriate for solving complex control analysis problems, as evidenced in the examples. Copyright © 2010 John Wiley & Sons, Ltd.
+
+2011: LMI Characterization of General Stability Regions for Polynomials
+Abstract: Stability domain characterization in coefficients space of polynomials is considered. The proposed method generalizes some recent results on convex approximation of stability domain in coefficients space. The method provides a new LMI formulation of stability constraints for a very general stability region including disjoint regions. Numerical examples are provided, demonstrating the power of the proposed method.
+
+2010: Strict positive realness of descriptor systems in state space
+Abstract: In this article, we give necessary and sufficient spectral conditions for various notions of strict positive realness for single-input single-output descriptor systems. These conditions only require calculation of eigenvalues of a single matrix. A characterisation of a Kalman–Yacubovich–Popov-like lemma for descriptor systems is also derived, and its implications for the stability of a class of switched descriptor systems are briefly discussed.
+
+2010: Delay-dependent H∞ model reduction of time-delay systems
+Abstract: Improvement of an existing method for model reduction of linear continuous time-delay systems is proposed. The method is based on a delay-dependent version of Bounded Real Lemma (BRL), thus providing better error bounds compared to the existing algorithm, which is based on delay-independent BRL. Numerical example shows the advantage of the proposed procedure.
+
+2010: Design of a Robust State Feedback Controller for a STATCOM Using a Zero Set Concept
+Abstract: A static synchronous compensator (STATCOM) is one of the fundamental flexible ac transmission system devices that can be used for voltage regulation and dynamic voltage control. In this paper, a new approach to the problem of the STATCOM state feedback design is presented. The proposed solution technique is based on a zero set concept. It allows one to calculate a complete set of the admissible feedback gains that place closed-loop poles into a prespecified region in the complex plane under parametric uncertainties in the plant model. These uncertainties represent load pattern variations and topological changes due to line tripping. Computational examples show that by using the design technique based on the zero set concept, it is possible to derive the state feedback controllers with better robustness properties than those achieved using the approaches utilizing linear matrix inequalities.
+
+2009: LMI stability constraints for disjoint stability regions using rouché theorem
+Abstract: Stability domain characterization in coefficients space of polynomials is considered. Generalization of existing results on convex approximation of stability domain in coefficients space is proposed. The proposed method can handle broad class of stability regions including unions of disjoint stability regions. New LMI formulation of stability constraints is developed for discrete-time polynomials. Numerical examples are provided, demonstrating the applicability of the proposed method.
+
+2009: Finite Nyquist and Finite Inclusions Theorems for disjoint stability regions
+Abstract: None
+
+2008: Design for positivity of analytic functions
+Abstract: A large group of control problems can be casted as a problem of design for positivity. A new method is presented for choosing a parameter which ensures the robust positiveness of any real analytic function. The method provides an analytic solution as opposed to numerical sampling techniques. The method is especially useful in design for polynomial positivity due to existence of efficient techniques for solution of systems of polynomial equations and inequalities. Examples are provided, which illustrate the applicability of the proposed method to real-life problems.
+
+2008: Robust pole placement technique for STATCOM controller design
+Abstract: This paper presents a new method of a voltage controller design for the synchronous static compensator (STACOM). The required performance of the STATCOM is achieved by a robust closed-loop pole placement in a pre-specified region of the complex plane. For this purpose, some ideas from a field of linear matrix inequalities (LMIs) are combined with a zero set concept. The initial state-feedback controller that satisfies the design specifications is obtained solving linear matrix inequalities whereas a complete set of the admissible controller gains is found using zero set calculations. At the final stage, design centering is performed to derive a robust STATCOM voltage controller with maximally possible safety margins.
+

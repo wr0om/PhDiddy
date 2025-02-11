@@ -1,0 +1,84 @@
+Recent papers for Tomer Shlomi:
+
+2023: Inferring mitochondrial and cytosolic metabolism by coupling isotope tracing and deconvolution
+Abstract: None
+
+2023: A cost-effective non-invasive serum test for diagnosing NASH-cirrhosis (NC-3) in high-risk metabolic syndrome and/or type 2 diabetes patients
+Abstract: None
+
+2022: 2-hydroxyglutarate controls centromere and heterochromatin conformation and function in the male germline
+Abstract: 2-hydroxyglutarate (2HG) is recognized as an epigenetic regulator in cancer and some transient biological processes. Of all organs, the testis harbors the highest baseline physiological levels of 2HG, yet it’s putative functions in germ cell biology are unknown. Here we show that 2HG is generated in specific stages of spermatogenesis by the testis specific lactate dehydrogenase C (LDHC), beginning at the last stages of prophase I. Unexpectedly LDHC enters nuclei and concentrates in centromeres. LDHC-generated L-2HG controls centromere condensation and pericentromeric heterochromatin organization through multiple effects including clustering of chromocenters, centromere and chromocenter condensation and expression of satellite RNAs. These effects are rapid and specific to L but not D-2HG. In vivo depletion of L-2HG causes centromere malfunction and activation of the spindle assembly checkpoint. Our findings reveal that 2HG can directly affect centromere and pericentromeric heterochromatin conformation and function and is necessary for licensing chromosome segregation.
+
+2022: Genomic alterations drive metastases formation in pancreatic ductal adenocarcinoma cancer: deciphering the role of CDKN2A and CDKN2B in mediating liver tropism
+Abstract: None
+
+2022: Glycine decarboxylase maintains mitochondrial protein lipoylation to support tumor growth.
+Abstract: None
+
+2021: Increasing mTORC1 Pathway Activity or Methionine Supplementation during Pregnancy Reverses the Negative Effect of Maternal Malnutrition on the Developing Kidney
+Abstract: Visual Abstract Significance Statement Kidney development ceases at the end of the third trimester of pregnancy, with no new nephrons forming after birth even with numerous injuries. Therefore, the intrauterine environment, as the maternal nutritional state, has a high effect on the risk of kidney disease when the fetus reaches adulthood. Impairment of mTOR pathway activity and methionine metabolism in nephron progenitor cells play a pivotal role in mediating the effect of caloric restriction during pregnancy on nephron endowment in a mouse model. Increasing the activity of the mTOR pathway or methionine supplementation during pregnancy reverses the negative effect of maternal malnutrition on the developing kidney. These results highlight new interventions to improve nephrogenesis in high-risk pregnancies. Background Low nephron number at birth is associated with a high risk of CKD in adulthood because nephrogenesis is completed in utero. Poor intrauterine environment impairs nephron endowment via an undefined molecular mechanism. A calorie-restricted diet (CRD) mouse model examined the effect of malnutrition during pregnancy on nephron progenitor cells (NPCs). Methods Daily caloric intake was reduced by 30% during pregnancy. mRNA expression, the cell cycle, and metabolic activity were evaluated in sorted Six2 NPCs. The results were validated using transgenic mice, oral nutrient supplementation, and organ cultures. Results Maternal CRD is associated with low nephron number in offspring, compromising kidney function at an older age. RNA-seq identified cell cycle regulators and the mTORC1 pathway, among other pathways, that maternal malnutrition in NPCs modifies. Metabolomics analysis of NPCs singled out the methionine pathway as crucial for NPC proliferation and maintenance. Methionine deprivation reduced NPC proliferation and lowered NPC number per tip in embryonic kidney cultures, with rescue from methionine metabolite supplementation. Importantly, in vivo, the negative effect of caloric restriction on nephrogenesis was prevented by adding methionine to the otherwise restricted diet during pregnancy or by removing one Tsc1 allele in NPCs. Conclusions These findings show that mTORC1 signaling and methionine metabolism are central to the cellular and metabolic effects of malnutrition during pregnancy on NPCs, contributing to nephrogenesis and later, to kidney health in adulthood.
+
+2020: Fast and sensitive flow-injection mass spectrometry metabolomics by analyzing sample-specific ion distributions
+Abstract: None
+
+2020: Mind your media
+Abstract: None
+
+2020: Tumor Reliance on Cytosolic versus Mitochondrial One-Carbon Flux Depends on Folate Availability.
+Abstract: None
+
+2020: Fast and sensitive flow-injection mass spectrometry metabolomics by analyzing sample-specific ion distributions
+Abstract: None
+
+2019: Intra-Tumoral Metabolic Z onation and Resultant Phenotypic Diversification Are Dictated by Blood Vessel Proximity Graphical Abstract Highlights
+Abstract: None
+
+2019: Spatial-fluxomics provides a subcellular-compartmentalized view of reductive glutamine metabolism in cancer cells
+Abstract: None
+
+2019: Studying metabolic flux adaptations in cancer through integrated experimental-computational approaches
+Abstract: None
+
+2019: Bounds On $(t,r)$ Broadcast Domination of $n$-Dimensional Grids
+Abstract: In this paper, we study a variant of graph domination known as $(t, r)$
+broadcast domination, first defined in Blessing, Insko, Johnson, and Mauretour
+in 2015. In this variant, each broadcast provides $t-d$ reception to each
+vertex a distance $d < t$ from the broadcast. If $d \ge t$ then no reception is
+provided. A vertex is considered dominated if it receives $r$ total reception
+from all broadcasts. Our main results provide some upper and lower bounds on
+the density of a $(t, r)$ dominating pattern of an infinite grid, as well as
+methods of computing them. Also, when $r \ge 2$ we describe a family of
+counterexamples to a generalization of Vizing's Conjecture to $(t,r)$ broadcast
+domination.
+
+2019: Systemic Succinate Homeostasis and Local Succinate Signaling Affect Blood Pressure and Modify Risks for Calcium Oxalate Lithogenesis.
+Abstract: BACKGROUND
+In the kidney, low urinary citrate increases the risk for developing kidney stones, and elevation of luminal succinate in the juxtaglomerular apparatus increases renin secretion, causing hypertension. Although the association between stone formation and hypertension is well established, the molecular mechanism linking these pathophysiologies has been elusive.
+
+
+METHODS
+To investigate the relationship between succinate and citrate/oxalate levels, we assessed blood and urine levels of metabolites, renal protein expression, and BP (using 24-hour telemetric monitoring) in male mice lacking slc26a6 (a transporter that inhibits the succinate transporter NaDC-1 to control citrate absorption from the urinary lumen). We also explored the mechanism underlying this metabolic association, using coimmunoprecipitation, electrophysiologic measurements, and flux assays to study protein interaction and transport activity.
+
+
+RESULTS
+Compared with control mice, slc26a6-/- mice (previously shown to have low urinary citrate and to develop calcium oxalate stones) had a 40% decrease in urinary excretion of succinate, a 35% increase in serum succinate, and elevated plasma renin. Slc26a6-/- mice also showed activity-dependent hypertension that was unaffected by dietary salt intake. Structural modeling, confirmed by mutational analysis, identified slc26a6 and NaDC-1 residues that interact and mediate slc26a6's inhibition of NaDC-1. This interaction is regulated by the scaffolding protein IRBIT, which is released by stimulation of the succinate receptor SUCNR1 and interacts with the NaDC-1/slc26a6 complex to inhibit succinate transport by NaDC-1.
+
+
+CONCLUSIONS
+These findings reveal a succinate/citrate homeostatic pathway regulated by IRBIT that affects BP and biochemical risk of calcium oxalate stone formation, thus providing a potential molecular link between hypertension and lithogenesis.
+
+2019: Blimp1+ cells generate functional mouse sebaceous gland organoids in vitro
+Abstract: None
+
+2019: Intra-Tumoral Metabolic Zonation and Resultant Phenotypic Diversification Are Dictated by Blood Vessel Proximity.
+Abstract: None
+
+2019: Inferring cancer dependencies on metabolic genes from large-scale genetic screens
+Abstract: None
+
+2018: PO-131 Reprogramming of cancer cell metabolism by adaptation to chronic cycling severe hypoxia increases radiation resistance
+Abstract: Introduction Hypoxia-mediated resistance of solid tumours to ionising radiation is a major obstacle to successful radiotherapy. We showed previously that chronic cycling hypoxia drives the evolution of anoxia/reoxygenation-tolerant (ART) cancer cells with increased resistance to ionising radiation. Radiation resistance of ART cancer cells was associated with complex metabolic reprogramming, Matschke et al., Antioxid Redox Signal 201625:89–107; Matschke et al., Radiat Oncol 201611(1:75). Aim of the present study was to gain a more comprehensive understanding of the metabolic adaptation of cancer cells and to systematically explore opportunities for targeted pharmacologic intervention based on their suspected specific metabolic needs upon irradiation. Material and methods We compared gene expression profiles of ART and control cancer cells by microarray analysis and validated genes of interest by qRT-PCR. We used LC-MS high-throughput metabolomics, metabolic flux analyses, nutrient deprivation and drugs interfering with metabolism to characterise the cellular metabolic state without/with irradiation. Results and discussions Our microarray data indicated changes in major metabolic pathways after chronic cycling hypoxia selection. Furthermore, tolerance to severe hypoxia was associated with the formation of enlarged mitochondria in ART NCI-H460 cells. The analysis of metabolic alterations in irradiated cancer cells by LC-MS high-throughput metabolome analysis demonstrated a high and time-dependent need of irradiated cancer cells in central metabolism. Targeting of induced metabolic alterations disturbed redox homeostasis, altered mitochondrial metabolism and sensitised cancer cells to ionising radiation. Conclusion Specific metabolic requirements under stress conditions such as severe hypoxia or irradiation render cancer cells vulnerable to metabolic inhibitors alone and in combination with ionising radiation in a context and cell type-dependent manner. Supported by grants of the DFG (GRK1739/2) and the Deutsche Krebshilfe (1 10 355 and 70112711).
+
+2018: Transfer of miRNA in Macrophage-Derived Exosomes Induces Drug Resistance in Pancreatic Adenocarcinoma.
+Abstract: Pancreatic ductal adenocarcinoma (PDAC) is known for its resistance to gemcitabine, which acts to inhibit cell growth by termination of DNA replication. Tumor-associated macrophages (TAM) were recently shown to contribute to gemcitabine resistance; however, the exact mechanism of this process is still unclear. Using a genetic mouse model of PDAC and electron microscopy analysis, we show that TAM communicate with the tumor microenvironment via secretion of approximately 90 nm vesicles, which are selectively internalized by cancer cells. Transfection of artificial dsDNA (barcode fragment) to murine peritoneal macrophages and injection to mice bearing PDAC tumors revealed a 4-log higher concentration of the barcode fragment in primary tumors and in liver metastasis than in normal tissue. These macrophage-derived exosomes (MDE) significantly decreased the sensitivity of PDAC cells to gemcitabine, in vitro and in vivo This effect was mediated by the transfer of miR-365 in MDE. miR-365 impaired activation of gemcitabine by upregulation of the triphospho-nucleotide pool in cancer cells and the induction of the enzyme cytidine deaminase; the latter inactivates gemcitabine. Adoptive transfer of miR-365 in TAM induced gemcitabine resistance in PDAC-bearing mice, whereas immune transfer of the miR-365 antagonist recovered the sensitivity to gemcitabine. Mice deficient of Rab27 a/b genes, which lack exosomal secretion, responded significantly better to gemcitabine than did wildtype. These results identify MDE as key regulators of gemcitabine resistance in PDAC and demonstrate that blocking miR-365 can potentiate gemcitabine response.Significance: Harnessing macrophage-derived exosomes as conveyers of antagomiRs augments the effect of chemotherapy against cancer, opening new therapeutic options against malignancies where resistance to nucleotide analogs remains an obstacle to overcome. Cancer Res; 78(18); 5287-99. ©2018 AACR.
+

@@ -1,0 +1,63 @@
+Recent papers for Gill Barequet:
+
+2024: Counting Polyominoes, Revisited
+Abstract: None
+
+2023: Unbounded Regions of High-Order Voronoi Diagrams of Lines and Line Segments in Higher Dimensions
+Abstract: None
+
+2023: Automatic generation of formulae for polyominoes with a fixed perimeter defect
+Abstract: None
+
+2023: Topology-Controlled Reconstruction from Partial Cross-Sections
+Abstract: The problem of 3-dimensional reconstruction from planar cross-sections arises in many fields, such as biomedical image analysis and geographical information systems. The problem has been studied extensively in the past 40 years. Each cross-section in the input contains multiple contours, where each contour divides the plane into different material types. The reconstructed object is a valid volume (surrounded by a closed surface) that interpolates the input slices. Some previous works utilize prior information about the reconstructed object, such as its topology, for recovering the original shape of the object. These works assume that the input cross-sections are complete and do not contain areas of missing information. In many real-life cases, this assumption does not hold. Other existing works handle such inputs; however, the methods they suggest do not have topological guarantees for the reconstructed object. In this work, we provide the first technique that provides topology control for 3-dimensional reconstruction from partial planar cross-sections. The input to our algorithm consists of an arbitrarily-oriented set of 2-dimensional cross-sections that may contain areas of missing information (“unknown” regions) and user-specified topology constraints on the reconstructed object. During the reconstruction process, we explore a set of distinct topologies for relabeling the “unknown” regions. We define a scoring function for calculating the likelihood of each topology. We then examine a set of representative topologies and choose the reconstruction that simultaneously satisfies the global topology and optimizes the scoring function.
+
+2022: Diamonds are Forever in the Blockchain: Geometric Polyhedral Point-Set Pattern Matching
+Abstract: Motivated by blockchain technology for supply-chain tracing of ethically sourced diamonds, we study geometric polyhedral point-set pattern matching as minimum-width polyhedral annulus problems under translations and rotations. We provide two $(1 + \varepsilon)$-approximation schemes under translations with $O(\varepsilon^{-d} n)$-time for $d$ dimensions and $O(n\log \varepsilon^{-1} + \varepsilon^{-2})$-time for two dimensions, and we give an $O(f^{d-1}\varepsilon^{1-2d}n)$-time algorithm when also allowing for rotations, parameterized on $f$, which we define as the slimness of the point set.
+
+2022: Minimum-Perimeter Lattice Animals and the Constant-Isomer Conjecture
+Abstract: We consider minimum-perimeter lattice animals, providing a set of conditions which are sufficient for a lattice to have the property that inflating all minimum-perimeter animals of a certain size yields (without repetitions) all minimum-perimeter animals of a new, larger size.  We demonstrate this result on the two-dimensional square and hexagonal lattices.  In addition, we characterize the sizes of minimum-perimeter animals on these lattices that are not created by inflating members of another set of minimum-perimeter animals. 
+ 
+
+2022: Automatic generation of formulae for polyominoes with a fixed perimeter defect
+Abstract: None
+
+2022: Algorithms for Counting Minimum-Perimeter Lattice Animals
+Abstract: None
+
+2022: Optimally Confining Lattice Polymers
+Abstract: None
+
+2022: Minimal-Perimeter Lattice Animals and the Constant-Isomer Conjecture
+Abstract: We consider minimal-perimeter lattice animals, providing a set of conditions which are sufficient for a lattice to have the property that inflating all minimal-perimeter animals of a certain size yields (without repetitions) all minimal-perimeter animals of a new, larger size. We demonstrate this result on the two-dimensional square and hexagonal lattices. In addition, we characterize the sizes of minimal-perimeter animals on these lattices that are not created by inflating members of another set of minimal-perimeter animals.
+
+2021: On the Number of Compositions of Two Polycubes
+Abstract: None
+
+2021: Convex-Straight-Skeleton Voronoi Diagrams for Segments and Convex Polygons
+Abstract: None
+
+2021: Concatenation arguments and their applications to polyominoes and polycubes
+Abstract: None
+
+2020: On Minimal-Perimeter Lattice Animals
+Abstract: None
+
+2020: Applications of Concatenation Arguments to Polyominoes and Polycubes∗
+Abstract: We present several concatenation arguments for polyominoes and polycubes, and show their applications to setting lower and upper bounds on the growth constants of some of their families, whose enumerating sequences are pseudo subor super-multiplicative. Inter alia, we provide bounds on the growth constants of general and tree polyominoes, and general polycubes.
+
+2019: 22 : 2 Convex Polygons in Cartesian Products 1
+Abstract: We study several problems concerning convex polygons whose vertices lie in a Cartesian product of two sets of n real numbers (for short, grid). First, we prove that every such grid contains a convex polygon with Ω(log n) vertices and that this bound is tight up to a constant factor. We generalize this result to d dimensions (for a fixed d ∈ N), and obtain a tight lower bound of Ω(logd−1 n) for the maximum number of points in convex position in a d-dimensional grid. Second, we present polynomial-time algorithms for computing the longest convex polygonal chain in a grid that contains no two points with the same xor y-coordinate. We show that the maximum size of such a convex polygon can be efficiently approximated up to a factor of 2. Finally, we present exponential bounds on the maximum number of convex polygons in these grids, and for some restricted variants. These bounds are tight up to polynomial factors. 2012 ACM Subject Classification Theory of computation → Computational geometry
+
+2019: Minimal-Perimeter Polyominoes: Chains, Roots, and Algorithms
+Abstract: None
+
+2019: Unbounded Regions of High-Order Voronoi Diagrams of Lines and Segments in Higher Dimensions
+Abstract: We study the behavior at infinity of the farthest and the higher-order Voronoi diagram of n line segments or lines in a d-dimensional Euclidean space. The unbounded parts of these diagrams can be encoded by a Gaussian map on the sphere of directions Sd−1. We show that the combinatorial complexity of the Gaussian map for the order-k Voronoi diagram of n line segments or lines is O(min{k, n−k}nd−1), which is tight for n−k = O(1). All the d-dimensional cells of the farthest Voronoi diagram are unbounded, its (d−1)-skeleton is connected, and it does not have tunnels. A d-cell of the Voronoi diagram is called a tunnel if the set of its unbounded directions, represented as points on its Gaussian map, is not connected. In a three-dimensional space, the farthest Voronoi diagram of lines has exactly n2−n three-dimensional cells, when n ≥ 2. The Gaussian map of the farthest Voronoi diagram of line segments or lines can be constructed in O(nd−1α(n)) time, while if d = 3, the time drops to worst-case optimal O(n2). 2012 ACM Subject Classification Theory of computation → Computational geometry
+
+2019: Properties of Minimal-Perimeter Polyominoes (Multimedia Exposition)
+Abstract: None
+
+2019: A Lower Bound on the Growth Constant of Polyaboloes on the Tetrakis Lattice
+Abstract: None
+

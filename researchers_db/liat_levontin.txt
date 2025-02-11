@@ -1,0 +1,89 @@
+Recent papers for Liat Levontin:
+
+2025: The impact factor: The effect of actual impact information and perceived donation efficacy on donors' repeated donations
+Abstract: None
+
+2024: The Potentially Negative Effects of AI Writing Assistants on Self-Disclosure
+Abstract: None
+
+2024: The in-situ effect of offensive ads on search engine users
+Abstract: 
+ Unscrupulous advertisers may try to increase attention to search ads by using offensive ads, which can increase attention and recall to the detriment of individuals and society. Here we investigate whether offensive ads, when shown to search engine users, have such effects. We developed 12 search scenarios and created 4 versions of the search results page (SERP) for each scenario, where some of the ads were changed to be irrelevant and/or offensive. Crowdsourced judges found a strong correlation (
+ 
+ \(\geq 0.63\)
+ 
+ ) between the reported number of annoying ads and the actual number of offensive and irrelevant ads, suggesting people conflate these attributes. Furthermore, we found that judges who assessed the SERPs for themselves reported lower positive affect and higher negative affect than judges asked to imagine the results were provided to someone else. In the latter case offensive ads also lead to slightly lower positive (
+ 
+ \(-4\%\)
+ 
+ ) and higher negative affect (
+ 
+ \(+61\%\)
+ 
+ ). Finally, in a recall test, only 6% of judges reported seeing an offensive ad when using search engines. Our work should further detract advertisers from using offensive ads since, in addition to previously documented adverse effects, such ads have a small but statistically significant negative effect on people's emotional experience.
+
+
+2023: The effects of pseudo‐relevant 100% claims
+Abstract: The term “100%” represents perfection. Thus, it is not surprising that marketers believe that claims that contain this term (e.g., “100% organic”) can make products more appealing. This intuition is reflected in the extensive use of 100% claims to describe products' qualities. We discuss how the term 100% can be used to create a claim about perfection that seems to, but does not, provide meaningful information about a product's benefits (e.g., “100% juice”). By appearing to be, but actually not being, relevant to the judgment at hand, these so‐called pseudo‐relevant 100% claims may mislead consumers into making baseless positive assumptions regarding the focal product. Three studies examine how consumers respond to pseudo‐relevant 100% claims. Our results suggest that pseudo‐relevant 100% claims lead to lower product evaluations and consumption intentions than similar claims that include adjacent percentages or no numerical terms. Interestingly, they also suggest spillover effects onto evaluations of the products' customers. Our findings show that consumers pick up on the meaninglessness of the promise of perfection implied by the term “100%” in pseudo‐relevant 100% claims, which causes them to perceive the product as less appealing.
+
+2023: Tutorials at The Web Conference 2023
+Abstract: This paper summarizes the content of the 28 tutorials that have been given at The Web Conference 2023.
+
+2023: Mindset effects on the regulation of thinking time in problem-solving
+Abstract: None
+
+2022: Analysis of factors influencing recurring donations in a university setting: A compound poisson mixture regression model
+Abstract: None
+
+2022: Standardizing the Assessment of Citizen Scientists’ Motivations: A Motivational Goal-Based Approach
+Abstract: Understanding volunteers’ motivations to participate in Citizen Science (CS) projects is essential for these projects’ effective management and success. Many studies have investigated citizen scientists’ motivations, but only a few have used a theory-based approach to provide a standardized methodology to measure CS motivations. The current research aims to take the literature a step further by developing and applying a general, standardized, theory-based framework of CS motivation and a CS motivation scale (CSMS) that can be used to assess volunteers’ motivations across diverse CS projects. The CSMS comprises 58 items corresponding to 15 motivational categories. It is grounded in Schwartz’s theory of basic human values, while incorporating the wealth of empirical knowledge on citizen scientists’ motivations. We administered the scale to three separate samples of either Dutch or Hebrew-speaking participants who volunteered for three CS projects. Analysis of participants’ ratings of their motivations supported our theoretical framework, showing that 13 of the scale’s 15 motivational categories fell into 4 higher-order motivations, which correspond to Schwartz’s theory of values: openness to change, self-enhancement, continuity (conservation)
+
+2021: The Adverse Effect of Choice in Donation Decisions
+Abstract: None
+
+2021: Who Do I (Dis)Trust and Monitor for Ethical Misconduct? Status, Power, and the Structural Paradox
+Abstract: None
+
+2021: The Effects of Warmth and Competence Perceptions on Users' Choice of an AI System
+Abstract: People increasingly rely on Artificial Intelligence (AI) based systems to aid decision-making in various domains and often face a choice between alternative systems. We explored the effects of users' perception of AI systems' warmth (perceived intent) and competence (perceived ability) on their choices. In a series of studies, we manipulated AI systems' warmth and competence levels. We show that, similar to the judgments of other people, there is often primacy for warmth over competence. Specifically, when faced with a choice between a high-competence system and a high-warmth system, more participants preferred the high-warmth system. Moreover, the precedence of warmth persisted even when the high-warmth system was overtly deficient in its competence compared to an alternative high competence-low warmth system. The current research proposes that it may be vital for AI systems designers to consider and communicate the system's warmth characteristics to its potential users.
+
+2020: Prosocial Behavior Reframed: How Consumer Mindsets Shape Dependency-Oriented versus Autonomy-Oriented Helping
+Abstract: Prosocial behaviors can be autonomy-oriented, providing recipients with the means to succeed in future situations but not supplying an immediate solution, or they can be dependency-oriented, providing an immediate solution but not supplying tools for future success. Thus far, consumer research on prosocial behavior has devoted little attention to this distinction. Distinguishing between autonomy- and dependency-oriented prosocial behaviors is important as we show that not all consumers are equally likely to engage in dependency-oriented prosocial behavior. Specifically, we show that growth mindset consumers, who believe that personality is malleable, are less likely to engage in dependency-oriented prosocial behavior compared with fixed mindset consumers, who believe that personality is relatively stable over time. We further show that this relation is mediated by consumers’ autonomous-help orientation, their beliefs about the efficacy of autonomy-oriented help. We propose that more research about dependency- versus autonomy-oriented prosocial behavior is warranted and discuss future research opportunities.
+
+2020: Promoting meaningful and positive nature interactions for visitors to green spaces
+Abstract: The increasing alienation of people from nature is profoundly concerning because people's interactions with nature affect well‐being, affinity for nature, and support of biodiversity conservation. Efforts to restore or enhance people's interactions with nature are, therefore, important to ensure sustainable human and wildlife communities, but little is known about how this can be achieved. A key factor that shapes the way people interact with nature is their affinity for nature (often measured as nature relatedness [NR]). We explored how using cues to experience nature as a means to induce NR situationally can influence the quality of people's nature interactions on visits to green spaces and their positive affect after the visit. Cues to experience are cues that guide individuals on how to interact with nature. We surveyed 1023 visitors to a nature reserve to examine the relationships between trait (i.e., stable and long‐lasting) and state (i.e., temporary, brief) NR, the quality of nature interactions, and positive affect. We also conducted a controlled experiment in which 303 participants spent 30 min outdoors on campus and reported the quality of their nature interactions and positive affect. Participants were randomly assigned to 1 of 9 cues‐to‐experience experimental groups (e.g., smell flowers, observe wildlife, turn off your phone) that differed in the psychological distance from nature that they prompted. Participants who received cues of close psychological distance from nature (e.g., smell and touch natural elements) interacted 3 to 4 times more with nature and reported 0.2 more positive affect than other participants. Our results demonstrate that providing cues to experience nature, which bring people closer to nature and potentially induce state NR, can enhance the quality of people's nature interactions and their positive affect. These results highlight the role of NR in high‐quality nature interactions and suggest the use of cues to experience as a promising avenue for inducing state NR and promoting meaningful interactions with biodiversity, thus, reconciling conservation and well‐being objectives.
+
+2019: Using Personal Values to Understand the Motivational Basis of Amity Goal Orientation
+Abstract: Values are broad motivations that can serve as the basis for goals. We propose that values can be used to understand the motivational basis of amity goal orientation, a prosocial goal orientation within achievement situations. We offer theory and empirical evidence relating personal values to amity goal orientation and other achievement goal orientations. Specifically, the results of three studies and a mini meta-analysis suggest that the prosocial value of benevolence is positively related to amity goal orientation and can be interpreted as the motivational basis of amity goal orientation. Furthermore, power values are positively related to performance-approach goal orientation; self-direction values are positively related to mastery goal orientation, and security values are positively related to performance-avoidance goal orientation. These findings can explain the pattern of correlations previously found among achievement goal orientations, and open up the potential for new research on amity goal orientation as well as other value-based achievement goal orientations.
+
+2019: It takes two to self-disclose: Incremental theorists facilitate others' self-disclosure more than do entity theorists.
+Abstract: OBJECTIVE
+We tested the prediction that incremental theorists are more likely to facilitate others' self-disclosure than are entity theorists.
+
+
+METHOD
+We conducted three studies: (a) a field study that examined client's self-disclosure (N = 122; Mage  = 41.9, 67.8% woman; Israelis) during an intake interview with a professional therapist (N = 38; Mage  = 46.2, 84.20% woman; Israelis), (b) a survey of adults (N = 120; Mage  = 37.14, 57.6% female) who reported self-perceptions and behaviors during conversations and their perceptions of others' self-disclosure. In both studies participants reported their implicit theories, and (c) an experiment (N = 250; Mage  = 28.27, 56.6% female) in which participants whose implicit theories were manipulated reported their opening behaviors during a conversation and their perceptions of others' self-disclosure.
+
+
+RESULTS
+Ones' incremental theory of personality was positively related to another's self-disclosure, to one's opening and disclosure-encouraging behaviors, and was negatively related to one's perceptions of others' self-protection tendency. Furthermore, one's opening behaviors and perceptions of others' self-protection tendencies mediated the effect of one's incremental theory on others' self-disclosure.
+
+
+CONCLUSION
+Those who believe people can grow and change, can influence others to trust their personal information with them, even when the information is negative.
+
+2018: The “Opt-Out” Effect: When the Need to Choose Decreases Donations
+Abstract: None
+
+2018: Pro-Social Goals in Achievement Situations: Amity Goal Orientation Enhances the Positive Effects of Mastery Goal Orientation
+Abstract: Research has neglected the utility of pro-social goals within achievement situations. In this article, four studies demonstrate that amity goal orientation, promoting mutual success of oneself together with others, enhances the utility of mastery goal orientation. We demonstrate this in longitudinally predicting performance (Studies 1 and 2) and in maintaining motivation after a disappointing performance (Studies 3 and 4). The studies demonstrate the same interaction effect in academic and in work achievement contexts. Specifically, whereas amity goal orientation did not predict achievement on its own, it enhanced the positive effect of mastery goal orientation. Together, these studies establish the importance of amity goal orientation while also advancing our understanding of the effects of other achievement goal orientations. We suggest future directions in examining the utility of amity goals in other contexts.
+
+2018: More Than Just a Number: the Negative Effect of 100% Claims
+Abstract: None
+
+2018: Not Just a Number: the Effect of 100% Claims on Consumers
+Abstract: None
+
+2017: The Effect of Information About Previous Donation Impact on Recurring Donations
+Abstract: None
+

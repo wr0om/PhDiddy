@@ -1,0 +1,62 @@
+Recent papers for Alexandrovitz Abraham:
+
+2010: Design of a Robust State Feedback Controller for a STATCOM Using a Zero Set Concept
+Abstract: A static synchronous compensator (STATCOM) is one of the fundamental flexible ac transmission system devices that can be used for voltage regulation and dynamic voltage control. In this paper, a new approach to the problem of the STATCOM state feedback design is presented. The proposed solution technique is based on a zero set concept. It allows one to calculate a complete set of the admissible feedback gains that place closed-loop poles into a prespecified region in the complex plane under parametric uncertainties in the plant model. These uncertainties represent load pattern variations and topological changes due to line tripping. Computational examples show that by using the design technique based on the zero set concept, it is possible to derive the state feedback controllers with better robustness properties than those achieved using the approaches utilizing linear matrix inequalities.
+
+2008: Robust pole placement technique for STATCOM controller design
+Abstract: This paper presents a new method of a voltage controller design for the synchronous static compensator (STACOM). The required performance of the STATCOM is achieved by a robust closed-loop pole placement in a pre-specified region of the complex plane. For this purpose, some ideas from a field of linear matrix inequalities (LMIs) are combined with a zero set concept. The initial state-feedback controller that satisfies the design specifications is obtained solving linear matrix inequalities whereas a complete set of the admissible controller gains is found using zero set calculations. At the final stage, design centering is performed to derive a robust STATCOM voltage controller with maximally possible safety margins.
+
+2007: Modelling and simulation of unsymmetrical supplied three-phase induction motor
+Abstract: A general mathematical model of a three-phase symmetrical induction motor expressed by means of state equations with line-to-line voltages as input variables is presented. Such a model permits the analysis of the dynamic behaviour of the motor supplied with unsymmetrical sinusoidal or non-sinusoidal voltage wave-forms. Simulation programs were written by means of MATLAB/Simulink software package. The presented model was used to simulate transient behaviour of the motor with unsymmetrical supplied voltages and its operation when fed from a symmetrical source (the mains) and from a six-step inverter. A mathematical model representing the induction motor operated with one phase disconnected was developed and simulated. Experimental results were compared with the simulated ones and good resemblance was observed.
+
+2005: Root clustering method for a small-signal stability analysis of power systems
+Abstract: We present a new method of a small-signal stability analysis for power systems with parametric uncertainties in load characteristics. These uncertainties must always be considered in a power system stability assessment since a power demand changes constantly and a precise composition of the electrical loads is usually unknown. The proposed method is based on an iterative algorithm which determines root clustering of a polytope of polynomials in a simply connected domain. It is suitable for an assessment of the electro-mechanical oscillations and dynamical voltage stability of power systems. According to our method stability verification at each iteration step is analytical and requires significantly shorter computation time than other methods available in literature.
+
+2004: Current harmonics analysis of non-linear single-phase loads in a three-phase network
+Abstract: This work presents results of the current harmonics analysis in a three-phase network with nonlinear single-phase loads. In this analysis, typical single-phase nonlinear loads such as computers. monitors and printers, were considered. Simulation results are accompanied with field measurements. A mutual influence of single-phase loads connected in different phases,of the network is studied. Factors having an effect on harmonic content of a neutral conductor current, are investigated in the present work. The causes for the excessive neutral conductor current are explored and the dominant role of the triple harmonics is highlighted.
+
+2000: Dynamical behavior of synchronous generator under various transient conditions
+Abstract: This paper presents a novel investigation tool for the dynamical behavior of a singly operated synchronous generator. The model state equations are based upon Park's flux linkage model. Several transient conditions are shown and discussed.
+
+1997: Single-phase matrix converter
+Abstract: A topology of a single-phase AC/AC direct power converter is presented. The circuit, composed from four ideal power switches, is used as a frequency step-up converter. The equations of the proposed converter are developed, its switching angle pattern is calculated and the dynamic behaviour of the system is simulated. Using a power MOSFET and four Schottky diodes, the basic power switch is assembled and a power converter fed from 50 V (RMS), 50 Hz, supplying a passive R, L load operated at 100 Hz, was constructed. Satisfactory agreement between simulated and laboratory results was observed.
+
+1996: Simulation of three-phase loaded matrix converter
+Abstract: The theory of the three-phase to three-phase matrix converter is dealt with and its switching angles equations are presented. Matrix converter operation is based on the calculated switching angles. Modelling and numerical simulations of converter loaded with passive (R, L) and active (induction motor) loads are performed. Simulation results are presented.
+
+1996: Dynamic investigation and simulation of brushless DC motor
+Abstract: A mathematical model of a brushless DC motor fed by 3-phase PWM inverter is developed in order to analyze and to simulate the dynamic behavior of the motor on a computer in the following conditions: (a) starting; (b) changing of the mechanical load torque; and (c) rotor speed control by changing the fundamental components of the supplied voltages.
+
+1995: Matrix converter-theory and simulation
+Abstract: The theory of three-phase AC/AC converters, known also through their modern name, the matrix converter is presented. Analysis of the three-phase converter loaded by a passive R,L load and by an induction motor follows. The analysis was performed by means of the software package "Simulink", a dynamic system simulation tool. This simulation environment was found suited for straight forward modeling and simulation of the electronic converter and the electric drive. The switching angles needed to control the electronic converter are calculated within the same environment by means of "MATLAB". According to our knowledge this is the first time that such simulations are performed.
+
+1991: Dynamic behaviour of induction motor based on transfer-function approach
+Abstract: The nonlinear equations of a frequency-controlled induction motor in artificial axes are linearized with a view to stability and dynamic analysis of its open-loop operation. Motor response to different voltage/frequency inputs is studied via digital simulation of the original nonlinear equations, and results are analyzed with the aid of transfer functions derived at a series of working points on the basis of the linearized version.<<ETX>>
+
+1989: Speed Control Concept in Closed Loop A.C. Drive Systems
+Abstract: The speed control concept of closed-loop A.C. drive systems comprising current source induction motor is presented. A mathematical model of the squirrel-cage induction motor -- represented through space phasors - is given and its standard state form is obtained by a certain selection of the state variables. Based on this model, the control concept is defined: keeping a constant rotor flux linkage in the motor with bounded slip frequency, and controlling the electromagnetic torque by means of one stator component of the currents space phasor. In accordance with these basic rules, different control strategies are described: slip frequency control (SFC), torque angle control (TAC), synchronous control (SC), field oriented control (FOC) and field acceleration method (FAM). All strategies are accompanied by appropriate schematic block diagrams.
+
+1989: New open-loop starting strategy for line-commutated three-phase bridge inverters in battery storage plants
+Abstract: None
+
+1988: Operating under Different Control Strategies
+Abstract: The paper describes a new general lincar method of controller design for a speed controlled currcnt source induction motor (CSIM), operating under two different control strategies: slip frequency control (SFC) and torque angle control (TAC). The designed controller ensures asymptotic stability and satisfactory dynamic response of the elcctric drive system. Digital simulations of the original non-linear system operating under the two control concepts were carried out, and the validity of the design was confirmed. Results obtained from the electric drive systems controlled by the two schcmes were compared and practical conclusion mentioned.
+
+1988: Controller Design for CSIM Drive Operating Under Slip Frequency Strategy
+Abstract: Abstract Controllers for a speed controlled current source induction motor (CSIM) can be designed by different methods. In the paper a new general linear method for such a drive, operating under the slip frequency control (SFC) concept, is described. Asymptotic stability and satisfactory dynamic response of the electric drive are ensured by the designed controllers. The validity of the proposed design was checked and confirmed by means of digital simulation and laboratory realization of the original drive system. Comparison of simulation and experimental results shows reasonable agreement.
+
+1988: Controller design method for CSIM drives operating under different control strategies
+Abstract: A general linear method is described for controller design for a speed-controlled current-source induction motor (CSIM) operating under two different control strategies: slip frequency control (SFC) and torque angle control (TAC). The designed controller ensures asymptotic stability and satisfactory dynamic response of the electric drive system. Digital simulations of the original nonlinear system operating under the two control concepts were carried out, and the validity of the design was confirmed. Results obtained from the electric drive systems controlled by the two schemes were compared and practical conclusion mentioned.<<ETX>>
+
+1987: Space-phasor model of a three-phase induction motor with a view to digital simulation
+Abstract: None
+
+1987: Determination of instability range of a frequency-controlled three-phase induction motor fed through series capacitors
+Abstract: None
+
+1986: Three-phase static Var compensator with reduced energy storage
+Abstract: None
+
+1986: Determination of Commutation Sequence with a View to Eliminating Harmonics in Microprocessor-Controlled PWM Voltage Inverter
+Abstract: The commutation pattern of PWM inverters operated under elimination of harmonics and control of the fundamental wave amplitude is highly complex. The sequences determined by the proposed method permit control of the harmonic amplitudes of a single-phase and a three-phase inverter. A microcomputer (8085 CPU)¿controlled three-phase unit embodying this principle is described. It is designed for a three-phase output voltage in the 1-45 Hz interval with the 5th, 7th, and 11th harmonics eliminated, and with the fundamental wave amplitude proportional to the output frequency.
+

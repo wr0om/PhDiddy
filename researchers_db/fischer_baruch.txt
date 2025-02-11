@@ -1,0 +1,62 @@
+Recent papers for Fischer Baruch:
+
+2022: Fe b 20 05 Critical Behavior of Light
+Abstract: Light is shown to exhibit critical and tricritical behavior in passive mode-locked lasers with externally injected pulses. It is a first and unique example of critical phenomena in a one-dimensional many body light-mode system. The phase diagrams consist of regimes with continuous wave, driven para-pulses, spontaneous pulses via mode condensation, and heterogeneous pulses, separated by phase transition lines which terminate with critical or tricritical points. Enhanced nongaussian fluctuations and collective dynamics are observed at the critical and tricritical points, showing a mode system analog of the critical opalescence phenomenon. The critical exponents are calculated and shown to comply with the mean field theory, which is rigorous in the light system.
+
+2022: Mysterious frequency combs in erbium-doped fiber lasers at low temperatures
+Abstract: We report on the observation of puzzling nonuniform, but ordered, frequency combs in erbium-doped fiber lasers at low temperatures, between 3 K and 14 K. At ~14 K the combs disappear. The combs contain ~240 lines and have nonuniform frequency spacings that starts from ~25 GHz at ~1540.5 nm and decreases, almost monotonically, to ~100 MHz within (1.8-2) nm . We discuss possibilities that they result from enlarged regular mode-comb spacings, from prime numbers-based solitary waves free of four-wave mixing or result from gain gratings. However, we think that the combs originate from multi-lasing lines allowed in inhomogeneous gain broadening, dominant at low temperatures, together with a small power dependent homogeneous broadening part, responsible for the spacing between the lines.
+
+2021: Bose-Einstein condensation of photons in a long fiber cavity.
+Abstract: We demonstrate photon Bose-Einstein condensation (photon-BEC) at a broad temperature range that is valid also in the long 1D fiber cavity limit. It is done with an erbium-ytterbium co-doped fiber (EYDF) cavity by overcoming the challenging requirement of sublinear light dispersion for BEC in 1D using a chirped-gratings Fabry-Perot. We experimentally show with a square-root mode-dispersion, a quadratic temperature dependence of the critical power for condensation (compared to a linear dependence in finite regular fiber-cavities) between 90 K and 382 K, as the theory predicts.
+
+2020: Nonlinear light mode dispersion and nonuniform mode comb by a Fabry-Perot with chirped fiber gratings.
+Abstract: We demonstrate a nonlinear light mode dispersion and a nonuniform frequency mode comb by a chirped fiber Bragg gratings (CFBG) Fabry-Perot (FP) at the 1550 nm wavelength regime. We give analytical expressions for the general chirp case, and an experimental demonstration with a linear chirp, showing a square-root dependence of the dispersion as a function of the FP mode number. Such sublinear dispersion is required, for example, for photon Bose-Einstein condensation (BEC) in a one-dimensional (1D) system like fiber cavities.
+
+2019: Bose–Einstein condensation of photons in an erbium–ytterbium co-doped fiber cavity
+Abstract: None
+
+2019: Tuning, selecting and switching wavelengths in lasers with chirped and sampled fiber Bragg gratings by high-order mode-locking
+Abstract: None
+
+2017: Thermal equilibrium of photons and lasing without an overall inversion in standard erbium-doped fibers
+Abstract: We show thermal-equilibrium (TE) and Bose-Einstein distribution of photons in standard erbium — doped fibers. We also find a coexistence of TE with oscillation without an overall inversion that can be attributed to lasing or BEC.
+
+2017: Bistability in a ring erbium-doped fiber laser due to ejected backward amplified spontaneous emission
+Abstract: We show and identify the role of the backward amplified spontaneous emission (ASE) in inducing bistability and hysteresis in a unidirectional ring erbium-doped fiber (edf) laser. It results from the interplay between the signal and the backward ASE in the gain medium that is ejected from the fiber loop by an isolator. A removal of the isolator eliminates the bistability. Another important factor is the strong wavelength dependence of the absorption and emission coefficients and their ratio.
+
+2017: Wavelength switchable fiber laser with sampled fiber Bragg grating reflectors by mode-locking frequency
+Abstract: We present a wavelength selectable actively mode-locked ring fiber laser. We used for the reflection sampled fiber Bragg gratings (SFBG) with 25GHz spacing and high harmonic mode-locking frequency modulation. The method includes successive SFBGs mirrors with different reflecting wavelengths, each SFBG determines a different cavity length and therefore a different modulation frequency. The selection of the wavelengths is performed by applying the corresponding frequency.
+
+2017: Thermal equilibrium of photons and lasing without an overall inversion in standard erbium-doped fibers
+Abstract: Contrary to what is commonly accepted in lasers, we show that photons in standard erbium-doped fibers (edf) and lasers can be in thermal equilibrium and show lasing without an overall population inversion. The thermalization with Bose-Einstein spectra is found in edf cavities and even in open fibers in a broad spectral range up to ∼200nm at the 1550nm wavelength regime. We also find in the edf cavities coexistence of thermal-equilibrium with oscillation without an overall inversion that can be attributed to lasing or Bose-Einstein condensation (BEC). The experimental results are supported by a theoretical analysis based on the rate equations.
+
+2016: Thermalization of one-dimensional photon gas and thermal lasers in erbium-doped fibers.
+Abstract: We demonstrate thermalization and Bose-Einstein (BE) distribution of photons in standard erbium-doped fibers (edf) in a broad spectral range up to ~200nm at the 1550nm wavelength regime. Our measurements were done at a room temperature ~300K and 77K. It is a special demonstration of thermalization of photons in fiber cavities and even in open fibers. They are one-dimensional (1D), meters-long, with low finesse, high loss and small capture fraction of the spontaneous emission. Moreover, we find in the edf cavities coexistence of thermal-equilibrium (TE) and thermal lasing without an overall inversion (T-LWI). The experimental results are supported by a theoretical analysis based on the rate equations.
+
+2016: Noise-mediated Casimir-like pulse interaction mechanism in lasers
+Abstract: Strongly pumped mode-locked lasers often form pulse bunches. Although several mechanisms of pulse interaction are known, none yields the experimentally observed long-range attraction. Here we demonstrate theoretically and experimentally a new pulse interaction mechanism mediated by the continuum noise floor that is a universal feature in multipulse passively mode-locked lasers. Long-range attraction is facilitated by the depletion of the gain by the pulses, leading to an inhomogeneous noise floor that biases the timing jitter of the pulses and produces an effective interpulse potential with stable pulse bunch configurations. The pulses attract by suppressing electromagnetic fluctuations, as do conductors in the Casimir effect of quantum electrodynamics. This enables manipulation and design of multipulse waveforms to ultimately make them useful for application of mode-locked lasers.
+
+2016: Breaking two laser axioms: Lasing without inversion and thermal equilibrium
+Abstract: None
+
+2015: CW laser light condensation
+Abstract: We present a first experimental demonstration of classical CW laser condensation in the frequency (mode) domain. It also sheds light on the general question of photon-BEC (Bose-Einstein condensation) in laser cavities.
+
+2014: Classical condensation of light pulses in a loss trap in a laser cavity
+Abstract: We present an experimental demonstration of condensation in a many-light-pulse system in a loss trap (loss well) in a one-dimensional laser cavity. The route to condensation is similar to Bose–Einstein condensation in a potential trap (potential well), but classical. The pulses, their loss levels, and the noise-induced power distribution take the role of “particles”, “energy” levels, and quantum-thermal population-statistics, respectively. The multipulse system is formed by high harmonic active mode-locking modulation and the trap by an envelope modulation. The experiment is done with an erbium-doped fiber laser. Condensation is shown to occur when the loss trap has near the lowest-loss pulse a power law dependence with exponent smaller than 1, as the theory predicts.
+
+2013: Realization of multi-dimensional laser mode combs by an actively mode-locked fiber-laser
+Abstract: Summary form only given. Ultra-short pulses with durations that can reach the few femto-seconds regime are mostly obtained by passive mode-locked (PML) lasers [1]. Active mode-locking (AML) is another way to achieve short pulses, generally with longer durations compared to PML. In the theory of active-mode-locking, the modulation causes every axial mode to inject power into adjacent modes [1]. From a physical perspective, this process can be viewed as an effective mode-mode interaction, resembling the spin-spin interaction in magnetic systems. A mathematical analogy can be drawn [2,3] between AML lasers and magnetic spin systems in the spherical model [4], where the axial modes of the laser are mapped to the magnetic spins. In this theory, the optical noise takes the role of temperature and the pulse amplitude is mapped to the magnetic spin.
+
+2013: Laser mode hyper-combs
+Abstract: We present a first realization of effective multi-dimensional laser mode-combs (hyper-combs), constructed by multi-frequency active mode-locking, mapped to the multi-dimensional spherical-model in statistical-mechanics (and provide its rare physical realization) with implications to ultrashort light-pulse generation.
+
+2013: Many-Body Photonics
+Abstract: Researchers are using statistical mechanics to uncover thermodynamic-like properties in optical systems. This unique research direction could have far-reaching implications for photonics.
+
+2013: Entropy and Order in a Cavity MANY-BODY PHOTONICS
+Abstract: None
+
+2013: Laser light condensation phenomenon
+Abstract: The interesting question if and how can Bose-Einstein condensation (BEC) occur with photons has received a boost by a recent experiment that reported on the observation of photon-BEC condensation in an optical microcavity [1]. Here we present a different laser light condensation (LC) phenomenon [2], while discussing and questioning the meaning and the possibility to observe thermal photon-BEC in laser cavities. LC is a classical condensation effect that is based on very different grounds than the regular BEC. Its “energy” levels are measured in a loss-gain scale inherent in laser cavities, where the “ground-state” is the lowest-loss mode, and noise has the role of temperature. The loss scale gives a power occupation hierarchy and power spectra similar to Bose-Einstein statistics with an effective chemical potential parameter and eventually laser light-condensation (LC) which is formally very similar to BEC in a potential-well [3].
+
